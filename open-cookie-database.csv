@@ -84,6 +84,7 @@ Facebook browser identification, authentication, marketing, and other Facebook-s
 256c7f04-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,locale,facebook.com (3rd party),"This cookie contains the display locale of the last logged in user on this browser. This cookie
 appears to only be set after the user logs out.
 The locale cookie has a lifetime of one week.",7 days,Facebook,https://www.facebook.com/about/privacy/
+0d249cd5-ae35-4dbb-ad00-d5ca46948619,Facebook,Marketing,_fbp,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,4 months,Facebook,https://www.facebook.com/about/privacy/
 256c803a-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,sb,facebook.com (3rd party),Used by Facebook to improve friend suggestions,2 years,Facebook,https://www.facebook.com/about/privacy/
 256c8170-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,js_ver,facebook.com (3rd party),Records the age of Facebook javascript files.,7 days,Facebook,https://www.facebook.com/about/privacy/
 256c82a6-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,rc,facebook.com (3rd party),Used to optimize site performance for advertisers,7 days,Facebook,https://www.facebook.com/about/privacy/
