@@ -51,7 +51,7 @@ Reference: https://support.google.com/analytics/answer/7486764?hl=en",30 seconds
 Contents: User ID and miscellaneous log in information (e.g., number of logins per account, state of the ""remember me"" check box, etc.)",2 year,Facebook,https://www.facebook.com/about/privacy/,false
 256c61a4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,xs,facebook.com (3rd party),"Used in conjunction with the c_user cookie to authenticate your identity to Facebook.
 
-Contents: Session ID, creation time, authentication value, secure session state, caching group ID",90 days,Facebook,https://www.facebook.com/about/privacy/
+Contents: Session ID, creation time, authentication value, secure session state, caching group ID",90 days,Facebook,https://www.facebook.com/about/privacy/,false
 256c62da-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,c_user,facebook.com (3rd party),"Used in conjunction with the xs cookie to authenticate your identity to Facebook.
 
 Contents: User ID",90 days,Facebook,https://www.facebook.com/about/privacy/,false
