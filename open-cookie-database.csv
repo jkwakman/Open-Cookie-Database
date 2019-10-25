@@ -266,3 +266,6 @@ d4f501a2-e9c3-4be3-b8d4-e30a51084fae,Funda,Marketing,DG_ZID,funda.nl,"Pending",3
 4951c825-94b4-404e-bffd-1981fb6a8d5c,LiveZilla GmbH,Functional,"lz_last_visit","Advertiser's website domain","Last Visit (Timestamp), used to determine when the website visitor browsed the website the last time.",1 Year,LiveZilla GmbH,N/A,0
 d435d501-cf43-45cd-b884-2187e778da1a,LiveZilla GmbH,Functional,"lz_userid","Advertiser's website domain","Sets up a unique ID which is used to generate statistical data about the website visitor's usage of the website.",1 Year,LiveZilla GmbH,N/A,0
 fd1b3efb-9261-4797-9a8b-91cfcf43ebfc,LiveZilla GmbH,Functional,"lz_visits","Advertiser's website domain","Number of visits, is used to identify how often the website visitor already visited the website.",1 Year,LiveZilla GmbH,N/A,0
+90074925-d0e8-48fa-9279-a0f771a48c86,AFAS,Functional,".secureclient","Advertiser's website domain","Pending",Session,AFAS,N/A,0
+8613148a-96ca-4445-9499-1d5d11d98b71,AFAS,Functional,".securesession","Advertiser's website domain","Pending",Session,AFAS,N/A,0
+6063bbe4-245f-458f-95fb-724c23948e40,AFAS,Functional,".stateflags","Advertiser's website domain","Pending",Session,AFAS,N/A,0
