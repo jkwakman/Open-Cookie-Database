@@ -254,7 +254,9 @@ f694cf95-6ec9-480b-bc57-4b313af355ca,AddThis,Functional,__atuvc,.addthis.com,"Ad
 65d973fb-dad5-4cf1-8be3-facefbe1b3f6,AddThis,Functional,__atuvs,.addthis.com,"This cookie is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms.",2 years,AddThis,https://www.addthis.com/privacy,0
 9bb09dae-7b45-4284-80a2-77f61a58fb07,AddThis,Functional,loc,.addthis.com,"Visitor location.",2 years,AddThis,https://www.addthis.com/privacy,0
 b20180a1-31c8-4e4a-bc3f-8d59f8a128fe,AddThis,Functional,uvc,.addthis.com,"Visitor location.",2 years,AddThis,https://www.addthis.com/privacy,0
-d551492a-e705-4759-9566-808218724e68,Funda,Marketing,DG_HID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
+d551492a-e705-4759-9566-808218724e68,Funda,Marketing,80cb67ec-857a-4ed2-829b-323780e7b488,Picreel,Analytics,"picreel_tracker__visited","Advertiser's website domain","Used for statistical purposes when counting the number of pages, the user visited",Unlimited,Picreel,N/A,0
+81e2981c-f698-40c1-86b1-45f4405c9a9e,Picreel,Analytics,"picreel_tracker__first_visit","Advertiser's website domain","Used for statistical purposes, keeping the date of the first visit",Unlimited,Picreel,N/A,0
+42b33d4f-cd26-4984-a683-5556786bf586,Picreel,Analytics,"picreel_tracker__page_views","Advertiser's website domain","Pending",Unlimited,Picreel,N/A,0DG_HID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
 e9e26b83-2484-4d51-8f15-2affa14294ef,Funda,Marketing,DG_IID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
 01302635-dea4-4f63-a38c-ad27df980f33,Funda,Marketing,DG_SID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
 5d04307b-018d-455c-915c-3b6f69b41a75,Funda,Marketing,DG_UID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
@@ -273,3 +275,6 @@ a1d65bda-06df-4141-93ea-84a399c0f0d2,AFAS,Functional,".auth","Advertiser's websi
 c5eb2700-0b5c-4260-a3e4-1940122bb3d5,Adxcore,Marketing,"advst_uid_11",".adxcore.com","Pending",6 months,Adxcore,N/A,0
 80264006-f818-41e1-b9a5-88466efc156f,Adxcore,Marketing,"DISPATCHER","dispatcher.adxcore.com","Pending",6 months,Adxcore,N/A,0
 abc72578-7e9d-4293-bdf2-30aafb9cd155,Fidelity-media.com,Marketing,"DSP_UID","fidelity-media.com","Pending",9 days,Fidelity-media.com,N/A,0
+80cb67ec-857a-4ed2-829b-323780e7b488,Picreel,Analytics,"picreel_tracker__visited","Advertiser's website domain","Used for statistical purposes when counting the number of pages, the user visited",Unlimited,Picreel,N/A,0
+81e2981c-f698-40c1-86b1-45f4405c9a9e,Picreel,Analytics,"picreel_tracker__first_visit","Advertiser's website domain","Used for statistical purposes, keeping the date of the first visit",Unlimited,Picreel,N/A,0
+42b33d4f-cd26-4984-a683-5556786bf586,Picreel,Analytics,"picreel_tracker__page_views","Advertiser's website domain","Pending",Unlimited,Picreel,N/A,0
