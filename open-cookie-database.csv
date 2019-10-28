@@ -276,3 +276,7 @@ abc72578-7e9d-4293-bdf2-30aafb9cd155,Fidelity-media.com,Marketing,"DSP_UID","fid
 80cb67ec-857a-4ed2-829b-323780e7b488,Picreel,Analytics,"picreel_tracker__visited","Advertiser's website domain","Used for statistical purposes when counting the number of pages, the user visited",Unlimited,Picreel,N/A,0
 81e2981c-f698-40c1-86b1-45f4405c9a9e,Picreel,Analytics,"picreel_tracker__first_visit","Advertiser's website domain","Used for statistical purposes, keeping the date of the first visit",Unlimited,Picreel,N/A,0
 42b33d4f-cd26-4984-a683-5556786bf586,Picreel,Analytics,"picreel_tracker__page_views","Advertiser's website domain","Pending",Unlimited,Picreel,N/A,0
+e35dbf4a-7ee6-4f3a-bda3-f7ff5856e036,Trustpilot,Analytics,"__auc",".trustpilot.com","Used to track and report information to the Alexa analytics",1 year,Trustpilot,N/A,0
+e827d57f-a6a5-404e-93d5-a466bd7eb682,Trustpilot,Analytics,"ajs_user_id",".trustpilot.com"," This cookie helps track visitor usage, events, target marketing, and can also measure application performance and stability.",1 year,Trustpilot,N/A,0
+881eb924-e16c-4edc-8b17-1914f91ae1ea,Trustpilot,Analytics,"ajs_anonymous_id",".trustpilot.com","Used for Analytics and help count how many people visit a certain site by tracking if you have visited before",1 year,Trustpilot,N/A,0
+0930be02-cc2d-4b7a-9372-ae132342204e,Trustpilot,Analytics,"ajs_group_id",".trustpilot.com","Track visitor usage and events within the website",1 year,Trustpilot,N/A,0
