@@ -361,3 +361,10 @@ fd44eae9-cc04-457f-a33d-2f0e074b4f30,Magento,Functional,product_data_storage,"Ad
 b6467864-6873-4c36-8ddd-deca2b4aa287,Magento,Functional,recently_compared_product_previous,"Advertiser's website domain","Stores product IDs of previously compared products for easy navigation.",session,Magento,N/A,0
 1b537c1f-2ecc-4dd5-aad2-9646e6e28e88,Magento,Functional,recently_viewed_product,"Advertiser's website domain","Stores product IDs of recently viewed products for easy navigation.",session,Magento,N/A,0
 08649653-410d-4184-8f6d-b5b2d278dad4,Magento,Functional,recently_viewed_product_previous,"Advertiser's website domain","Stores product IDs of recently previously viewed products for easy navigation.",session,Magento,N/A,0
+a6e668bc-85c4-454b-a115-2aa7847ed0ff,Magento,Functional,user_allowed_save_cookie,"Advertiser's website domain","Indicates if a customer is allowed to use cookies.",session,Magento,N/A,0
+1ce46e4a-1754-4d20-a201-e586ffd2a691,Magento,Functional,external_no_cache,"Advertiser's website domain","A flag that indicates if caching is disabled.",session,Magento,N/A,0
+80630716-3fa3-40ff-b32b-d620997cb32f,Magento,Functional,persistent_shopping_cart,"Advertiser's website domain","Stores the key (ID) of persistent cart to make it possible to restore the cart for an anonymous shopper.",session,Magento,N/A,0
+5d6fd130-4012-495d-bee2-6cb888a61b43,Magento,Functional,stf,"Advertiser's website domain","Records the time messages are sent by the SendFriend (Email a Friend) module.",session,Magento,N/A,0
+7650d8d8-186d-4fd7-9299-c2289831cd34,Magento,Functional,pollN,"Advertiser's website domain","A poll ID that indicates if a vote has occurred.",session,Magento,N/A,0
+ea02f0e9-d66b-4db5-8076-04bf103b261e,Magento,Functional,frontend,"Advertiser's website domain","Session ID",session,Magento,N/A,0
+6ace7772-0576-4a56-b17a-bce66edf805c,Magento,Functional,guest-view,"Advertiser's website domain","Allows guests to edit their orders.",session,Magento,N/A,0
