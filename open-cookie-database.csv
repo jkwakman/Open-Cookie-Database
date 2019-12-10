@@ -368,3 +368,4 @@ a6e668bc-85c4-454b-a115-2aa7847ed0ff,Magento,Functional,user_allowed_save_cookie
 7650d8d8-186d-4fd7-9299-c2289831cd34,Magento,Functional,pollN,"Advertiser's website domain","A poll ID that indicates if a vote has occurred.",session,Magento,N/A,0
 ea02f0e9-d66b-4db5-8076-04bf103b261e,Magento,Functional,frontend,"Advertiser's website domain","Session ID",session,Magento,N/A,0
 6ace7772-0576-4a56-b17a-bce66edf805c,Magento,Functional,guest-view,"Advertiser's website domain","Allows guests to edit their orders.",session,Magento,N/A,0
+16c7e05b-b046-4342-8157-d49b053a1a83,PowerLinks Media Limited,Marketing,dsps:,px.powerlinks.com,"Service to display targeted advertising to visitors.",90 days,PowerLinks Media Limited,https://www.powerlinks.com/privacy-policy/,1
