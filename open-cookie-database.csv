@@ -415,3 +415,8 @@ d06b6423-c8fc-4ddb-9fe0-b0afd15e06f4,Optimizely,Marketing,optimizelyRedirectData
 037e4ca1-426a-42ca-bf61-a58649bf439f,Ortec,Marketing,app_ts,"adscience.nl","Used by adscience.nl to display remarketing campaigns.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 c35002d1-f451-4451-83b0-d255e6474439,Ortec,Marketing,viewer,"adscience.nl","Used by adscience.nl to measure visitor numbers and information and use it to optimize marketing campaigns.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 f2856634-3da6-4b8d-a671-d057c0964724,LiveRamp,Marketing,euconsent,"faktor.io","Cookie compliance check",1 year,LiveRamp,https://liveramp.com/privacy/,0
+0538ac53-d35f-4870-ac7d-4244feb01845,Wix.com,Functional,SSR-caching,"wix.com","Indicates how a site was rendered",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
+41a4b6b6-ec46-45a3-a4b8-5caffe6d617c,Wix.com,Functional,smSession,"wix.com","Identifies logged in site members",2 weeks,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
+a67e35d5-c52e-49f2-a9d2-e2591b545a75,Wix.com,Marketing,svSession,"wix.com","Identifies unique visitors and tracks a visitor’s sessions on a site",2 years,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
+1a8e2bc9-8c16-4a23-b595-ad4ba2b05411,Wix.com,Functional,ForceFlashSite,"wix.com","When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
+afde4912-510e-4f52-ac39-f58977720637,Wix.com,Functional,hs,"wix.com","Security",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
