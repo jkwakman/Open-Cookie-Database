@@ -427,22 +427,22 @@ a55ceb63-c236-476a-ac80-622185b9fd99,Shopify.com,Functional,Cart,"shopify.com","
 1adc0de6-347c-4644-9286-f48d77057b25,Shopify.com,Functional,cart_ts,"shopify.com","Used in connection with checkout.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
 2959eef0-4fba-49a3-a22b-30e43dea2007,Shopify.com,Functional,checkout_token,"shopify.com","Used in connection with checkout.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
 2c989391-974d-4c35-9b73-4912cf582ffa,Shopify.com,Functional,Secret,"shopify.com","Used in connection with checkout.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
-8b7d64a9-54a7-4d2c-a077-86587e85d35f,Shopify.com,Functional,Secure_customer_sig,"Used in connection with customer login.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-18e3c28a-7585-4cb9-8845-a619b9b71017,Shopify.com,Functional,storefront_digest,"Used in connection with customer login.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-7716fa22-1d62-4d6b-bfd3-814e4d30f14f,Shopify.com,Functional,_shopify_u,"Used to facilitate updating customer account information.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-760cc429-de7d-44a7-a11d-2eca02a2d9eb,Shopify.com,Marketing,_tracking_consent,"Tracking preferences.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-c81f44f1-fb14-4aa3-834f-a10447fc715a,Shopify.com,Marketing,_landing_page,"Track landing pages.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-7f922608-e85b-45a4-9a31-64fa41a8b965,Shopify.com,Marketing,_orig_referrer,"Track landing pages.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-8ed5c4ec-4aa5-4853-b7a4-72c54c14e0a4,Shopify.com,Analytics,_s,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-063c5294-d06d-4e73-8917-fe1c390c751e,Shopify.com,Analytics,_shopify_fs,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-e88d4aea-74d1-4df9-9eec-7d928cba8c4e,Shopify.com,Analytics,_shopify_s,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-ef374e82-caae-481e-be44-ebea7d4250bd,Shopify.com,Marketing,_shopify_sa_p,"Shopify analytics relating to marketing & referrals.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-8279d951-4d14-46a1-9bd5-b08e671f0769,Shopify.com,Marketing,_shopify_sa_t,"Shopify analytics relating to marketing & referrals.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-4a77a115-2912-4bbe-85b9-5f534afddcc2,Shopify.com,Analytics,_shopify_uniq,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-55a7eed1-ee8a-48a9-831a-cbbe7c3c9e22,Shopify.com,Analytics,_shopify_visit,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-32a91d61-9233-4206-8db6-385480315088,Shopify.com,Analytics,_shopify_y,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-a9556aff-c7cc-4052-b13c-31f9a147eded,Shopify.com,Analytics,_y,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-775b8d74-3e73-4ade-aa73-c81ad28aa1b4,Shopify.com,Analytics,tracked_start_checkout,"Shopify analytics relating to checkout.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-4cc88769-7b2e-4cc2-acad-10321338f2a2,Shopify.com,Analytics,ki_r,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-f1ce8887-198b-4102-9e61-404f0916aaff,Shopify.com,Analytics,ki_t,"Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
-8cc5567a-f7ba-4f12-b061-e702d1982dbf,Shopify.com,Analytics,_Brochure_session,"Used in connection with browsing through site.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+8b7d64a9-54a7-4d2c-a077-86587e85d35f,Shopify.com,Functional,Secure_customer_sig,"shopify.com","Used in connection with customer login.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+18e3c28a-7585-4cb9-8845-a619b9b71017,Shopify.com,Functional,storefront_digest,"shopify.com","Used in connection with customer login.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+7716fa22-1d62-4d6b-bfd3-814e4d30f14f,Shopify.com,Functional,_shopify_u,"shopify.com","Used to facilitate updating customer account information.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+760cc429-de7d-44a7-a11d-2eca02a2d9eb,Shopify.com,Marketing,_tracking_consent,"shopify.com","Tracking preferences.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+c81f44f1-fb14-4aa3-834f-a10447fc715a,Shopify.com,Marketing,_landing_page,"shopify.com","Track landing pages.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+7f922608-e85b-45a4-9a31-64fa41a8b965,Shopify.com,Marketing,_orig_referrer,"shopify.com","Track landing pages.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+8ed5c4ec-4aa5-4853-b7a4-72c54c14e0a4,Shopify.com,Analytics,_s,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+063c5294-d06d-4e73-8917-fe1c390c751e,Shopify.com,Analytics,_shopify_fs,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+e88d4aea-74d1-4df9-9eec-7d928cba8c4e,Shopify.com,Analytics,_shopify_s,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+ef374e82-caae-481e-be44-ebea7d4250bd,Shopify.com,Marketing,_shopify_sa_p,"shopify.com","Shopify analytics relating to marketing & referrals.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+8279d951-4d14-46a1-9bd5-b08e671f0769,Shopify.com,Marketing,_shopify_sa_t,"shopify.com","Shopify analytics relating to marketing & referrals.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+4a77a115-2912-4bbe-85b9-5f534afddcc2,Shopify.com,Analytics,_shopify_uniq,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+55a7eed1-ee8a-48a9-831a-cbbe7c3c9e22,Shopify.com,Analytics,_shopify_visit,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+32a91d61-9233-4206-8db6-385480315088,Shopify.com,Analytics,_shopify_y,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+a9556aff-c7cc-4052-b13c-31f9a147eded,Shopify.com,Analytics,_y,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+775b8d74-3e73-4ade-aa73-c81ad28aa1b4,Shopify.com,Analytics,tracked_start_checkout,"shopify.com","Shopify analytics relating to checkout.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+4cc88769-7b2e-4cc2-acad-10321338f2a2,Shopify.com,Analytics,ki_r,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+f1ce8887-198b-4102-9e61-404f0916aaff,Shopify.com,Analytics,ki_t,"shopify.com","Shopify analytics.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+8cc5567a-f7ba-4f12-b061-e702d1982dbf,Shopify.com,Analytics,_Brochure_session,"shopify.com","Used in connection with browsing through site.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
