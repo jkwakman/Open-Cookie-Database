@@ -487,3 +487,4 @@ bf0017c3-9d7d-4f2b-b723-1bedc5938f3c,Vimeo,Analytics,vuid,"vimeo.com","This firs
 bd57513e-37b1-4467-a3de-8eeb47afce76,Vimeo,Functional,Player,"vimeo.com","This first party cookie created by Vimeo is used to remember user’s player mode preferences.",1 minute,Vimeo,https://vimeo.com/cookie_policy,0
 8a90cba6-c361-4513-b33c-509aec12d1a9,Stripe,Functional,__stripe_mid,"stripe.com","Fraud prevention and detection",1 year,Stripe,https://stripe.com/en-nl/privacy,0
 123902bd-1664-4dbf-9af5-50b1d3ebf1bb,Stripe,Functional,__stripe_sid,"stripe.com","Fraud prevention and detection",30 minutes,Stripe,https://stripe.com/en-nl/privacy,0
+f729f681-c576-47d5-92b1-7ca7964fd869,Snapwidget,Functional,_gat_pro,"snapwidget.com","Allows Snapwidget to offer anonymous analytics about how the visitors are using your widgets",24 hours,Snapwidget,https://snapwidget.com/privacy,0
