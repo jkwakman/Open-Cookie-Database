@@ -89,7 +89,6 @@ Facebook browser identification, authentication, marketing, and other Facebook-s
 appears to only be set after the user logs out.
 The locale cookie has a lifetime of one week.",7 days,Facebook,https://www.facebook.com/about/privacy/,0
 0d249cd5-ae35-4dbb-ad00-d5ca46948619,Facebook,Marketing,_fbp,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,4 months,Facebook,https://www.facebook.com/about/privacy/,0
-256c803a-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,sb,facebook.com (3rd party),Used by Facebook to improve friend suggestions,2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c8170-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,js_ver,facebook.com (3rd party),Records the age of Facebook javascript files.,7 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c82a6-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,rc,facebook.com (3rd party),Used to optimize site performance for advertisers,7 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c84f4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,campaign_click_url,facebook.com (3rd party),Records the Facebook URL that an individual landed on after clicking on an ad promoting Facebook,30 days,Facebook,https://www.facebook.com/about/privacy/,0
@@ -211,7 +210,6 @@ f78cbb95-bec5-45b9-ab35-9e42cf2be030,Outbrain,Marketing,obuid,outbrain.com,"Hold
 fc53bc46-9df5-4e94-8618-2fa8ca94498b,Outbrain,Marketing,apnxs,outbrain.com,"This cookie is set by Outbrain and it is used to analyse technical data about the website",4 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
 aa525714-6b3d-42f8-9160-8eaa01c55ec3,Outbrain,Marketing,criteo,outbrain.com,"This cookie is set by Outbrain and it is used to analyse technical data about the website",1 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
 db53d42b-a997-49ac-84be-4cd287f6e603,Outbrain,Marketing,mdfrc,outbrain.com,"This cookie is set by Outbrain and it is used to analyse technical data about the website",4 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
-851dc0af-95eb-49e2-8d86-4a34e553c9a3,Outbrain,Marketing,obuid,outbrain.com,"This cookie is set by Outbrain (analytics tool). It holds the anonymous user’s ID and it is used to understand what links and buttons are clicked on.",4 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
 87e730d9-e70f-4e85-ab6d-fae050199bab,Outbrain,Marketing,adrl,outbrain.com,"This cookie is set by Outbrain and it is used to analyse technical data about the website",4 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
 82d5e8f5-6990-47c7-9c6c-c85730aa6021,Outbrain,Marketing,ttd,outbrain.com,"This cookie is set by Outbrain and it is used to analyse technical data about the website",4 months,Outbrain,https://www.outbrain.com/legal/privacy#privacy-policy,0
 46949a58-d46d-4ae5-9a02-983a7ce8c9e4,justpremium.com,Marketing,jpxumaster,justpremium.com,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",1 month,JustPremium,https://justpremium.com/terms-conditions/,0
@@ -271,10 +269,6 @@ d9afbac4-6c81-4ecf-9021-f7925c4e4f1d,AddThis,Functional,loc,.addthis.com,"AddThi
 c8493aa7-62c1-40b5-b1ff-cf843fb28dd9,AddThis,Functional,na_id,.addthis.com,"AddThis - Cookie related to an AddThis sharing button available on the website",2 years,AddThis,https://www.addthis.com/privacy,0
 2f732a30-91ed-40ab-8701-13a50a973509,AddThis,Functional,na_tc,.addthis.com,"AddThis - Cookie related to an AddThis sharing button available on the website",2 years,AddThis,https://www.addthis.com/privacy,0
 312d83c5-a57f-4848-a531-3b27ad555a60,AddThis,Functional,ouid,.addthis.com,"AddThis - Cookie related to an AddThis sharing button available on the website",2 years,AddThis,https://www.addthis.com/privacy,0
-f694cf95-6ec9-480b-bc57-4b313af355ca,AddThis,Functional,__atuvc,.addthis.com,"AddThis - Cookie related to an AddThis sharing button available on the website",2 years,AddThis,https://www.addthis.com/privacy,0
-65d973fb-dad5-4cf1-8be3-facefbe1b3f6,AddThis,Functional,__atuvs,.addthis.com,"This cookie is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms.",2 years,AddThis,https://www.addthis.com/privacy,0
-9bb09dae-7b45-4284-80a2-77f61a58fb07,AddThis,Functional,loc,.addthis.com,"Visitor location.",2 years,AddThis,https://www.addthis.com/privacy,0
-b20180a1-31c8-4e4a-bc3f-8d59f8a128fe,AddThis,Functional,uvc,.addthis.com,"Visitor location.",2 years,AddThis,https://www.addthis.com/privacy,0
 5bf92cdc-06f1-4ff6-a7f8-9bf890eeac96,Funda,Marketing,DG_HID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
 e9e26b83-2484-4d51-8f15-2affa14294ef,Funda,Marketing,DG_IID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
 01302635-dea4-4f63-a38c-ad27df980f33,Funda,Marketing,DG_SID,funda.nl,"Pending",30 days,Funda,https://www.funda.nl/privacybeleid/consument/,0
