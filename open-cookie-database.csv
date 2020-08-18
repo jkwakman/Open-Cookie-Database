@@ -488,3 +488,7 @@ bd57513e-37b1-4467-a3de-8eeb47afce76,Vimeo,Functional,Player,"vimeo.com","This f
 8a90cba6-c361-4513-b33c-509aec12d1a9,Stripe,Functional,__stripe_mid,"stripe.com","Fraud prevention and detection",1 year,Stripe,https://stripe.com/en-nl/privacy,0
 123902bd-1664-4dbf-9af5-50b1d3ebf1bb,Stripe,Functional,__stripe_sid,"stripe.com","Fraud prevention and detection",30 minutes,Stripe,https://stripe.com/en-nl/privacy,0
 f729f681-c576-47d5-92b1-7ca7964fd869,Snapwidget,Functional,_gat_pro,"snapwidget.com","Allows Snapwidget to offer anonymous analytics about how the visitors are using your widgets",24 hours,Snapwidget,https://snapwidget.com/privacy,0
+8a23f0ad-722d-4d91-9ef8-52528e903a4f,WooCommerce,Functional,woocommerce_cart_hash,"woocommerce.com","Helps WooCommerce determine when cart contents/data changes.",session,WooCommerce,https://automattic.com/privacy/,0
+f1e0e5b1-d7a1-4afc-80b6-1ba4430c237f,WooCommerce,Functional,woocommerce_items_in_cart,"woocommerce.com","Helps WooCommerce determine when cart contents/data changes.",session,WooCommerce,https://automattic.com/privacy/,0
+8f50fe5d-20dc-4811-b118-e49d52a0fc35,WooCommerce,Functional,wp_woocommerce_session_,"woocommerce.com","Contains a unique code for each customer so that it knows where to find the cart data in the database for each customer.",2 days,WooCommerce,https://automattic.com/privacy/,1
+15b17bfb-d0ef-4806-b2fa-b319185bc3aa,WooCommerce,Functional,woocommerce_recently_viewed,"woocommerce.com","Powers the Recent Viewed Products widget",session,WooCommerce,https://automattic.com/privacy/,0
