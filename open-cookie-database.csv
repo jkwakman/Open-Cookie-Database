@@ -454,6 +454,7 @@ f2856634-3da6-4b8d-a671-d057c0964724,LiveRamp,Marketing,euconsent,"faktor.io","C
 a67e35d5-c52e-49f2-a9d2-e2591b545a75,Wix.com,Marketing,svSession,"wix.com","Identifies unique visitors and tracks a visitor’s sessions on a site",2 years,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
 1a8e2bc9-8c16-4a23-b595-ad4ba2b05411,Wix.com,Functional,ForceFlashSite,"wix.com","When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
 afde4912-510e-4f52-ac39-f58977720637,Wix.com,Functional,hs,"wix.com","Security",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
+d26e6458-4f43-11eb-ae93-0242ac130002,Wix.com,Functional,bSession,"Advertiser's website domain","Used for system effectiveness measurement",Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
 d7537e15-0c06-4809-9268-c6a7463fb0ea,Shopify.com,Functional,_ab,"shopify.com","Used in connection with access to admin.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 5e57c371-a58b-495b-b531-bdaccf24d9d8,Shopify.com,Functional,_secure_session_id,"shopify.com","Used in connection with navigation through a storefront.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 a55ceb63-c236-476a-ac80-622185b9fd99,Shopify.com,Functional,Cart,"shopify.com","Used in connection with shopping cart.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
