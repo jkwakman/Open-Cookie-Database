@@ -449,6 +449,7 @@ d06b6423-c8fc-4ddb-9fe0-b0afd15e06f4,Optimizely,Marketing,optimizelyRedirectData
 c35002d1-f451-4451-83b0-d255e6474439,Ortec,Marketing,viewer,"adscience.nl","Used by adscience.nl to measure visitor numbers and information and use it to optimize marketing campaigns.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 d26e446e-4f43-11eb-ae93-0242ac130002,Ortec,Marketing,spx_ts,"adscience.nl","These cookies ensure that relevant advertisements are displayed on external websites.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 3c0a4563-7473-4e32-bea5-c41037df8e8c,Ortec,Marketing,adx_ts,"adscience.nl","These cookies ensure that relevant advertisements are displayed on external websites.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
+0b0472de-3ebb-46cb-85f3-b92a90954730,Ortec,Marketing,id_ts,"adscience.nl","These cookies ensure that relevant advertisements are displayed on external websites.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 f2856634-3da6-4b8d-a671-d057c0964724,LiveRamp,Marketing,euconsent,"faktor.io","Cookie compliance check",1 year,LiveRamp,https://liveramp.com/privacy/,0
 0538ac53-d35f-4870-ac7d-4244feb01845,Wix.com,Functional,SSR-caching,"wix.com","Indicates how a site was rendered",session,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
 41a4b6b6-ec46-45a3-a4b8-5caffe6d617c,Wix.com,Functional,smSession,"wix.com","Identifies logged in site members",2 weeks,Wix.com,https://support.wix.com/en/article/cookies-and-your-wix-site,0
@@ -578,3 +579,4 @@ f518a80b-bc3b-4f56-a426-154ead117a8a,SnapEngage,Functional,SnapABugUserAlias,"Ad
 db26f6b6-580c-4e32-bf8c-304357f2fc29,SnapEngage,Marketing,SnapABugRef,"Advertiser's website domain","This cookie is associated with live chat software from SnapEngage. It records the landing page and origin of a visitor.",1 year,SnapEngage,https://snapengage.com/privacy-policy/,0
 78cbc779-7db2-465d-96c9-89139421bdd4,SpotX,Marketing,audience,spotxchange.com,"Sync audience data between buyers and sellers.",1 year,SpotX,https://www.spotx.tv/privacy-policy/,0
 7bbc4d04-8776-45f3-85dc-c474d5907b24,Yithemes.com,Functional,yith_wcwl_session_,"Advertiser's website domain","YITH WooCommerce Wishlist plugin uses cookies in order to correctly store user wishlists",29 days,Yithemes.com,https://yithemes.com/,0
+f55ad4e8-3628-4673-bbb0-d1ade3ffd763,Yahoo,Marketing,Marketing,A3,"yahoo.com","Ads targeting cookie for Yahoo",1 year,Yahoo,https://yahoo.com/privacy/,0
