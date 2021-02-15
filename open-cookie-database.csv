@@ -581,3 +581,4 @@ db26f6b6-580c-4e32-bf8c-304357f2fc29,SnapEngage,Marketing,SnapABugRef,"Advertise
 78cbc779-7db2-465d-96c9-89139421bdd4,SpotX,Marketing,audience,spotxchange.com,"Sync audience data between buyers and sellers.",1 year,SpotX,https://www.spotx.tv/privacy-policy/,0
 7bbc4d04-8776-45f3-85dc-c474d5907b24,Yithemes.com,Functional,yith_wcwl_session_,"Advertiser's website domain","YITH WooCommerce Wishlist plugin uses cookies in order to correctly store user wishlists",29 days,Yithemes.com,https://yithemes.com/,0
 f55ad4e8-3628-4673-bbb0-d1ade3ffd763,Yahoo,Marketing,A3,"yahoo.com","Ads targeting cookie for Yahoo",1 year,Yahoo,https://yahoo.com/privacy/,0
+9dd47f52-fa0f-4ae6-b2b2-d4da098f5cf3,NGINX Ingresss,Functional,INGRESSCOOKIE,"Advertiser's website domain","Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.",session,NGINX,N/A,0
