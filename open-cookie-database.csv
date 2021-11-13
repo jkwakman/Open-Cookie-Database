@@ -556,6 +556,7 @@ bd57513e-37b1-4467-a3de-8eeb47afce76,Vimeo,Functional,Player,"vimeo.com","This f
 b12b1e25-6dd2-4a46-9877-a1fc9fa379ac,Vimeo,Functional,continuous_play_v3,"vimeo.com","Used to keep track of whether continuous play is on or not for a user",2 years,Vimeo,https://vimeo.com/cookie_policy,0
 8a90cba6-c361-4513-b33c-509aec12d1a9,Stripe,Functional,__stripe_mid,"stripe.com","Fraud prevention and detection",1 year,Stripe,https://stripe.com/en-nl/privacy,0
 123902bd-1664-4dbf-9af5-50b1d3ebf1bb,Stripe,Functional,__stripe_sid,"stripe.com","Fraud prevention and detection",30 minutes,Stripe,https://stripe.com/en-nl/privacy,0
+bc05330f-677d-4020-841f-a639abc68908,Stripe,Functional,m,"m.stripe.com","Set by payment provider stripe.com to process payments",10 years,Stripe,https://stripe.com/en-nl/privacy,0
 f729f681-c576-47d5-92b1-7ca7964fd869,Snapwidget,Functional,_gat_pro,"snapwidget.com","Allows Snapwidget to offer anonymous analytics about how the visitors are using your widgets",24 hours,Snapwidget,https://snapwidget.com/privacy,0
 8a23f0ad-722d-4d91-9ef8-52528e903a4f,WooCommerce,Functional,woocommerce_cart_hash,"woocommerce.com","Helps WooCommerce determine when cart contents/data changes.",session,WooCommerce,https://automattic.com/privacy/,0
 f1e0e5b1-d7a1-4afc-80b6-1ba4430c237f,WooCommerce,Functional,woocommerce_items_in_cart,"woocommerce.com","Helps WooCommerce determine when cart contents/data changes.",session,WooCommerce,https://automattic.com/privacy/,0
