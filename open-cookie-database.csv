@@ -102,6 +102,7 @@ Facebook browser identification, authentication, marketing, and other Facebook-s
 appears to only be set after the user logs out.
 The locale cookie has a lifetime of one week.",7 days,Facebook,https://www.facebook.com/about/privacy/,0
 0d249cd5-ae35-4dbb-ad00-d5ca46948619,Facebook,Marketing,_fbp,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,4 months,Facebook,https://www.facebook.com/about/privacy/,0
+d437b1da-7729-4c74-a5cc-e73620f5e381,Facebook,Marketing,_fbc,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c8170-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,js_ver,facebook.com (3rd party),Records the age of Facebook javascript files.,7 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c82a6-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,rc,facebook.com (3rd party),Used to optimize site performance for advertisers,7 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c84f4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,campaign_click_url,facebook.com (3rd party),Records the Facebook URL that an individual landed on after clicking on an ad promoting Facebook,30 days,Facebook,https://www.facebook.com/about/privacy/,0
