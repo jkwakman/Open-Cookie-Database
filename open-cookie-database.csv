@@ -753,3 +753,11 @@ c1b49416-7479-4c9b-83cf-95ceb709a333,Stonly,Functional,_csrf,"stonly.com","This 
 b32d6b4e-f23a-4952-9487-37886e8b4956,TikTok,Marketing,_ttp,"Advertiser's website domain","Tracking cookie used by TikTok to identify a visitor",389 days,TikTok,https://www.tiktok.com/legal/page/eea/privacy-policy/en?lang=en,0
 ca42aa1d-8afb-4a65-8599-3a9812b94eab,Ahoy,Analytics,ahoy_visit,"Advertiser's website domain","Registers statistical data on visitors behaviour on the website. Used for internal analytics by the website operator.",239 days,Ahoy,N/A,0
 4932d910-ab32-4ae0-bad9-ef1260609c9f,Ahoy,Analytics,ahoy_visitor,"Advertiser's website domain","Registers statistical data on visitors behaviour on the website. Used for internal analytics by the website operator.",239 days,Ahoy,N/A,0
+c3ec06fe-4272-45f9-9af2-d7d7b06d9f7a,Auth0,Functional,auth0,"Advertiser's website domain","Used to implement the Auth0 session layer.",session,Auth0,N/A,0
+dd74b0d1-e24e-454c-b0a0-aac0c5286539,Auth0,Functional,auth0_compat,"Advertiser's website domain","Fallback cookie for single sign-on on browsers that don't support the sameSite=None attribute.",session,Auth0,N/A,0
+2e9297da-905f-42fd-a5e7-4ab0d4e1fce1,Auth0,Functional,auth0-mf,"Advertiser's website domain","Used to establish the trust level for a given device.",session,Auth0,N/A,0
+8c37c436-cae9-484c-bfd3-0f0e09d25e3a,Auth0,Functional,auth0-mf_compat,"Advertiser's website domain","Fallback cookie for multi-factor authentication on browsers that don't support the sameSite=None attribute.",session,Auth0,N/A,0
+dfaddc1e-9b23-4fae-aef1-9b10e1465bae,Auth0,Functional,"a0_users:sess","Advertiser's website domain","Used for CSRF protection in Classic Universal Login flows.",session,Auth0,N/A,0
+38d2165d-ecc3-402e-95ca-6cc736b1993e,Auth0,Functional,"a0_users:sess.sig","Advertiser's website domain","Used for CSRF protection in Classic Universal Login flows.",session,Auth0,N/A,0
+aadcb4df-9608-4786-9378-2adf3260b416,Auth0,Functional,did,"Advertiser's website domain","Device identification for attack protection.",session,Auth0,N/A,0
+355267fd-75ad-400f-b58e-cf670babd5fb,Auth0,Functional,did_compat,"Advertiser's website domain","Fallback cookie for anomaly getection on browsers that don't support the sameSite=None attribute.",session,Auth0,N/A,0
