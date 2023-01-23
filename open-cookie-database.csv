@@ -770,3 +770,4 @@ dfaddc1e-9b23-4fae-aef1-9b10e1465bae,Auth0,Functional,"a0_users:sess","Advertise
 38d2165d-ecc3-402e-95ca-6cc736b1993e,Auth0,Functional,"a0_users:sess.sig","Advertiser's website domain","Used for CSRF protection in Classic Universal Login flows.",session,Auth0,N/A,0
 aadcb4df-9608-4786-9378-2adf3260b416,Auth0,Functional,did,"Advertiser's website domain","Device identification for attack protection.",session,Auth0,N/A,0
 355267fd-75ad-400f-b58e-cf670babd5fb,Auth0,Functional,did_compat,"Advertiser's website domain","Fallback cookie for anomaly getection on browsers that don't support the sameSite=None attribute.",session,Auth0,N/A,0
+83515b4c-a349-4a47-88e4-97794b559150,Sonobi,Marketing,HAPLB8S,"go.sonobi.com","Sonobi sets this cookie for advertising purposes.",session,Sonobi,https://sonobi.com/privacy-policy/,0
