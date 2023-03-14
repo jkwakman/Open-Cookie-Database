@@ -8,7 +8,7 @@ The definitions of the categories are as follows:
 
 - Functional (also known as technical, essential or strictly necessary)
 - Preferences (also known as functionality)
-- Analytics (also known as perfromance or statistics)
+- Analytics (also known as performance or statistics)
 - Marketing (also known as tracking or social media)
 
 You can also visit: https://cookiedatabase.org/function-and-purpose-of-cookies/ to know more.
