@@ -792,4 +792,4 @@ a43523a5-c71b-4f51-830e-eace0a7a8cda,AT Internet,Analytics,atuserid,Advertiser's
 c7caa357-1fba-4cf8-af8f-7b83b9a3bebb,JoomlArt,Functional,ja_purity_tpl,Advertiser's website domain,Indicates the website uses a JoomlArt template,355 days,JoomlArt,N/A,0
 a8ccf81f-ff0c-400f-996f-6e4835c6360e,JoomlArt,Functional,ja_purity_ii_tpl,Advertiser's website domain,Indicates the website uses a JoomlArt template,355 days,JoomlArt,N/A,0
 498981df-6be6-490f-b292-33b26487725d,f5 BIG-IP,Functional,BIGipServer,Advertiser's website domain,"Used by the f5 BIG-IP load balancer to ensure one user's request is always handled by the same server to maintain a consistent user experience",Unknown,f5,N/A,1
-2f0c29b4-3112-428e-aac2-d49c86f79fac,Easysize.me,Functional,easysize_button_loaded_for_user,Functional,Easysize.me,Advertiser's website domain,"Sizing display for products",session,Easysize.me,https://www.easysize.me/privacy-policy,0
+2f0c29b4-3112-428e-aac2-d49c86f79fac,Easysize.me,Functional,easysize_button_loaded_for_user,Advertiser's website domain,"Sizing display for products",session,Easysize.me,https://www.easysize.me/privacy-policy,0
