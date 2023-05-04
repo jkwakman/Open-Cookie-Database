@@ -833,3 +833,4 @@ d852d03f-4e92-4e7b-a0b9-88e4001995f9,Swym,Functional,swym-o_s,Advertiser's websi
 f22b424e-2b6f-47cd-a185-ae586557f130,Swym,Functional,swym-tpermts,Advertiser's website domain,"Related to asking user permission for marketing",1 year,Swym,https://swym.it/privacy/,0
 c34e7d25-6530-4d17-b206-e01f62db37d3,Swym,Functional,swym-u_pref,Advertiser's website domain,"Related to user’s marketing preference.",1 year,Swym,https://swym.it/privacy/,0
 c1856574-5a11-432e-945d-7cf8e08b1bd4,Swym,Functional,swym-weml,Advertiser's website domain,"Related to user’s email address for Swym apps",1 year,Swym,https://swym.it/privacy/,0
+c0111f57-d0ef-418d-b8df-a7036be01cf0,PayPal,Functional,enforce_policy,"paypal.com",This cookie is provided by Paypal. The cookie is used in context with transactions on the website - The cookie is necessary for secure transactions.,1 year,PayPal,https://www.paypal.com/privacy-center,0
