@@ -324,6 +324,7 @@ dcaebf29-7f2e-4522-b295-23f93020b89a,Adobe ColdFusion,Functional,cftoken,Adverti
 d62265f5-b213-4830-ae2a-b1c84f9b9c8b,bidswitch.net,Marketing,tuuid_lu,bidswitch.net,"Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.",3 months,bidswitch.net,N/A,0
 74bb46b3-b3eb-4a2a-95b7-bc4cc2e1f8fb,adscale.de,Marketing,uu,adscale.de,"Used to target ads by registering the user's movements across websites.",1 year,adscale.de,N/A,0
 ef38b65a-94e6-4b44-a596-5b6cb5a618bd,adscale.de,Marketing,cct,adscale.de,"Necessary for the shopping cart functionality on the website",session,adscale.de,N/A,0
+a9cc924c-28a7-4a56-8688-38aef554e390,adscale.de,Marketing,tu,adscale.de,"Used to target ads by registering the user's movements across websites.",29 days,adscale.de,N/A,0
 452ba8c5-b674-4910-803a-46d1461f75ca,betweendigital.com,Marketing,betweendigital.com,ut,"Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.",10 years,betweendigital.com,N/A,0
 ea3efa31-071a-4e8c-8916-89c0ed348d8f,betweendigital.com,Functional,ss,betweendigital.com,"Necessary for the functionality of the website's chat-box function.",10 years,betweendigital.com,N/A,0
 4b1ab77a-d10f-4915-aa8e-dbcb789f4bff,seedtag.com,Marketing,st_csd,seedtag.com,"Date of the last cookie-syn",1 year,seedtag.com,N/A,0
