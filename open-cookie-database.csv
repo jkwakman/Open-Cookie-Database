@@ -1010,8 +1010,8 @@ e8b6341a-0cbe-4370-9b99-e4ffef964bac,SAP,Functional,gig_canary,website domain (1
 5dd01b71-1510-410c-90b1-e69e97fa004c,SAP,Marketing,_gig_email,website domain (1st party),"Last used email address in share (when sending email).",12 months,SAP,https://www.sap.com/privacy,0
 79931c18-a413-4030-bfcb-8ca6ea32d0fc,SAP,Functional,gig_canary_ver,website domain (1st party),"The version name of the WebSDK's canary version.",12 months,SAP,https://www.sap.com/privacy,1
 af5fdc24-361a-420e-ab71-f807100caa32,SAP,Marketing,gig_hasGmid,gigya.com,"Internal cookie for the Web SDK",12 months,SAP,https://www.sap.com/privacy,0
-0b396794-4c93-47f0-9fcd-0c37eea4908b,SAP,Marketing,_gig_llu,gigya.com,"Last login provider username for Login "Welcome back" screen.",12 months,SAP,https://www.sap.com/privacy,0
-52b8d4e7-a7ae-49e7-9986-2a0bbdd92d20,SAP,Marketing,_gig_llp,gigya.com,"Last login provider username for Login "Welcome back" screen.",12 months,SAP,https://www.sap.com/privacy,0
+0b396794-4c93-47f0-9fcd-0c37eea4908b,SAP,Marketing,_gig_llu,gigya.com,"Last login provider username for Login Welcome back screen.",12 months,SAP,https://www.sap.com/privacy,0
+52b8d4e7-a7ae-49e7-9986-2a0bbdd92d20,SAP,Marketing,_gig_llp,gigya.com,"Last login provider username for Login Welcome back screen.",12 months,SAP,https://www.sap.com/privacy,0
 46d5942a-b281-4dc2-91da-dcdf6697bac5,SAP,Functional,glt_,website domain (1st party),"Login Token for authentication.",12 months,SAP,https://www.sap.com/privacy,1
 99cce484-13d8-4419-bc13-5fc841c47f92,SAP,Functional,_gig_lt,website domain (1st party),"Login Token for authentication.",12 months,SAP,https://www.sap.com/privacy,0
 b19f055e-5d9f-4051-8ed2-1c075742edf9,SAP,Functional,gig_last_ver_,website domain (1st party),"Last time of verification of the session when the site is using the verifyLoginInterval property of global CONF in order to trigger reverification.",12 months,SAP,https://www.sap.com/privacy,1
