@@ -1002,3 +1002,33 @@ b6e132e2-b3f1-454d-9c9a-ea16b8312c5b,Magnite,Marketing,audit,rubiconproject.com,
 4f54bdf3-e339-40ca-ac4e-cf3314d36a24,Magnite,Marketing,rpx,rubiconproject.com,"Records anonymous user data, such as IP, geographical location, websites visited and ads clicked on, in order to optimise visualisation of ads according to user movement around websites using the same advertising network.",1 month,Magnite,https://www.magnite.com/legal/platform-cookie-statement/,0
 e25aead6-0189-442e-ac9a-0d26d69c3f55,Magnite,Marketing,c,rubiconproject.com,"Records anonymous user data, such as IP, geographical location, websites visited and ads clicked on, in order to optimise visualisation of ads according to user movement around websites using the same advertising network.",1 month,Magnite,https://www.magnite.com/legal/platform-cookie-statement/,0
 c61e67a6-083a-40dc-ab3c-2a10f520fbd9,Amazon,Marketing,ad-id,amazon-adsystem.com,"Clickthroughs to Amazon websites: Noting how the user got to Amazon via this website",190 days,Amazon,https://amazon.com/privacy/,0
+4cd3f38b-85de-4b6c-b630-a6bc8a0cba40,SAP,Marketing,apiDomain_,gigya.com,"The shared domain API calls for all sites in a group should be sent to.",12 months,SAP,https://www.sap.com/privacy,1
+7d239c9b-6f8b-478f-b190-f636fe4e409f,SAP,Functional,gac_,website domain (1st party),"Used to trigger server initiated login.",session,SAP,https://www.sap.com/privacy,1
+c3bea380-2eca-4ec9-a761-09126186d1a3,SAP,Functional,_gig_APIProxy_enabled,website domain (1st party),"Used to indicate whether to use APIProxy or not.",session,SAP,https://www.sap.com/privacy,0
+037dab0f-22ad-4b3a-b69c-c470109d4394,SAP,Marketing,gig_bootstrap_,gigya.com,"If declined, user may be intermittently logged out.",12 months,SAP,https://www.sap.com/privacy,1
+e8b6341a-0cbe-4370-9b99-e4ffef964bac,SAP,Functional,gig_canary,website domain (1st party),"Indicates whether the client is using the canary version of the WebSDK.",12 months,SAP,https://www.sap.com/privacy,0
+5dd01b71-1510-410c-90b1-e69e97fa004c,SAP,Marketing,_gig_email,website domain (1st party),"Last used email address in share (when sending email).",12 months,SAP,https://www.sap.com/privacy,0
+79931c18-a413-4030-bfcb-8ca6ea32d0fc,SAP,Functional,gig_canary_ver,website domain (1st party),"The version name of the WebSDK's canary version.",12 months,SAP,https://www.sap.com/privacy,1
+af5fdc24-361a-420e-ab71-f807100caa32,SAP,Marketing,gig_hasGmid,gigya.com,"Internal cookie for the Web SDK",12 months,SAP,https://www.sap.com/privacy,0
+0b396794-4c93-47f0-9fcd-0c37eea4908b,SAP,Marketing,_gig_llu,gigya.com,"Last login provider username for Login "Welcome back" screen.",12 months,SAP,https://www.sap.com/privacy,0
+52b8d4e7-a7ae-49e7-9986-2a0bbdd92d20,SAP,Marketing,_gig_llp,gigya.com,"Last login provider username for Login "Welcome back" screen.",12 months,SAP,https://www.sap.com/privacy,0
+46d5942a-b281-4dc2-91da-dcdf6697bac5,SAP,Functional,glt_,website domain (1st party),"Login Token for authentication.",12 months,SAP,https://www.sap.com/privacy,1
+99cce484-13d8-4419-bc13-5fc841c47f92,SAP,Functional,_gig_lt,website domain (1st party),"Login Token for authentication.",12 months,SAP,https://www.sap.com/privacy,0
+b19f055e-5d9f-4051-8ed2-1c075742edf9,SAP,Functional,gig_last_ver_,website domain (1st party),"Last time of verification of the session when the site is using the verifyLoginInterval property of global CONF in order to trigger reverification.",12 months,SAP,https://www.sap.com/privacy,1
+544a3e12-8486-49ee-938a-bbc2774821f2,SAP,Functional,gig_loginToken_,gigya.com,"SAP Customer Data Cloud's Single Sign On (SSO) group login token.",12 months,SAP,https://www.sap.com/privacy,1
+72c274e9-e86a-400a-b08f-041754b102b9,SAP,Functional,_gig_shareUI_cb_,website domain (1st party),"Login Token for authentication.",12 months,SAP,https://www.sap.com/privacy,1
+1a9c696f-0ea9-4023-841c-2434bc40d64c,SAP,Marketing,_gig_shareUI_lastUID,website domain (1st party),"Last logged in UID.",12 months,SAP,https://www.sap.com/privacy,0
+7821a0aa-1ea1-4147-b3a9-7fda0b8bd1b8,SAP,Marketing,_gigRefUid_,website domain (1st party),"Last referrer User ID.",12 months,SAP,https://www.sap.com/privacy,1
+e19d81c7-108e-4675-825f-75757be2029b,SAP,Functional,gig_toggles,website domain (1st party),"This value is sent to SAP Customer Data Cloud in order to identify toggles that the back-end behavior depends on to process the specified toggle.",session,SAP,https://www.sap.com/privacy,0
+4019c5e9-5e6a-454e-88da-05b144106528,SAP,Functional,gig3pc,website domain (1st party),"Remembers if third-party cookies are blocked to avoid checking every time.",2 days,SAP,https://www.sap.com/privacy,0
+4a797757-4930-4abf-8931-cd393b6f2935,SAP,Functional,gig3pctest,website domain (1st party),"A temp cookie used to check if third-party cookies are blocked.",session,SAP,https://www.sap.com/privacy,0
+26b766fb-eea4-4818-99c7-047330dc171b,SAP,Functional,glnk,website domain (1st party),"Ticket for second phase of login.",session,SAP,https://www.sap.com/privacy,0
+241b8e2a-7300-43fc-83ce-f791031eb201,SAP,Marketing,gmid,website domain (1st party),"User cookie.",12 months,SAP,https://www.sap.com/privacy,0
+5e3964c6-fd88-4a38-811c-6c2274e44923,SAP,Functional,gst,website domain (1st party),"Server ticket for second phase of login.",30 Minutes,SAP,https://www.sap.com/privacy,0
+a8d15372-e14d-45e8-9e50-3c1da50149be,SAP,Functional,GSLM_,website domain (1st party),"Session magic cookie.",session,SAP,https://www.sap.com/privacy,1
+5318a29f-81c0-4ec7-ab9d-f0708a487bd3,SAP,Marketing,hasGmid,gigya.com,"Internal cookie for the Web SDK",13 months,SAP,https://www.sap.com/privacy,0
+6bccfd5b-de1c-4f45-90b4-9018a4fb314a,SAP,Functional,SAML_,gigya.com,"This cookie is saved by SAML SP to manage the SAML session information and, specifically, the parameters needed for logout.",12 months,SAP,https://www.sap.com/privacy,1
+e65e60d8-15b2-46f9-9bc9-e099c1b8d117,SAP,Functional,gltexp_,"Login Token Expiration.",website domain (1st party),session,SAP,https://www.sap.com/privacy,1
+9b30be08-ff76-497c-9585-a1d0e16af5cc,SAP,Marketing,_gig_,"Callback for listener.",website domain (1st party),12 months,SAP,https://www.sap.com/privacy,1
+26919947-293e-4f1d-95e8-7a1d504dee45,SAP,Functional,ua_,"COPPA (under age).",website domain (1st party),1 day,SAP,https://www.sap.com/privacy,1
+5489f3e2-a2e5-4a3f-bea3-9d0736f63f9d,SAP,Marketing,ucid,"Unique computer identifier used for generating reports, and used by the Web SDK to get saved response.",website domain (1st party),13 months,SAP,https://www.sap.com/privacy,0
