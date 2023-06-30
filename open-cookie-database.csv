@@ -1036,3 +1036,4 @@ e65e60d8-15b2-46f9-9bc9-e099c1b8d117,SAP,Functional,gltexp_,"Login Token Expirat
 9b30be08-ff76-497c-9585-a1d0e16af5cc,SAP,Marketing,_gig_,"Callback for listener.",website domain (1st party),12 months,SAP,https://www.sap.com/privacy,1
 26919947-293e-4f1d-95e8-7a1d504dee45,SAP,Functional,ua_,"COPPA (under age).",website domain (1st party),1 day,SAP,https://www.sap.com/privacy,1
 5489f3e2-a2e5-4a3f-bea3-9d0736f63f9d,SAP,Marketing,ucid,"Unique computer identifier used for generating reports, and used by the Web SDK to get saved response.",website domain (1st party),13 months,SAP,https://www.sap.com/privacy,0
+f10a8d22-936a-446d-84f0-bf26bc8b87f4,The Ozone Project,Marketing,ozone_uid,"This cookie contains unique randomly-generated values that enable the Ozone Project to distinguish browsers and mobile devices.",the-ozone-project.com,90 days,The Ozone Project,https://www.ozoneproject.com/privacy-matters,0
