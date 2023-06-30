@@ -1041,3 +1041,6 @@ e65e60d8-15b2-46f9-9bc9-e099c1b8d117,SAP,Functional,gltexp_,"Login Token Expirat
 26919947-293e-4f1d-95e8-7a1d504dee45,SAP,Functional,ua_,"COPPA (under age).",website domain (1st party),1 day,SAP,https://www.sap.com/privacy,1
 5489f3e2-a2e5-4a3f-bea3-9d0736f63f9d,SAP,Marketing,ucid,"Unique computer identifier used for generating reports, and used by the Web SDK to get saved response.",website domain (1st party),13 months,SAP,https://www.sap.com/privacy,0
 f10a8d22-936a-446d-84f0-bf26bc8b87f4,The Ozone Project,Marketing,ozone_uid,"This cookie contains unique randomly-generated values that enable the Ozone Project to distinguish browsers and mobile devices.",the-ozone-project.com,90 days,The Ozone Project,https://www.ozoneproject.com/privacy-matters,0
+f3544014-a430-4381-918c-467df25fad98,Mailchimp,Analytics,mc_cid,"Mailchimp campaign ID",website domain (1st party),14 days,https://mailchimp.com/legal/,0
+fc50d869-5498-4107-9479-8971533a6246,Mailchimp,Analytics,mc_eid,"Mailchimp email ID",website domain (1st party),14 days,https://mailchimp.com/legal/,0
+0f8f7e7c-b17e-4768-b491-8ae0125a24ae,Mailchimp,Analytics,mc_landing_site,"Page visitor entered your site on",website domain (1st party),14 days,https://mailchimp.com/legal/,0
