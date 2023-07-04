@@ -1045,3 +1045,8 @@ f10a8d22-936a-446d-84f0-bf26bc8b87f4,The Ozone Project,Marketing,ozone_uid,"This
 f3544014-a430-4381-918c-467df25fad98,Mailchimp,Analytics,mc_cid,"Mailchimp campaign ID",website domain (1st party),14 days,Mailchimp,https://mailchimp.com/legal/,0
 fc50d869-5498-4107-9479-8971533a6246,Mailchimp,Analytics,mc_eid,"Mailchimp email ID",website domain (1st party),14 days,Mailchimp,https://mailchimp.com/legal/,0
 0f8f7e7c-b17e-4768-b491-8ae0125a24ae,Mailchimp,Analytics,mc_landing_site,"Page visitor entered your site on",website domain (1st party),14 days,Mailchimp,https://mailchimp.com/legal/,0
+13b53c51-b4cb-4021-9c04-8aebb5c4b8ce,Beamer,Marketing,_BEAMER_FIRST_VISIT_,"Set by Beamer (hotjar.com) to store the date of the user’s first interaction with insights.",hotjar.com,Hotjar,https://www.getbeamer.com/privacy-policy,1
+f722acea-e8ec-4e61-8afd-b439895cac88,Beamer,Marketing,_BEAMER_USER_ID_,"Set by Beamer (hotjar.com) to store an internal ID for a user.",hotjar.com,Hotjar,https://www.getbeamer.com/privacy-policy,1
+94a30c80-1fb4-4c8d-bbde-e1b8f645fc1c,Beamer,Marketing,_BEAMER_DATE_,"Set by Beamer (hotjar.com). Stores the latest date in which the feed or page was opened.",hotjar.com,Hotjar,https://www.getbeamer.com/privacy-policy,1
+98cc3af3-8bbf-46c1-ac53-da4f2d7deca9,Beamer,Marketing,_BEAMER_LAST_POST_SHOWN_,"Set by Beamer (hotjar.com). Stores the timestamp for the last time the number of unread posts was updated for the user.",hotjar.com,Hotjar,https://www.getbeamer.com/privacy-policy,1
+c7eb4b44-734a-4962-a7da-787d07905a53,Beamer,Marketing,_BEAMER_FILTER_BY_URL_,"This cookie is set by Beamer to store whether to apply URL filtering on the feed",hotjar.com,Hotjar,https://www.getbeamer.com/privacy-policy,1
