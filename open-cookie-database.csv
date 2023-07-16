@@ -1051,5 +1051,5 @@ f722acea-e8ec-4e61-8afd-b439895cac88,Beamer,Marketing,_BEAMER_USER_ID_,hotjar.co
 94a30c80-1fb4-4c8d-bbde-e1b8f645fc1c,Beamer,Marketing,_BEAMER_DATE_,hotjar.com,"Set by Beamer (hotjar.com). Stores the latest date in which the feed or page was opened.",300 days,Hotjar,https://www.getbeamer.com/privacy-policy,1
 98cc3af3-8bbf-46c1-ac53-da4f2d7deca9,Beamer,Marketing,_BEAMER_LAST_POST_SHOWN_,hotjar.com,"Set by Beamer (hotjar.com). Stores the timestamp for the last time the number of unread posts was updated for the user.",300 days,Hotjar,https://www.getbeamer.com/privacy-policy,1
 c7eb4b44-734a-4962-a7da-787d07905a53,Beamer,Marketing,_BEAMER_FILTER_BY_URL_,hotjar.com,"This cookie is set by Beamer to store whether to apply URL filtering on the feed",20 minutes,Hotjar,https://www.getbeamer.com/privacy-policy,1
-74bc43ce-e880-4a84-a053-eec2ae0db194,Adhese,Analytics,adhese2,"Unique Reach reporting",ads-[account].adhese.com,30 days,Adhese,https://adhese.com/images/Privacy%20Policy_Doggybites.pdf,0
-3b135a58-78a6-425e-8bc0-f8e1c69a811a,Adhese,Marketing,cap,"Frequency Capping",ads-[account].adhese.com,30 days,Adhese,https://adhese.com/images/Privacy%20Policy_Doggybites.pdf,1
+74bc43ce-e880-4a84-a053-eec2ae0db194,Adhese,Analytics,adhese2,ads-[account].adhese.com,"Unique Reach reporting",30 days,Adhese,https://adhese.com/images/Privacy%20Policy_Doggybites.pdf,0
+3b135a58-78a6-425e-8bc0-f8e1c69a811a,Adhese,Marketing,cap,ads-[account].adhese.com,"Frequency Capping",30 days,Adhese,https://adhese.com/images/Privacy%20Policy_Doggybites.pdf,1
