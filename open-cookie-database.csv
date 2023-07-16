@@ -1038,10 +1038,10 @@ e19d81c7-108e-4675-825f-75757be2029b,SAP,Functional,gig_toggles,website domain (
 a8d15372-e14d-45e8-9e50-3c1da50149be,SAP,Functional,GSLM_,website domain (1st party),"Session magic cookie.",session,SAP,https://www.sap.com/privacy,1
 5318a29f-81c0-4ec7-ab9d-f0708a487bd3,SAP,Marketing,hasGmid,gigya.com,"Internal cookie for the Web SDK",13 months,SAP,https://www.sap.com/privacy,0
 6bccfd5b-de1c-4f45-90b4-9018a4fb314a,SAP,Functional,SAML_,gigya.com,"This cookie is saved by SAML SP to manage the SAML session information and, specifically, the parameters needed for logout.",12 months,SAP,https://www.sap.com/privacy,1
-e65e60d8-15b2-46f9-9bc9-e099c1b8d117,SAP,Functional,gltexp_,"Login Token Expiration.",website domain (1st party),session,SAP,https://www.sap.com/privacy,1
-9b30be08-ff76-497c-9585-a1d0e16af5cc,SAP,Marketing,_gig_,"Callback for listener.",website domain (1st party),12 months,SAP,https://www.sap.com/privacy,1
-26919947-293e-4f1d-95e8-7a1d504dee45,SAP,Functional,ua_,"COPPA (under age).",website domain (1st party),1 day,SAP,https://www.sap.com/privacy,1
-5489f3e2-a2e5-4a3f-bea3-9d0736f63f9d,SAP,Marketing,ucid,"Unique computer identifier used for generating reports, and used by the Web SDK to get saved response.",website domain (1st party),13 months,SAP,https://www.sap.com/privacy,0
+e65e60d8-15b2-46f9-9bc9-e099c1b8d117,SAP,Functional,gltexp_,website domain (1st party),"Login Token Expiration.",session,SAP,https://www.sap.com/privacy,1
+9b30be08-ff76-497c-9585-a1d0e16af5cc,SAP,Marketing,_gig_,website domain (1st party),"Callback for listener.",12 months,SAP,https://www.sap.com/privacy,1
+26919947-293e-4f1d-95e8-7a1d504dee45,SAP,Functional,ua_,website domain (1st party),"COPPA (under age).",1 day,SAP,https://www.sap.com/privacy,1
+5489f3e2-a2e5-4a3f-bea3-9d0736f63f9d,SAP,Marketing,ucid,website domain (1st party),"Unique computer identifier used for generating reports, and used by the Web SDK to get saved response.",13 months,SAP,https://www.sap.com/privacy,0
 f10a8d22-936a-446d-84f0-bf26bc8b87f4,The Ozone Project,Marketing,ozone_uid,the-ozone-project.com,"This cookie contains unique randomly-generated values that enable the Ozone Project to distinguish browsers and mobile devices.",90 days,The Ozone Project,https://www.ozoneproject.com/privacy-matters,0
 f3544014-a430-4381-918c-467df25fad98,Mailchimp,Analytics,mc_cid,website domain (1st party),"Mailchimp campaign ID",14 days,Mailchimp,https://mailchimp.com/legal/,0
 fc50d869-5498-4107-9479-8971533a6246,Mailchimp,Analytics,mc_eid,website domain (1st party),"Mailchimp email ID",14 days,Mailchimp,https://mailchimp.com/legal/,0
