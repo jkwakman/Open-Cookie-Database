@@ -1071,6 +1071,12 @@ c7eb4b44-734a-4962-a7da-787d07905a53,Beamer,Marketing,_BEAMER_FILTER_BY_URL_,hot
 8033312b-b7b3-4717-8ef3-8f91deec6068,phpMyAdmin,Functional,pmaUser-,website domain (1st party),"Per server username",30 days,phpMyAdmin,N/A,1
 678f069b-d355-44db-b854-72b841ec59bd,phpMyAdmin,Functional,pma_lang,website domain (1st party),"Language preference",30 days,phpMyAdmin,N/A,0
 333fc228-ca44-496e-a58b-e6ad334921c7,Plesk,Functional,PLESKSESSID,website domain (1st party),"Keeps a Plesk session",session,Plesk,https://www.plesk.com/privacy-policy,0
+3d7335dd-eb06-4315-9c09-61dc3bef75ef,Plesk,Functional,plesk-items-per-page,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
+cbcecbfa-0bf7-440c-b9be-aab3c6ec883e,Plesk,Functional,plek-list-type,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
+aa7d6333-4445-482e-b50f-cefe0dac5417,Plesk,Functional,plesk-sort-dir,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
+48c42811-51b1-42c7-9093-dfa4fd4ea6ba,Plesk,Functional,plesk-sort-field,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
+a57c96f5-7173-4629-be9a-ca4b0d338486,Plesk,Functional,sites-active-list-state-collapsed,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
+b6f4d4c8-6318-41b0-bcde-a2b6169bd321,Plesk,Functional,lists-state,website domain (1st party),"Save the state of UI elements in Plesk",session,Plesk,https://www.plesk.com/privacy-policy,0
 ec6ef7c0-d3a7-46dc-9859-0b97b7a341c9,TYPO3,Functional,fe_typo_user,website domain (1st party),"Used to identify a session ID when logged-in to the TYPO3 Frontend",session,TYPO3,https://typo3.org/privacy-policy,0
 95a8439e-4e1b-4d9f-bd58-8ed4d745c919,TYPO3,Functional,be_typo_user,website domain (1st party),"Used to identify a backend session when a Backend User logged in to TYPO3 Backend or Frontend",session,TYPO3,https://typo3.org/privacy-policy,0
 92f31916-077f-4c51-868c-71dfa5ee4d81,TYPO3,Functional,Typo3InstallTool,website domain (1st party),"Used to validate a session for the System Maintenance Area / Install Tool",session,TYPO3,https://typo3.org/privacy-policy,0
