@@ -1057,3 +1057,4 @@ c7eb4b44-734a-4962-a7da-787d07905a53,Beamer,Marketing,_BEAMER_FILTER_BY_URL_,hot
 09c33f14-e5ea-423b-80c4-7cd6e8c6a70b,phpMyAdmin,Functional,phpMyAdmin,website domain (1st party),"Session identifier",session,phpMyAdmin,N/A,0
 8033312b-b7b3-4717-8ef3-8f91deec6068,phpMyAdmin,Functional,pmaUser-,website domain (1st party),"Per server username",30 days,phpMyAdmin,N/A,1
 678f069b-d355-44db-b854-72b841ec59bd,phpMyAdmin,Functional,pma_lang,website domain (1st party),"Language preference",30 days,phpMyAdmin,N/A,0
+333fc228-ca44-496e-a58b-e6ad334921c7,Plesk,Functional,PLESKSESSID,website domain (1st party),"Keeps a Plesk session",session,Plesk,https://www.plesk.com/privacy-policy,0
