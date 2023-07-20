@@ -1134,6 +1134,6 @@ f3c6bc04-6069-4683-ad8b-5f95fffdc693,Customer.io,Marketing,cioFT,website domain 
 98eda7bd-8705-4bc5-8011-c3151b7ad0e4,Datadome,Functional,Datadome,website domain (1st party),"This a security cookie based upon detecting BOTS and malicious traffic.",1 year,Datadome,https://datadome.co/privacy-policy/,0
 c5dad442-d598-4540-b47e-0eeb01b579e8,Tappx,Marketing,TXCSDMN_,tappx.com,"This cookie is associated with Tappx, an AdTech platform.",1 month,Tappx,https://www.tappx.com/legal/privacy-policy,1
 1f7327f8-2713-4e5d-b90d-f086e6f9d3ea,Tappx,Marketing,TXCD,tappx.com,"This cookie is associated with Tappx, an AdTech platform.",1 month,Tappx,https://www.tappx.com/legal/privacy-policy,0
-1d780dba-6e77-442b-adb3-2222ec03a016,richAudience,Marketing,rai-pltn-pl-,"Ad-serving frequency control, optimization and Brand Safety.",1 day,richAudience,https://richaudience.com/en/privacy/,1
-9836e562-d777-481f-98c6-74aa2a258eef,richAudience,Marketing,avcid-,"ID Syncing with DSP / SSP for communications using Open RTB protocol",90 days,richAudience,https://richaudience.com/en/privacy/,1
-1b3becfc-b0f3-40c1-b16e-4635528d41f6,richAudience,Marketing,pdid,"Randomly generated user ID.",1 month,richAudience,https://richaudience.com/en/privacy/,0
+1d780dba-6e77-442b-adb3-2222ec03a016,richAudience,Marketing,rai-pltn-pl-,richaudience.com,"Ad-serving frequency control, optimization and Brand Safety.",1 day,richAudience,https://richaudience.com/en/privacy/,1
+9836e562-d777-481f-98c6-74aa2a258eef,richAudience,Marketing,avcid-,richaudience.com,"ID Syncing with DSP / SSP for communications using Open RTB protocol",90 days,richAudience,https://richaudience.com/en/privacy/,1
+1b3becfc-b0f3-40c1-b16e-4635528d41f6,richAudience,Marketing,pdid,richaudience.com,"Randomly generated user ID.",1 month,richAudience,https://richaudience.com/en/privacy/,0
