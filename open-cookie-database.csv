@@ -1256,4 +1256,4 @@ e3107a8d-e942-4f8d-b557-a27e46f1391d,Salesforce,Functional,useStandbyUrl,website
 fab366e8-fa19-4c6d-8bc8-88682c641809,Salesforce,Functional,waveUserPrefFinderLeftNav,website domain (1st party),"Preference for left navigation UI in CRM Analytics.",100 years,Salesforce,https://www.salesforce.com/company/privacy/,0
 62f862a6-0bee-47ac-8403-9b1472b85b42,Salesforce,Functional,waveUserPrefFinderListView,website domain (1st party),"Preference for displaying list views in CRM Analytics.",100 years,Salesforce,https://www.salesforce.com/company/privacy/,0
 8294a9fb-467b-47fc-bcff-3d5180be2293,Salesforce,Functional,webact,website domain (1st party),"Used to collect metrics per page view for personalization.",1 year,Salesforce,https://www.salesforce.com/company/privacy/,0
-8157254e-0f10-4f80-b86a-2ac06e7d6c89,Salesforce,Functional,WelcomePanel,website domain (1st party),"Stores Salesforce preferences.",1 day,,Salesforce,https://www.salesforce.com/company/privacy/,0
+8157254e-0f10-4f80-b86a-2ac06e7d6c89,Salesforce,Functional,WelcomePanel,website domain (1st party),"Stores Salesforce preferences.",1 day,Salesforce,https://www.salesforce.com/company/privacy/,0
