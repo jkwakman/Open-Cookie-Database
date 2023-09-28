@@ -1067,6 +1067,7 @@ e25aead6-0189-442e-ac9a-0d26d69c3f55,Magnite,Marketing,c,rubiconproject.com,"Rec
 c3bea380-2eca-4ec9-a761-09126186d1a3,SAP,Functional,_gig_APIProxy_enabled,,"Used to indicate whether to use APIProxy or not.",session,SAP,https://www.sap.com/privacy,0
 037dab0f-22ad-4b3a-b69c-c470109d4394,SAP,Marketing,gig_bootstrap_,gigya.com,"If declined, user may be intermittently logged out.",12 months,SAP,https://www.sap.com/privacy,1
 e8b6341a-0cbe-4370-9b99-e4ffef964bac,SAP,Functional,gig_canary,,"Indicates whether the client is using the canary version of the WebSDK.",12 months,SAP,https://www.sap.com/privacy,0
+190996a9-54de-4987-beb8-1b1ec2bb007c,SAP,Functional,gig_canary_3,"Indicates whether the client is using the canary version of the WebSDK.",12 months,SAP,https://www.sap.com/privacy,1
 5dd01b71-1510-410c-90b1-e69e97fa004c,SAP,Marketing,_gig_email,,"Last used email address in share (when sending email).",12 months,SAP,https://www.sap.com/privacy,0
 79931c18-a413-4030-bfcb-8ca6ea32d0fc,SAP,Functional,gig_canary_ver,,"The version name of the WebSDK's canary version.",12 months,SAP,https://www.sap.com/privacy,1
 af5fdc24-361a-420e-ab71-f807100caa32,SAP,Marketing,gig_hasGmid,gigya.com,"Internal cookie for the Web SDK",12 months,SAP,https://www.sap.com/privacy,0
