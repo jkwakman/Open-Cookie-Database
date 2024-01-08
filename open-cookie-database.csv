@@ -705,6 +705,8 @@ ba027223-659a-4141-8934-68626ab815a6,Hubspot,Marketing,messagesUtk,"hubspot.com"
 bf0017c3-9d7d-4f2b-b723-1bedc5938f3c,Vimeo,Analytics,vuid,"vimeo.com","This first party cookie created by Vimeo is used to assign a Vimeo Analytics unique id.",1 minute,Vimeo,https://vimeo.com/cookie_policy,0
 bd57513e-37b1-4467-a3de-8eeb47afce76,Vimeo,Functional,Player,"vimeo.com","This first party cookie created by Vimeo is used to remember user’s player mode preferences.",1 minute,Vimeo,https://vimeo.com/cookie_policy,0
 b12b1e25-6dd2-4a46-9877-a1fc9fa379ac,Vimeo,Functional,continuous_play_v3,"vimeo.com","Used to keep track of whether continuous play is on or not for a user",2 years,Vimeo,https://vimeo.com/cookie_policy,0
+fd513ad4-4265-439d-a1c1-ac12f3854e1e,Vimeo,Analytics,sd_identity,"vimeo.com","Collects analytical tracking information about videos and enables the player to function properly.",2 years,Vimeo,https://vimeo.com/cookie_policy,0
+235a47ee-b06a-4c82-a476-e64b775ee7e0,Vimeo,Analytics,sd_client_id,"vimeo.com","Collects analytical tracking information about videos and enables the player to function properly.",2 years,Vimeo,https://vimeo.com/cookie_policy,0
 8a90cba6-c361-4513-b33c-509aec12d1a9,Stripe,Functional,__stripe_mid,"stripe.com","Fraud prevention and detection",1 year,Stripe,https://stripe.com/en-nl/privacy,0
 123902bd-1664-4dbf-9af5-50b1d3ebf1bb,Stripe,Functional,__stripe_sid,"stripe.com","Fraud prevention and detection",30 minutes,Stripe,https://stripe.com/en-nl/privacy,0
 bc05330f-677d-4020-841f-a639abc68908,Stripe,Functional,m,"m.stripe.com","Set by payment provider stripe.com to process payments",10 years,Stripe,https://stripe.com/en-nl/privacy,0
