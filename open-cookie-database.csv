@@ -1421,3 +1421,4 @@ a1031b6e-685a-428b-b68a-b2f0911d770b,Bombora,Marketing,tp,.ml314.com,"This cooki
 b6c5f4a0-ca8d-4aba-8c15-9a37e7ae5dd9,Lightspeed,Functional,COOKIELAW_SOCIAL,,"Keeps track of whether social cookies are allowed",1 year,Lightspeed,https://www.lightspeedhq.com/legal/privacy-policy/,0
 3738fa9c-5257-4290-b3f3-0b862a011098,Lightspeed,Functional,COOKIELAW_STATS,,"Keeps track of whether analytics cookies are allowed",1 year,Lightspeed,https://www.lightspeedhq.com/legal/privacy-policy/,0
 2bbfb3a9-50a0-4ee6-b86a-cd03eb43be20,Lightspeed,Functional,COOKIELAW,,"These cookies are used for platform stability and to store cookie preferences. They do not collect personally identifiable information and cannot be disabled.",1 year,Lightspeed,https://www.lightspeedhq.com/legal/privacy-policy/,0
+71a7af65-12a4-4ba9-bea3-8b0d85083f46,Mixpanel,Analytics,mp_,,"This cookie is used to store a user's unique identifier.",1 year,Mixpanel,https://mixpanel.com/legal/privacy-policy/,1
