@@ -675,6 +675,9 @@ d26e6458-4f43-11eb-ae93-0242ac130002,Wix.com,Functional,bSession,"","Used for sy
 30d32788-4edb-4675-9542-4b17bca4e76d,Wix.com,Functional,TS01,"","Used for security and anti-fraud reasons",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,1
 ad4e0c1f-e2ac-432e-8f9e-cbc8ca5ec997,Wix.com,Functional,fedops.logger.sessionId,"","Used for stability/effectiveness measurement",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
 d22eb370-2a05-4a8c-8fbe-1bbe7dffe0df,Wix.com,Functional,wixLanguage,"","Used on multilingual websites to save user language preference",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
+13d01850-f212-4b49-ba9a-fc2cea36e5f9,Wix.com,Functional,_wixCIDX,"","Used for system monitoring/debugging",3 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
+1303f1b4-a92a-4aae-b194-1b566ff3f1d0,Wix.com,Functional,_wix_browser_sess,"","Used for system monitoring/debugging",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
+c99aabe0-84aa-4a8d-844e-04434e43ceee,Wix.com,Functional,consent-policy,"","Used for cookie banner parameters",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
 d7537e15-0c06-4809-9268-c6a7463fb0ea,Shopify,Functional,_ab,"shopify.com","Used in connection with access to admin.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 5e57c371-a58b-495b-b531-bdaccf24d9d8,Shopify,Functional,_secure_session_id,"shopify.com","Used in connection with navigation through a storefront.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 a55ceb63-c236-476a-ac80-622185b9fd99,Shopify,Functional,Cart,"shopify.com","Used in connection with shopping cart.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
