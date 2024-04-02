@@ -478,8 +478,12 @@ ef38b65a-94e6-4b44-a596-5b6cb5a618bd,adscale.de,Marketing,cct,adscale.de,"Necess
 a9cc924c-28a7-4a56-8688-38aef554e390,adscale.de,Marketing,tu,adscale.de,"Used to target ads by registering the user's movements across websites.",29 days,adscale.de,,0
 452ba8c5-b674-4910-803a-46d1461f75ca,betweendigital.com,Marketing,betweendigital.com,ut,"Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.",10 years,betweendigital.com,,0
 ea3efa31-071a-4e8c-8916-89c0ed348d8f,betweendigital.com,Functional,ss,betweendigital.com,"Necessary for the functionality of the website's chat-box function.",10 years,betweendigital.com,,0
-4b1ab77a-d10f-4915-aa8e-dbcb789f4bff,seedtag.com,Marketing,st_csd,seedtag.com,"Date of the last cookie-syn",1 year,seedtag.com,,0
-dd0ee2e6-80c0-4e80-8ec1-d2a1fc1ed735,seedtag.com,Marketing,st_cs,seedtag.com,"Unique identifiers of DSPs",1 year,seedtag.com,,0
+4b1ab77a-d10f-4915-aa8e-dbcb789f4bff,Seedtag,Marketing,st_csd,seedtag.com,"Date of the last cookie-syn",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
+dd0ee2e6-80c0-4e80-8ec1-d2a1fc1ed735,Seedtag,Marketing,st_cs,seedtag.com,"Unique identifiers of DSPs",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
+b92dce55-ffca-4ba8-bbcb-4e9ca17579c9,Seedtag,Marketing,st_uid,seedtag.com,"This cookie is used to store randomly generated unique browser identifier",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
+73be3ddb-3e4d-48a6-81cc-80e53e9a3c17,Seedtag,Marketing,st_cnt,seedtag.com,"This cookie is used to store low precision geolocation (Country, City)",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
+624734b3-5c15-4cff-84d8-4be4d28e39ba,Seedtag,Marketing,st_chc,seedtag.com,"This cookie is used to store Cookie-sync",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
+406e235a-9688-48f8-b9e9-cd5024a178b2,Seedtag,Marketing,st_ssp,seedtag.com,"This cookie is used to store low precision geolocation",1 year,seedtag.com,https://www.seedtag.com/privacy/,0
 ea39fd05-dd35-46f9-93a3-b939196c1dae,Smartadserver,Marketing,cnfq,smartadserver.com,"Technical cookie used to trigger the injection of monitoring scripts from a CNAME",360 minutes,Equativ.com,https://equativ.com/end-users-privacy-policy/,0
 b1157f8c-fdb8-4db9-b2e4-26610dee2281,Smartadserver,Marketing,lcsrc,smartadserver.com,"Technical cookie used to refresh date serialized in ISO format",13 months,Equativ.com,https://equativ.com/end-users-privacy-policy/,0
 778744f0-b143-408b-a4cb-c6afcaad89fb,Smartadserver,Functional,dyncdn,smartadserver.com,"End-point and traffic data",1 day,Equativ.com,https://equativ.com/end-users-privacy-policy/,0
