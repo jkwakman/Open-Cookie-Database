@@ -1647,10 +1647,10 @@ b85f4051-694f-4bb6-b9a0-1052d95127db,Bouncex,Marketing,bounceClientVisit,.bounce
 8e43d473-f0ca-401b-8bb2-7641319ae6b0,Viafoura,Analytics,_vfa,,"This cookie is used to stores user and session identifiers for analytics.",1 year,Viafoura,https://viafoura.com/privacy-policy/,0
 50d064f0-0c02-4db1-8264-46c1cec4bfb0,Viafoura,Analytics,_vfb,,"This cookie is used to stores recirculation data for analytics.",30 minutes,Viafoura,https://viafoura.com/privacy-policy/,0
 fb350e72-6113-47a3-a82e-491e98c47dc0,Viafoura,Analytics,_vfz,,"This cookie is used to stores referral data for analytics",6 minutes,Viafoura,https://viafoura.com/privacy-policy/,0
-c0fd6a35-78e5-496f-89c2-5a64c8e597ef,Viafoura,Functional,_vf_rd_test*,,"This cookie is used to test best domain name (SLD+TLD) to set cookies at.",1 second,Viafoura,https://viafoura.com/privacy-policy/,0
+c0fd6a35-78e5-496f-89c2-5a64c8e597ef,Viafoura,Functional,_vf_rd_test,,"This cookie is used to test best domain name (SLD+TLD) to set cookies at.",1 second,Viafoura,https://viafoura.com/privacy-policy/,1
 f69c0e6a-ff78-40a8-bd74-e1b215f09561,Viafoura,Functional,VfSess,.viafoura.co,"This cookie is used to session identifier for authentication",30 days,Viafoura,https://viafoura.com/privacy-policy/,0
 cae18ad7-123a-462b-8a1c-2544fb3e30e6,Viafoura,Functional,VfRefresh,.viafoura.co,"This cookie is used to refresh identifier for authentication",1 year,Viafoura,https://viafoura.com/privacy-policy/,0
-f1bf1a7a-59e3-40e4-bb7a-a93f1270ba0f,Viafoura,Functional,VfAccess*,.viafoura.co,"This cookie is used to access identifier for authentication",5 minutes,Viafoura,https://viafoura.com/privacy-policy/,0
+f1bf1a7a-59e3-40e4-bb7a-a93f1270ba0f,Viafoura,Functional,VfAccess,.viafoura.co,"This cookie is used to access identifier for authentication",5 minutes,Viafoura,https://viafoura.com/privacy-policy/,1
 5b3c2c36-093e-4e41-9b2d-d6cae079f6e6,Viafoura,Functional,vfThirdpartyCookiesEnabled,.viafoura.co,"This cookie is used to testing if 3rd party cookies are supported",Session,Viafoura,https://viafoura.com/privacy-policy/,0
 ff6bda2f-98b3-4cc5-a4f6-712af4a838f5,Tailtarget,Marketing,ttbprf,.t.tailtarget.com,"This cookie is used for user segmentation",1 month,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
 e3dc47c3-5c5c-4c79-82f6-5670019f2a61,Tailtarget,Marketing,ttc,.t.tailtarget.com,"This cookie is used for user segmentation with user´s cache expiration",1 day,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
@@ -1659,7 +1659,7 @@ e8ca8ad5-9127-4e6d-a28c-fd517cc388b8,Tailtarget,Marketing,ttnprf,.t.tailtarget.c
 67999a45-2f58-4064-8b57-ea0f249c937a,Tailtarget,Marketing,u,.t.tailtarget.com,"This cookie is used for user segmentation identifying the user uniquely",1 year,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
 15a40bc2-afe4-4270-82da-7a95f4172856,Tailtarget,Marketing,trk,.t.tailtarget.com,"This cookie is used for deliver ads",1 month,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
 d0519a4b-ffd4-4ce9-b4db-f63eed756d54,Tailtarget,Marketing,ttca,.t.tailtarget.com,"This cookie is used for deliver ads with users'conversion data",30 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
-235735ae-0c85-4009-b6f4-4dc283345c44,Tailtarget,Marketing,tp*,.t.tailtarget.com,"This cookie is used for deliver ads, using synchronous id for DSP",30 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
+235735ae-0c85-4009-b6f4-4dc283345c44,Tailtarget,Marketing,tp,.t.tailtarget.com,"This cookie is used for deliver ads, using synchronous id for DSP",30 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,1
 49615b53-95cd-4ce3-a6ea-d31d36669a04,Tailtarget,Functional,dc,.t.tailtarget.com,"This cookie is used for sync with Google services",30 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
 93bcd441-ff31-4e3c-948f-367c052cac59,Tailtarget,Marketing,ttgcm,.t.tailtarget.com,"This cookie is used for sync with Google services",14 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
 97c3b930-9f3f-4f62-8ddd-6fb07a4fe3a3,Tailtarget,Marketing,_ssc,.t.tailtarget.com,"This cookie is used for indicate user access to the same site",2 days,Totvs,https://www.totvs.com/protecao-e-privacidade-de-dados/,0
