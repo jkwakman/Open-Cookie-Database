@@ -319,7 +319,6 @@ da6f4e9e-8e66-40a1-902a-a17588932f39,X,Marketing,"tfw_exp",.twitter.com,"These c
 ab213874-e693-4de7-a939-d051ab018570,Indeed,Functional,INDEED_CSRF_TOKEN,,"This cookie is used by Cloudflare to identify trusted web traffic.",Session,Indeed,https://www.indeed.com/legal,0
 0b4227d4-2473-4ff5-9408-bf219843b6e3,Indeed,Analytics,jasx_pool_id,,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Session,Indeed,https://www.indeed.com/legal,0
 2c1380a0-ec77-4161-af73-292f48c3ced3,Indeed,Analytics,pagead/conv/%INTEGER%,,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Session,Indeed,https://www.indeed.com/legal,0
-a7bf025c-8de9-4230-aee6-891c6b1cc267,Indeed,Functional,LOCALE,indeed.com,"This cookie stores the users locale and is used to display market specific content."
 06dcc491-d34b-456f-ae56-f683284f5dbd,Abovo Media,Analytics,tv_spot_tracker,,Contains information about the timeslot of a running TV ad,End of session (browser),Abovo Media,https://www.abovomedia.nl/cookies/,0
 cf563c2f-115b-43c1-82cd-93030ef4fe6c,CookieConsent.io,Functional,cookie-consent-io,,"Registers cookie preferences of a user",1 year,CookieConsent.io,https://www.cookieconsent.io/cookies/,0
 7ca640be-cf2f-41fe-9290-58813a1f28aa,CookieConsent.io,Functional,cookie-consent-io-timestamp,,"Registers user activity timestamp",30 days,CookieConsent.io,https://www.cookieconsent.io/cookies/,1
