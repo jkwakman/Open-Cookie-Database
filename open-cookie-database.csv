@@ -791,6 +791,43 @@ bcea7287-06f2-44b6-9883-d6623dab4587,Shopify,Functional,cart_currency,"shopify.c
 df4eda36-4b3a-476f-9ff2-b89b2efc990c,Shopify,Functional,locale_bar_accepted,"","This cookie is provided by app (BEST Currency Converter) and is used to secure currency chosen by the customer.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 f1633975-043b-462c-9469-485ff8f303c2,Shopify,Functional,_cmp_a,"","Used for managing customer privacy settings.","1 day",Shopify.com,https://www.shopify.com/legal/cookies,0
 38e6da70-a8e5-4e7d-acc5-5cce2c8520ad,Shopify,Functional,_shopify_country,"","For shops where pricing currency/country set from GeoIP, that cookie stores the country we've detected. This cookie helps avoid doing GeoIP lookups after the first request.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
+36987975-8709-48e7-8ad4-0e6cbadef1e4,Shopify,Functional,_customer_account_shop_sessions,,"Used in combination with the _secure_account_session_id cookie to track a user's session for new customer accounts",30 days,Shopify.com,https://www.shopify.com/legal/cookies,0
+8e282de0-355d-4f11-a1b5-f56802ed508f,Shopify,Functional,_secure_account_session_id,,"Used to track a user's session for new customer accounts",30 Days,Shopify.com,https://www.shopify.com/legal/cookies,0
+91e35d09-af8f-4bf7-9f54-198c6908210d,Shopify,Functional,_shopify_m,shopify.com,"Used for managing customer privacy settings.",1 year,Shopify.com,https://www.shopify.com/legal/cookies,0
+9a87f042-b73e-4124-bae4-6463dd71b893,Shopify,Functional,_shopify_tm,shopify.com,"Used for managing customer privacy settings.",30 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+41d18ff6-bc29-490c-bcad-48183f213281,Shopify,Functional,_shopify_tw,shopify.com,"Used for managing customer privacy settings.",2 weeks,Shopify.com,https://www.shopify.com/legal/cookies,0
+961c17d4-7f5a-4fd7-b6f1-518d37f3dd83,Shopify,Functional,_storefront_u,shopify.com,"Used to facilitate updating customer account information.",1 minute,Shopify.com,https://www.shopify.com/legal/cookies,0
+27e9ecb1-599c-43a1-b0c6-06077e110d59,Shopify,Functional,customer_account_locale,shopify.com,"Used in connection with new customer accounts",1 year,Shopify.com,https://www.shopify.com/legal/cookies,0
+5a617fcc-285f-43d0-9392-8465cf419b41,Shopify,Functional,hide_shopify_pay_for_checkout,shopify.com,"Used in connection with checkout.",Session,Shopify.com,https://www.shopify.com/legal/cookies,0
+997a6f34-b46f-42c6-8122-36a576d853b4,Shopify,Functional,master_device_id,shopify.com,"Used in connection with merchant login.",2 years,Shopify.com,https://www.shopify.com/legal/cookies,0
+903bc761-0581-4f62-9073-de71850ee6e8,Shopify,Functional,previous_step,shopify.com,"Used in connection with checkout.",1 year,Shopify.com,https://www.shopify.com/legal/cookies,0
+596e690c-c0d3-473c-bcc3-a6b82ce5c887,Shopify,Functional,discount_code,shopify.com,"Used in connection with checkout.",Session,Shopify.com,https://www.shopify.com/legal/cookies,0
+3d286b04-daa6-449f-b468-23e483ff191e,Shopify,Functional,remember_me,shopify.com,"Used in connection with checkout.",1 Year,Shopify.com,https://www.shopify.com/legal/cookies,0
+bf479a72-a40e-4ef1-852a-30211a665fe6,Shopify,Functional,shopify_pay,shopify.com,"Used in connection with checkout.",1 Year,Shopify.com,https://www.shopify.com/legal/cookies,0
+9a1a244e-c366-4d25-b962-6bc7a7cd3d33,Shopify,Functional,shop_pay_accelerated,shopify.com,"Used in connection with checkout.",1 Year,Shopify.com,https://www.shopify.com/legal/cookies,0
+a5995c74-f399-49c7-8aab-0034143d8b38,Shopify,Functional,checkout_prefill,shopify.com,"Used in connection with checkout.",5 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+eb6826c9-6a4e-45a5-9369-3740c665352f,Shopify,Functional,checkout_queue_token,shopify.com,"Used in connection with checkout.",1 Year,Shopify.com,https://www.shopify.com/legal/cookies,0
+87fbfda8-291a-43fe-8526-ef8b941b4c1d,Shopify,Functional,checkout_worker_session,shopify.com,"Used in connection with checkout.",3 days,Shopify.com,https://www.shopify.com/legal/cookies,0
+b6017992-ef4d-428c-8451-355a245a0839,Shopify,Functional,checkout_session_token_,shopify.com,"Used in connection with checkout.",3 weeks,Shopify.com,https://www.shopify.com/legal/cookies,1
+db8a2848-8814-4873-b929-c772c180a749,Shopify,Functional,identity-state,shopify.com,"Used in connection with customer authentication",24 hours,Shopify.com,https://www.shopify.com/legal/cookies,0
+71952385-014e-4d6c-9ce5-642be5a41a84,Shopify,Functional,identity-state-,shopify.com,"Used in connection with customer authentication",24 hours,Shopify.com,https://www.shopify.com/legal/cookies,1
+96bca650-4d60-491f-80a5-b798429ce072,Shopify,Functional,identity_customer_account_number,shopify.com,"Used in connection with customer authentication",12 weeks,Shopify.com,https://www.shopify.com/legal/cookies,0
+e9786556-51ea-48d4-9175-1162a877ddb7,Shopify,Functional,card_update_verification_id,shopify.com,"Used in connection with checkout.",20 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+8eda59fc-ed15-4d90-b3e5-218b569fbcab,Shopify,Functional,customer_account_new_login,shopify.com,"Used in connection with customer authentication",24 hours,Shopify.com,https://www.shopify.com/legal/cookies,0
+52b2c26d-4fd7-4fb1-b336-f3c961374b06,Shopify,Functional,customer_account_preview,shopify.com,"Used in connection with customer authentication",7 days,Shopify.com,https://www.shopify.com/legal/cookies,0
+122d9f7d-7770-4564-acf9-27900fef1375,Shopify,Functional,customer_payment_method,shopify.com,"Used in connection with checkout.",1 hour,Shopify.com,https://www.shopify.com/legal/cookies,0
+aeb185be-8020-4b4f-92b9-1891ca02df6e,Shopify,Functional,customer_shop_pay_agreement,shopify.com,"Used in connection with checkout.",1 hour,Shopify.com,https://www.shopify.com/legal/cookies,0
+2b7f5f70-48b3-4db2-b17a-665a7b616ed1,Shopify,Functional,pay_update_intent_id,shopify.com,"Used in connection with checkout.",20 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+3c6c1e40-05e6-4152-a17d-8aa840b75247,Shopify,Functional,profile_preview_token,shopify.com,"Used in connection with checkout.",5 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+43d2f8d1-81f9-44b4-9676-20d6c18ff9f2,Shopify,Functional,login_with_shop_finalize,shopify.com,"Used in connection with customer authentication",5 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+22e8e52e-4da3-46a1-b456-f760858d2799,Shopify,Functional,preview_theme,shopify.com,"Used in connection with the theme editor",Session,Shopify.com,https://www.shopify.com/legal/cookies,0
+73e28a66-9455-4a41-9bd1-098186248ef0,Shopify,Functional,shopify-editor-unconfirmed-settings,shopify.com,"Used in connection with the theme editor",16 hours,Shopify.com,https://www.shopify.com/legal/cookies,0
+6b6b9eaf-3f9c-40a4-854d-8d136eb3baa9,Shopify,Analytics,_shopify_d,,"Shopify analytics.",Session,Shopify.com,https://www.shopify.com/legal/cookies,0
+c4aca0db-7dc7-4c1c-987a-576aef73ef41,Shopify,Analytics,_shopify_fs,,"Shopify analytics.",30 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+a2bc0b4c-41a8-4e90-8ee9-2b1f34d53c88,Shopify,Analytics,shop_analytics,,"Shopify analytics.",30 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+90a43d1d-e187-40f7-af1a-b1b14632b849,Shopify,Analytics,_shopify_sa_p,,"Shopify analytics relating to marketing & referrals.",30 minutes,Shopify.com,https://www.shopify.com/legal/cookies,0
+7a9fc53a-0bf3-4836-9054-ce5e726025ea,Shopify,Analytics,_shopify_y,,"Shopify analytics.",1 Year,Shopify.com,https://www.shopify.com/legal/cookies,0
+9a486145-3a75-4cc2-ab5e-34a6030911df,Shopify,Analytics,_shopify_ga,,"Shopify and Google Analytics.",Session,Shopify.com,https://www.shopify.com/legal/cookies,0
 96098b04-6859-4c46-b254-780891ef9ec7,Hubspot,Functional,__hs_opt_out,"hubspot.com","This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again.",13 months,HubSpot,https://legal.hubspot.com/privacy-policy,0
 761003cd-e442-4cb9-b6dc-edfbbc51a9d7,Hubspot,Functional,__hs_do_not_track,"hubspot.com","This cookie can be set to prevent the tracking code from sending any information to HubSpot.",13 months,HubSpot,https://legal.hubspot.com/privacy-policy,0
 70cdab38-f868-4238-9618-1f4119d7ef9b,Hubspot,Functional,__hs_initial_opt_in,"hubspot.com","This cookie is used to prevent the banner from always displaying when visitors are browsing in strict mode.",7 days,HubSpot,https://legal.hubspot.com/privacy-policy,0
