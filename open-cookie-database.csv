@@ -725,6 +725,10 @@ a92a94f8-74f6-41e3-853c-d8a66cd78ea1,Matomo,Analytics,_pk_ses,"","Short lived co
 db0dbc7f-dd7d-4e19-af62-a0db83f8ca2e,Matomo,Analytics,_pk_hsr,"","Short lived cookies used to temporarily store data for the visit",30 minutes,Matomo,https://matomo.org/privacy-policy/,1
 73a8e9ca-6f5a-46d9-a270-ef3136f05d13,Matomo,Analytics,_pk_testcookie,"","Cookie is created and should be then directly deleted (used to check whether the visitor’s browser supports cookies)",session,Matomo,https://matomo.org/privacy-policy/,1
 d3e732b4-f6ea-448a-8276-5b5d76d7f5dc,Matomo,Analytics,mtm_consent,"","Cookie is created with no expiry date to forever remember that consent was given by the user.",forever,Matomo,https://matomo.org/privacy-policy/,0
+cf48ca73-2c7c-409d-ba08-c8e32b44a1d9,Matomo,Analytics,mtm_consent_removed,,"Cookie is used to store the user consent preference",forever,Matomo,https://matomo.org/privacy-policy/,0
+0622a84d-0a73-4086-bdd9-48a37c01fbe8,Matomo,Analytics,mtm_cookie_consent,,"Cookie is used to store the user consent preference",forever,Matomo,https://matomo.org/privacy-policy/,0
+c734b67c-a1dd-4e52-b63b-0275ce06d202,Matomo,Analytics,matomo_ignore,,"cookie will be a third party cookie. This cookie does not contain personal information or any ID and the cookie value is the same for all visitors)",30 years,Matomo,https://matomo.org/privacy-policy/,0
+cc4c8b7b-d6ee-4c9c-acb2-0caef86f595f,Matomo,Analytics,matomo_sessid,,"when you use the opt-out feature (this is called a nonce and helps prevent CSRF security issues)",14 days,Matomo,https://matomo.org/privacy-policy/,0
 62cae092-29cc-4dd2-a326-3e19a984df6d,Datatrics,Marketing,datatrics_optin,"","Saving opt-in preferences.",undefined,Datatrics,https://www.datatrics.com/privacy,0
 a6b6adb1-fb5f-4cbe-a651-5927c94fdc14,Datatrics,Marketing,datatricsDebugger,"","Saving Datatrics debugger preferences.",undefined,Datatrics,https://www.datatrics.com/privacy,0
 33a6f48c-b796-43f5-a083-dc093d0d0db0,Datatrics,Marketing,datatrics_customData,"","Saving defined custom data.",undefined,Datatrics,https://www.datatrics.com/privacy,0
