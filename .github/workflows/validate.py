@@ -46,4 +46,4 @@ def validate_csv(file_path):
     print("CSV file is valid.")
     return True
 
-validate_csv('../../open-cookie-database.csv')
+validate_csv('open-cookie-database.csv')
