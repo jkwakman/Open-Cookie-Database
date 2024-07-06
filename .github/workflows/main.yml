@@ -16,4 +16,4 @@ jobs:
         pip install pandas
     - name: Validate CSV
       run: |
-        python .github/actions/validate.py
+        python .github/workflows/validate.py
