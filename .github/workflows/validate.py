@@ -11,7 +11,7 @@ def validate_uuid(uuid_string):
 def validate_csv(file_path):
     df = pd.read_csv(file_path)
     columns = ['ID', 'Platform', 'Category', 'Cookie / Data Key name', 'Domain', 'Description', 'Retention period', 'Data Controller', 'User Privacy & GDPR Rights Portals', 'Wildcard match']
-    valid_categories = ['Functional', 'Analytics', 'Marketing', 'Security']
+    valid_categories = ['Functional','Personalization','Analytics', 'Marketing', 'Security']
     
     # Check if CSV has valid structure and contains necessary columns
     if not set(columns).issubset(df.columns):
