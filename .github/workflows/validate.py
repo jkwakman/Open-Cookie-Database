@@ -37,11 +37,8 @@ def validate_csv(file_path):
 
     # Check if 'Cookie / Data Key name' column contains unique values
     if not df['Cookie / Data Key name'].is_unique:
-        print("::warning file=open-cookie-database.csv,line=1,col=1::'Cookie / Data Key name' contains none unique values. Please check for duplicates.")
-        
-        non_unique = df[df.duplicated('Cookie / Data Key name')]['Cookie / Data Key name']
-        print("Non-unique values are:")
-        print(non_unique)
+        non_unique_cookies = df[df.duplicated('Cookie / Data Key name', keep=False)]['Cookie / Data Key name']
+        print(f"::warning file=open-cookie-database.csv,line=1,col=1::'Cookie / Data Key name' contains non-unique values. Please check for duplicates. Non-unique cookie names are: \n{non_unique_cookies}")
 
     print("CSV file is valid.")
     return True
