@@ -16,9 +16,10 @@ All contributions are gratefully received. To contribute to the Open Cookie Data
 The definitions of the categories are as follows:
 
 - Functional (also known as technical, essential or strictly necessary)
-- Preferences (also known as functionality)
+- Personalization (also known as preferences)
 - Analytics (also known as performance or statistics)
 - Marketing (also known as tracking or social media)
+- Security
 
 # Wildcard match
 The last column in the database is called "Wildcard match". A `0` in this column means that the cookie name is not a wildcard, and a 1 means that the cookie name is a wildcard.
