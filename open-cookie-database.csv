@@ -18,9 +18,7 @@ d7496a0e-7f4b-4e20-b288-9d5e4852fa79,Google Analytics,Analytics,_ga_,,"ID used t
 256c1ae6-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,_gid,,"ID used to identify users for 24 hours after last activity",24 hours,Google,https://business.safety.google/privacy/,0
 256c1c3a-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,_gat,,"Used to monitor number of Google Analytics server requests when using Google Tag Manager",1 minute,Google,https://business.safety.google/privacy/,1
 256c1d7a-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,_dc_gtm_,,"Used to monitor number of Google Analytics server requests",1 minute,Google,https://business.safety.google/privacy/,1
-256c1eba-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,AMP_TOKEN,,"Contains a token code that is used to read out a Client ID from the AMP Client ID Service. By matching this ID with that of Google Analytics, users can be matched when switching between AMP content and non-AMP content.
-
-Reference: https://support.google.com/analytics/answer/7486764?hl=en",30 seconds till 1 year,Google,https://business.safety.google/privacy/,0
+256c1eba-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,AMP_TOKEN,,"Contains a token code that is used to read out a Client ID from the AMP Client ID Service. By matching this ID with that of Google Analytics, users can be matched when switching between AMP content and non-AMP content. Reference: https://support.google.com/analytics/answer/7486764?hl=en",30 seconds till 1 year,Google,https://business.safety.google/privacy/,0
 2caa7a78-e93f-49ca-8fe6-1aaafae1efaa,Google Analytics,Analytics,_gat_gtag_,,"Used to set and get tracking data",1 hour,Google,https://business.safety.google/privacy/,1
 256c2090-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Marketing,_gac_,,Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.,90 days,Google,https://business.safety.google/privacy/,1
 256c26f8-d881-11e9-8a34-2a2ae2dbcce4,Google Analytics,Analytics,__utma,,ID used to identify users and sessions,2 years after last activity,Google,https://business.safety.google/privacy/,0
@@ -170,39 +168,22 @@ Contents: User ID and miscellaneous log in information (e.g., number of logins p
 256c61a4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,xs,facebook.com (3rd party),"Used in conjunction with the c_user cookie to authenticate your identity to Facebook.
 
 Contents: Session ID, creation time, authentication value, secure session state, caching group ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c62da-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,c_user,facebook.com (3rd party),"Used in conjunction with the xs cookie to authenticate your identity to Facebook.
-
-Contents: User ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c6668-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,m_user,facebook.com (3rd party),"Used to authenticate your identity on Facebook's mobile website.
-
-Contents: Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator",90 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c67a8-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,pl,facebook.com (3rd party),"Used to record that a device or browser logged in via Facebook platform.
-
-Contents: Y/N",90 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c68fc-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,dbln,facebook.com (3rd party),"Used to enable device-based logins
-
-Contents: Login authentication values",2 years,Facebook,https://www.facebook.com/about/privacy/,0
-256c6a32-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,aks,facebook.com (3rd party),"Determines the login state of a person visiting accountkit.com
-
-Contents: Account kit access token",30 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c6b68-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,aksb,facebook.com (3rd party),"Authenticates logins using Account Kit
-
-Contents: Request time value",30 minutes,Facebook,https://www.facebook.com/about/privacy/,0
-256c6d8e-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,sfau,facebook.com (3rd party),"Optimizes recovery flow after failed login attempts
-
-Contents: Encrypted user ID, contact point, time stamp, and other login information",1 day,Facebook,https://www.facebook.com/about/privacy/,0
+256c62da-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,c_user,facebook.com (3rd party),"Used in conjunction with the xs cookie to authenticate your identity to Facebook. Contents: User ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c6668-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,m_user,facebook.com (3rd party),"Used to authenticate your identity on Facebook's mobile website. Contents: Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator",90 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c67a8-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,pl,facebook.com (3rd party),"Used to record that a device or browser logged in via Facebook platform. Contents: Y/N",90 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c68fc-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,dbln,facebook.com (3rd party),"Used to enable device-based logins Contents: Login authentication values",2 years,Facebook,https://www.facebook.com/about/privacy/,0
+256c6a32-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,aks,facebook.com (3rd party),"Determines the login state of a person visiting accountkit.com Contents: Account kit access token",30 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c6b68-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,aksb,facebook.com (3rd party),"Authenticates logins using Account Kit Contents: Request time value",30 minutes,Facebook,https://www.facebook.com/about/privacy/,0
+256c6d8e-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,sfau,facebook.com (3rd party),"Optimizes recovery flow after failed login attempts Contents: Encrypted user ID, contact point, time stamp, and other login information",1 day,Facebook,https://www.facebook.com/about/privacy/,0
 256c7176-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,ick,facebook.com (3rd party),Stores an encryption key used to encrypt cookies,2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c72f2-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,csm,facebook.com (3rd party),Insecure indicator,90 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c74c8-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,s,facebook.com (3rd party),"
-Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.",90 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c74c8-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,s,facebook.com (3rd party),"Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.",90 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c7612-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,datr,facebook.com (3rd party),"Used to prevent creation of fake / spammy accounts. Datr cookie is associated with a browser, not individual people.",2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c7752-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,sb,facebook.com (3rd party),"Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.",2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c787e-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,fr,facebook.com (3rd party),"Contains a unique browser and user ID, used for targeted advertising.",90 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c7c5c-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,oo,facebook.com (3rd party),Ad optout cookie,5 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c7db0-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,ddid,facebook.com (3rd party),Used to open a specific location in an advertiser's app upon installation,28 days,Facebook,https://www.facebook.com/about/privacy/,0
-256c7f04-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,locale,facebook.com (3rd party),"This cookie contains the display locale of the last logged in user on this browser. This cookie
-appears to only be set after the user logs out.
-The locale cookie has a lifetime of one week.",7 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c7f04-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,locale,facebook.com (3rd party),"This cookie contains the display locale of the last logged in user on this browser. This cookie appears to only be set after the user logs out. The locale cookie has a lifetime of one week.",7 days,Facebook,https://www.facebook.com/about/privacy/,0
 0d249cd5-ae35-4dbb-ad00-d5ca46948619,Facebook,Marketing,_fbp,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,4 months,Facebook,https://www.facebook.com/about/privacy/,0
 d437b1da-7729-4c74-a5cc-e73620f5e381,Facebook,Marketing,_fbc,facebook.com (3rd party),Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,2 years,Facebook,https://www.facebook.com/about/privacy/,0
 256c8170-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,js_ver,facebook.com (3rd party),Records the age of Facebook javascript files.,7 days,Facebook,https://www.facebook.com/about/privacy/,0
