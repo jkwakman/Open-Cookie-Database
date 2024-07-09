@@ -1,8 +1,8 @@
 ## Introduction
 
-This document aims to help contributors update the Open Cookie database. Contributors can add new cookies, update existing information, or ensure the correct categorization and descriptions of cookies.
+This document aims to help contributors update the Open Cookie database. An open source project that helps to identify cookies around the web. Contributors can add new cookies, update existing information, or ensure the correct categorization and descriptions of cookies.
 
-The information gathering process aims to identify uncategorized cookies to support users and developers in gathering more information about the cookies set on their websites. The Open Cookie Database is an open-source database used by PSAT and other projects that maps cookies around the web, providing the following information: 
+The process to identify cookies on the web helps gathering information for several research and open source projects that uses as a source the Open Cookie Database. The database provides the following information: 
 - **ID**: unique ID to identify the cookie
 - **Platform**: Platform/Service responsible for setting the cookie 
 - **Category**: Classification for the cookie's usage: Functional, Analytics, Marketing
@@ -15,30 +15,46 @@ The information gathering process aims to identify uncategorized cookies to supp
 - **Wildcard**: A 0 in this column means that the cookie name is not a wildcard, and a 1 means that the cookie name is a wildcard
 
 ## Research
-Contributing recently to the database, we recommend the following steps for collecting information about the cookie:
+The first step are identify cookies that are not listed on the database, the contributor can following steps for collecting information about the cookie:
 
 1. First, identify the cookie name and domain related to the cookie.
 2. Use a search engine to find relative information about the cookie.
-3. Use first queries to find information about the related domain, for example, site:example.com cookie-name. 
-  a. In this case, the search will look for pages that contain references for the cookie name only in the described domain.
-4. If you don’t find any information about it, on the previous search. Try to search by the specific name of the cookie, “cookie-name” with a double quote, and the domain used by the cookie. 
-  a. As a result, the search engine will be more strict with results that only contain the cookie name.
+3. Use first queries to find information about the related domain, for example, `site:example.com "cookie-name"`. 
+  a. In this case, the search will only list pages from the passed domain, that contain references for the exact cookie name.
+4. If you don’t find any information about it, on the previous search. Try to search by the specific name of the cookie, `cookie “cookie-name” from example.com` with a double quote, and the domain used by the cookie. 
+  a. As a result, the search engine will be more strict with results that only contain the cookie name, but look into other domains.
 
-If you find pages outside the company responsible for the cookie, double-check on more than one page to see if the description matches on more than one page. Review the information and double-check if the cookie wasn’t registered previously. 
+If you find pages outside the company responsible for the cookie, double-check on more than one source to see if the description matches on more than one page. Review the information and and finally double-check if the cookie wasn’t registered previously.
 
 
-## Categorization
-Finding information about cookies is free for the person executing the audit. You will need to find the company responsible for the cookie, a category where this cookie fits, a description, and the retention period.
+### Categorization
+Finding information about cookies is free for the person executing the audit. You will need to find the company responsible for the cookie, a category where this cookie fits, a description, and the retention period. The accepted categories are:
 
-This information can be collected from more than one webpage. Pages like the Privacy policy, cookies policy, and developer documentation are the main sources of that information. We recommend looking first at the company's website responsible for cookies (Data Controller) and after partners who used the service or Cookiepedia. 
+1. Analytics
+2. Functional
+3. Marketing
+4. Security
+5. Personalization
+
+This information can be collected from more than one webpage. Pages like the **Privacy Policy**, **Cookies Policy**, and developer documentation are the main sources of that information. We recommend looking first at the company's website responsible for cookies (Data Controller) and after partners who used the service or [Cookiepedia](https://cookiepedia.co.uk/).
+
+### How to organize the cookies
+Those steps are not a requirement but can help to organize the database.
+When you add cookies from a platform already registered in the database, try to group them in the same group.
+Cookies from the same platform can also be organized by product.
 
 ## Contributing to the repository
-To contribute to the project, you will need a GitHub account for version control and a text editor like VS Code or a similar editor for the CSV file.
+To contribute to the project, you will need a [GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for version control and a text editor like [VS Code](https://code.visualstudio.com/) or a similar editor for the CSV file.
+
+To help editing the CSV some code editor, such as, Visual Code, have extensions to provide a better visualization from the CSV file:
+
+- [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+- [CSV rainbow](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [CSV to table](https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table)
 
 You can fork the GitHub project to start editing and creating your branches. Once you've filled in the information about the cookie, you'll be required to make a pull request to be evaluated by the repository owner. In the following section, we will explain step-by-step how you can set up the project.
 
 ## Setup repository on your local
-
 Once you have your GitHub account, you must fork the Open Cookie Database repository. This step will create a repository with the same code and visibility in your account.
 
 To fork, click on the fork button in the top-right corner of the upstream repository. 
@@ -55,22 +71,48 @@ Open the terminal on Mac or PowerShell on Windows.
 5. Open the file open-cookie-database.csv and start to contribute.
 
 ## Editing
-Once you are ready, remember to create a branch, for example, `cookie-[vendor-name]` to submit your changes and start editing the file. The first information is a UUID to register the new cookie. A unique ID creates this information. You can find it online at websites like https://www.uuidgenerator.net/ or use the node package UUID: `$ npx uuid`. 
+Once you are ready, remember to create a branch, for example, `cookie-[vendor-name]` to submit your changes and start editing the file. The first information is a UUID to register the new cookie. A unique ID creates this information. You can find it online at websites like [uuid generator](https://www.uuidgenerator.net/) or use the node package UUID: `$ npx uuid`. 
 
 Add the related information to the cookie, and two fields could have special attention. The cookie name could have a dynamic ID, for example, `cookie_[site-id]`. If this applies to your case, the last property on the cookie is a wildcard. For wildcard cookies, set the value to 1 instead; the dynamic property doesn’t need to be specified. For example, we set the previous cookie as `cookie_`.
 
 In another scenario, some solutions set the cookies as first-party; for this scenario, it can be empty.
 
-## How to organize the cookies
-Those steps are not a requirement but can help to organize the database.
-When you add cookies from a platform already registered in the database, try to group them in the same group.
-Cookies from the same platform can also be organized by product.
-
 ## Creating a pull request
 After adding the new information, make sure to save the changes and start the process of submitting the changes:
-Stage the changes from the open-cookie-database.csv by running:
-$ git add  open-cookie-database.csv
-After staging the changes, commit it by running:
-$ git commit -am “The {X} number of cookies are added for {vendor}.” 
-Once changes are committed, push the branch by running:
-$ git push origin cookie-vendor-name
+1. Stage the changes from the open-cookie-database.csv by running:
+ `$ git add  open-cookie-database.csv`z
+
+2. After staging the changes, commit it by running:
+`$ git commit -am “The {X} number of cookies are added for {vendor}.” `
+
+3. Once changes are committed, push the branch by running:
+ `$ git push origin cookie-vendor-name`
+
+ Once the changes are pushed to a remote branch on GitHub, you are ready to create a pull request. Go to your GitHub account and create a New pull request as in the image below:
+
+ Set In the description of your pull request to the repository, you can use the following templates:
+
+```
+** Description **
+
+This pull request contains [x] cookies from [company name] 
+
+[company introduction if it was never listed on the cookie database]
+
+
+** Source **
+
+[list the links that you used to register the data]
+```
+
+Add the details to the description and click on the create pull request button. Your pull request will be created.
+
+Once your pull request is created, the author of the upstream repo will review it. Once they are reviewed, he will approve and merge them. 
+
+## Updating your local repo
+
+When the pull request is merged or if there are any new changes in the upstream repo, you will need to update your repo on GitHub and your clone on the computer.
+
+First, visit your forked repo and click on the **“Sync Fork”** button to keep your GitHub repo updated upstream. 
+
+Secondly, open your clone in a terminal and run the `git checkout master` and `git pull origin master` commands. Your local repo will be updated with the latest changes. 
