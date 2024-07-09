@@ -162,12 +162,8 @@ d3310445-3289-4ae1-8086-4ca24f95c18a,Adobe Audience Manager,Marketing,dpm,,"DPM 
 256c5df8-d881-11e9-8a34-2a2ae2dbcce4,Adform,Marketing,CFFC,adform.net (3rd party),Registers max. number of impressions (frequency cap) for compound banners,7 days,Adform,https://site.adform.com/privacy-center/overview,1
 256c5f2e-d881-11e9-8a34-2a2ae2dbcce4,Adform,Marketing,DigiTrust.v1.identity,adform.net (3rd party),"Unique value with which the user is identified by DigiTrust, an independent industrial body",7 days,Adform,https://site.adform.com/privacy-center/overview,0
 5c4d75ef-55cf-4483-9a9d-a33ce8e950b5,Adform,Marketing,adformfrpid,,"Collects data on the user across websites - This data is used to make advertisement more relevant.",30 days,Adform,https://site.adform.com/privacy-center/overview,0
-256c606e-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,lu,facebook.com (3rd party),"Used to record whether the person chose to remain logged in
-
-Contents: User ID and miscellaneous log in information (e.g., number of logins per account, state of the ""remember me"" check box, etc.)",2 year,Facebook,https://www.facebook.com/about/privacy/,0
-256c61a4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,xs,facebook.com (3rd party),"Used in conjunction with the c_user cookie to authenticate your identity to Facebook.
-
-Contents: Session ID, creation time, authentication value, secure session state, caching group ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
+256c606e-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,lu,facebook.com (3rd party),"Used to record whether the person chose to remain logged in Contents: User ID and miscellaneous log in information (e.g., number of logins per account, state of the ""remember me"" check box, etc.)",2 year,Facebook,https://www.facebook.com/about/privacy/,0
+256c61a4-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,xs,facebook.com (3rd party),"Used in conjunction with the c_user cookie to authenticate your identity to Facebook. Contents: Session ID, creation time, authentication value, secure session state, caching group ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c62da-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,c_user,facebook.com (3rd party),"Used in conjunction with the xs cookie to authenticate your identity to Facebook. Contents: User ID",90 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c6668-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,m_user,facebook.com (3rd party),"Used to authenticate your identity on Facebook's mobile website. Contents: Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator",90 days,Facebook,https://www.facebook.com/about/privacy/,0
 256c67a8-d881-11e9-8a34-2a2ae2dbcce4,Facebook,Marketing,pl,facebook.com (3rd party),"Used to record that a device or browser logged in via Facebook platform. Contents: Y/N",90 days,Facebook,https://www.facebook.com/about/privacy/,0
