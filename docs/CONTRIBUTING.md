@@ -2,7 +2,7 @@
 
 This document aims to help contributors update the Open Cookie database. An open source project that helps to identify cookies around the web. Contributors can add new cookies, update existing information, or ensure the correct categorization and descriptions of cookies.
 
-The process to identify cookies on the web helps gathering information for several research and open source projects that uses as a source the Open Cookie Database. The database provides the following information: 
+The process to identify cookies on the web helps gathering information for research and open source projects that use the Open Cookie Database as their main source. The database provides the following information: 
 - **ID**: unique ID to identify the cookie
 - **Platform**: Platform/Service responsible for setting the cookie 
 - **Category**: Classification for the cookie's usage: Functional, Analytics, Marketing
@@ -10,12 +10,12 @@ The process to identify cookies on the web helps gathering information for sever
 - **Domain**: The domain in which the cookie is set; it can have a specific value or be empty when the cookie is set as the first party.
 - **Description**: An introduction to the utility of the cookie  
 - **Retention period**: The time when the cookie storage expires
-- **Data Controlle**r: The company responsible for controlling the data
+- **Data Controller**: The company responsible for controlling the data
 - **User Privacy & GDPR**: URL from the Privacy policy page or GDPR compliance
 - **Wildcard**: A 0 in this column means that the cookie name is not a wildcard, and a 1 means that the cookie name is a wildcard
 
 ## Research
-The first step are identify cookies that are not listed on the database, the contributor can following steps for collecting information about the cookie:
+The first step are identifying cookies that are not listed on the database. The contributor can use the following steps for collecting information about the cookie:
 
 1. First, identify the cookie name and domain related to the cookie.
 2. Use a search engine to find relative information about the cookie.
@@ -24,7 +24,7 @@ The first step are identify cookies that are not listed on the database, the con
 4. If you don’t find any information about it, on the previous search. Try to search by the specific name of the cookie, `cookie “cookie-name” from example.com` with a double quote, and the domain used by the cookie. 
   a. As a result, the search engine will be more strict with results that only contain the cookie name, but look into other domains.
 
-If you find pages outside the company responsible for the cookie, double-check on more than one source to see if the description matches on more than one page. Review the information and and finally double-check if the cookie wasn’t registered previously.
+If you find pages outside the company responsible for the cookie, double-check on more than one source to see if the description matches on more than one page. Review the information and finally double-check if the cookie wasn’t registered previously.
 
 
 ### Categorization
@@ -46,7 +46,7 @@ Cookies from the same platform can also be organized by product.
 ## Contributing to the repository
 To contribute to the project, you will need a [GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for version control and a text editor like [VS Code](https://code.visualstudio.com/) or a similar editor for the CSV file.
 
-To help editing the CSV some code editor, such as, Visual Code, have extensions to provide a better visualization from the CSV file:
+To improve the readability of the CSV file, some code editors, such as Visual Code, have extensions to provide a better visualization from the CSV file:
 
 - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
 - [CSV rainbow](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
