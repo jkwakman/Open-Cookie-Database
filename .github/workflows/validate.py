@@ -9,7 +9,7 @@ def validate_uuid(uuid_string):
     return True
 
 def validate_csv(file_path):
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, sep=',', skipinitialspace=True)
     columns = ['ID', 'Platform', 'Category', 'Cookie / Data Key name', 'Domain', 'Description', 'Retention period', 'Data Controller', 'User Privacy & GDPR Rights Portals', 'Wildcard match']
     valid_categories = ['Functional','Personalization','Analytics', 'Marketing', 'Security']
     
