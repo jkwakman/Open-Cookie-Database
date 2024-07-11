@@ -55,7 +55,9 @@ You can fork the GitHub project to start editing and creating your branches. Onc
 ## Setup repository on your local
 Once you have your GitHub account, you must fork the Open Cookie Database repository. This step will create a repository with the same code and visibility in your account.
 
-To fork, click on the fork button in the top-right corner of the upstream repository. 
+To fork, click on the fork button in the top-right corner of the upstream repository.
+
+<img src="https://i.ibb.co/XsdGHQ9/github-repo-open-cookie-db.png" alt="github-repo-open-cookie-db" width="640">
 
 Once your fork is ready, you must clone that repository to your computer. You can do this using the git command, or if you are not tech-savvy, you can use the GitHub application, which provides a GUI for ease of use.
 
@@ -64,21 +66,26 @@ We will discuss how you can  use the command line in the following process:
 Open the terminal on Mac or PowerShell on Windows.
 1. Enter the below command to clone the repository:
 2. `$ git clone git@github.com:yourgithubname/Open-Cookie-Database.git`
-3. Create a new branch from the master branch `$ git checkout -b cookie-vendor-name`
-4. And now, you are ready to collaborate with the Open Cookie database
-5. Open the file open-cookie-database.csv and start to contribute.
+
+<img src="https://i.ibb.co/z8WGHCX/github-clone-repo-open-Cookie.png" alt="github-clone-repo-open-Cookie" width="640">
+
+1. Create a new branch from the master branch `$ git checkout -b cookie-vendor-name`
+2. And now, you are ready to collaborate with the Open Cookie database
+3. Open the file open-cookie-database.csv and start to contribute.
 
 ## Editing
 Once you are ready, remember to create a branch, for example, `cookie-[vendor-name]` to submit your changes and start editing the file. The first information is a UUID to register the new cookie. A unique ID creates this information. You can find it online at websites like [uuid generator](https://www.uuidgenerator.net/) or use the node package UUID: `$ npx uuid`. 
 
 Add the related information to the cookie, and two fields could have special attention. The cookie name could have a dynamic ID, for example, `cookie_[site-id]`. If this applies to your case, the last property on the cookie is a wildcard. For wildcard cookies, set the value to 1 instead; the dynamic property doesn’t need to be specified. For example, we set the previous cookie as `cookie_`.
 
+<img src="https://i.ibb.co/Nn63CmP/open-cookie-db-vscode.png" alt="open-cookie-db-vscode" width="640">
+
 In another scenario, some solutions set the cookies as first-party; for this scenario, it can be empty.
 
 ## Creating a pull request
 After adding the new information, make sure to save the changes and start the process of submitting the changes:
 1. Stage the changes from the open-cookie-database.csv by running:
- `$ git add  open-cookie-database.csv`z
+ `$ git add  open-cookie-database.csv`
 
 2. After staging the changes, commit it by running:
 `$ git commit -am “The {X} number of cookies are added for {vendor}.” `
@@ -87,6 +94,8 @@ After adding the new information, make sure to save the changes and start the pr
  `$ git push origin cookie-vendor-name`
 
  Once the changes are pushed to a remote branch on GitHub, you are ready to create a pull request. Go to your GitHub account and create a New pull request as in the image below:
+
+<img src="https://i.ibb.co/4gCJwMQ/create-pr-open-cookie-database.png" alt="create-pr-open-cookie-database" width="640">
 
  Set In the description of your pull request to the repository, you can use the following templates:
 
