@@ -59,7 +59,7 @@ To fork, click on the fork button in the top-right corner of the upstream reposi
 
 <img src="https://lh3.googleusercontent.com/d/14cHx7Xf1085Stv4w6E_kCt3NrX3HzRKI" alt="Open cookie database repository" width="820">
 
-Once your fork is ready, you must clone that repository to your computer. You can do this using the git command, or if you are not tech-savvy, you can use the GitHub application, which provides a GUI for ease of use.
+Once your fork is ready, you must clone that repository to your computer. You can do this using the git command, or if you are not tech-savvy, you can use the [GitHub application](https://desktop.github.com/), which provides a GUI for ease of use.
 
 We will discuss how you can  use the command line in the following process:
 
