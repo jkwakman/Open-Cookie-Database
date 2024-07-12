@@ -95,7 +95,7 @@ After adding the new information, make sure to save the changes and start the pr
 
  Once the changes are pushed to a remote branch on GitHub, you are ready to create a pull request. Go to your GitHub account and create a New pull request as in the image below:
 
-<img src="https://lh3.googleusercontent.com/d/1ltTuyWELEb-39PYPkyTRdOG4uCfpCpxl" alt="creating a Pull request to the open cookie database" width="820">
+<img src="https://lh3.googleusercontent.com/d/1ltTuyWELEb-39PYPkyTRdOG4uCfpCpxl" alt="creating a pull request to the open cookie database" width="820">
 
  Set In the description of your pull request to the repository, you can use the following templates:
 
@@ -113,6 +113,8 @@ This pull request contains [x] cookies from [company name]
 ```
 
 Add the details to the description and click on the create pull request button. Your pull request will be created.
+
+<img src="https://lh3.googleusercontent.com/d/1WTl1EHEqEO1OgGLHhAHFEXb7YOGGCyBE" alt="Comparing changes on the pull request to the open cookie database" width="820">
 
 Once your pull request is created, the author of the upstream repo will review it. Once they are reviewed, he will approve and merge them. 
 
