@@ -57,7 +57,7 @@ Once you have your GitHub account, you must fork the Open Cookie Database reposi
 
 To fork, click on the fork button in the top-right corner of the upstream repository.
 
-<img src="https://i.ibb.co/XsdGHQ9/github-repo-open-cookie-db.png" alt="Open cookie database repository" width="640">
+<img src="https://lh3.googleusercontent.com/d/14cHx7Xf1085Stv4w6E_kCt3NrX3HzRKI" alt="Open cookie database repository" width="820">
 
 Once your fork is ready, you must clone that repository to your computer. You can do this using the git command, or if you are not tech-savvy, you can use the GitHub application, which provides a GUI for ease of use.
 
@@ -67,7 +67,7 @@ Open the terminal on Mac or PowerShell on Windows.
 1. Enter the below command to clone the repository:
 2. `$ git clone git@github.com:yourgithubname/Open-Cookie-Database.git`
 
-<img src="https://i.ibb.co/z8WGHCX/github-clone-repo-open-Cookie.png" alt="Clone repository on Github" width="640">
+<img src="https://lh3.googleusercontent.com/d/1XdAZK_AU4op6slC_rwl4MfsMMx1J6glw" alt="Clone repository on Github" width="820">
 
 1. Create a new branch from the master branch `$ git checkout -b cookie-vendor-name`
 2. And now, you are ready to collaborate with the Open Cookie database
@@ -78,7 +78,7 @@ Once you are ready, remember to create a branch, for example, `cookie-[vendor-na
 
 Add the related information to the cookie, and two fields could have special attention. The cookie name could have a dynamic ID, for example, `cookie_[site-id]`. If this applies to your case, the last property on the cookie is a wildcard. For wildcard cookies, set the value to 1 instead; the dynamic property doesn’t need to be specified. For example, we set the previous cookie as `cookie_`.
 
-<img src="https://i.ibb.co/Nn63CmP/open-cookie-db-vscode.png" alt="Open Cookie database on VS Code" width="640">
+<img src="https://lh3.googleusercontent.com/d/1IJa3U2P4a54mQOJOt-ewVm9J0U0nN-V2" alt="Open Cookie database on VS Code" width="820">
 
 In another scenario, some solutions set the cookies as first-party; for this scenario, it can be empty.
 
@@ -95,7 +95,7 @@ After adding the new information, make sure to save the changes and start the pr
 
  Once the changes are pushed to a remote branch on GitHub, you are ready to create a pull request. Go to your GitHub account and create a New pull request as in the image below:
 
-<img src="https://i.ibb.co/4gCJwMQ/create-pr-open-cookie-database.png" alt="create-pr-open-cookie-database" width="640">
+<img src="https://lh3.googleusercontent.com/d/1ltTuyWELEb-39PYPkyTRdOG4uCfpCpxl" alt="creating a Pull request to the open cookie database" width="820">
 
  Set In the description of your pull request to the repository, you can use the following templates:
 
