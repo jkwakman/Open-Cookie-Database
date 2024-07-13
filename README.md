@@ -4,12 +4,7 @@ The [Open Cookie Database](open-cookie-database.csv) is an effort to describe an
 
 # How to contribute
 
-All contributions are gratefully received. To contribute to the Open Cookie Database, please follow these steps:
-1. Fork the repository
-2. Add your cookie to the [open-cookie-database.csv](open-cookie-database.csv) file. Please make sure the information is as accurate and complete as possible.
-3. For the ID column, we use randomly generated UUIDs. You can generate a random UUID using any library or online tool.
-4. Commit your changes
-5. Submit a pull request
+All contributions are gratefully received. To contribute to the Open Cookie Database, please follow the following [contribution guide](docs/CONTRIBUTING.md). 
 
 # Category Descriptions
 
