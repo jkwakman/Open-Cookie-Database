@@ -1,6 +1,6 @@
 # Open-Cookie-Database
 
-The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv). All contributions to the CSV file are [welcomed](docs/CONTRIBUTING.md).
+The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv) or [browseable and searchable in an html file](https://jkwakman.github.io/Open-Cookie-Database/open-cookie-database.html). All contributions to the CSV file are [welcomed](docs/CONTRIBUTING.md).
 
 # How to contribute
 
