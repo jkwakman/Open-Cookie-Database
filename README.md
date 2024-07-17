@@ -1,15 +1,10 @@
 # Open-Cookie-Database
 
-The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv). All contributions to the CSV file are welcomed.
+The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv), [Google Spreadsheet](https://docs.google.com/spreadsheets/d/101f_Brw6SSVTn6hOndQzkH8S1Vj8VzRqab4Q5OnsmmA/edit?usp=sharing) or [browseable and searchable in an html file](https://jkwakman.github.io/Open-Cookie-Database/open-cookie-database.html). All contributions to the CSV file are [welcomed](docs/CONTRIBUTING.md).
 
 # How to contribute
 
-All contributions are gratefully received. To contribute to the Open Cookie Database, please follow these steps:
-1. Fork the repository
-2. Add your cookie to the [open-cookie-database.csv](open-cookie-database.csv) file. Please make sure the information is as accurate and complete as possible.
-3. For the ID column, we use randomly generated UUIDs. You can generate a random UUID using any library or online tool.
-4. Commit your changes
-5. Submit a pull request
+All contributions are gratefully received. To contribute to the Open Cookie Database, please follow the following [contribution guide](docs/CONTRIBUTING.md). 
 
 # Category Descriptions
 
