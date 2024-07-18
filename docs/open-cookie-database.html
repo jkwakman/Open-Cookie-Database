@@ -105,6 +105,7 @@ return (
 $(function() {
       Papa.parse("https://raw.githubusercontent.com/jkwakman/Open-Cookie-Database/master/open-cookie-database.csv", {
           download: true,
+	  skipEmptyLines: true,
           complete: function(example) {
           $(document).ready(function () {
               var table = $('#open-cookie-database').DataTable({
