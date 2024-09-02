@@ -2183,5 +2183,5 @@ b98fe340-684a-49d3-86ed-0ac415571ae8,Command Act X,Functional,FDLBFIRSTEVENTS,,"
 be622ac8-cf40-42fa-9a23-ebf757ced555,Command Act X,Functional,tc_caids,,"Used for restore deleted cookies by ITP",396 days,Command Act X,https://www.commandersact.com/en/privacy-policy/,0
 b3e44dad-2b50-4713-9271-107ce9221605,Command Act X,Functional,tc_cj_ss,,"Used for restore deleted cookies by ITP",396 days,Command Act X,https://www.commandersact.com/en/privacy-policy/,0
 333f3659-891a-4b6f-bc42-90991f7582d1,Command Act X,Functional,tc_ss,,"Used for restore deleted cookies by ITP In case your cookie tc_ss contains more than 2048 characters, cookies will be created with incremented names (ex. tc_ss1, tc_ss2, ...)",396 days,Command Act X,https://www.commandersact.com/en/privacy-policy/,1
-c422ae67-23a3-4f71-862d-70e0159f55ea,GumGum,Marketing,cs, .gumgum.com,"Used to store the user's consent status for the current domain.",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
-d17f3119-c033-4698-b909-65f56cde8825,GumGum,Marketing,vst,.gumgum.com, "Used to store the user's user intereset ",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
+c422ae67-23a3-4f71-862d-70e0159f55ea,GumGum,Marketing,cs,.gumgum.com,"Used to store the user consent status for the current domain.",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
+d17f3119-c033-4698-b909-65f56cde8825,GumGum,Marketing,vst,.gumgum.com,"Used to store the user user intereset",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
