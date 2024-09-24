@@ -795,18 +795,18 @@ d26e446e-4f43-11eb-ae93-0242ac130002,Ortec,Marketing,spx_ts,"adscience.nl","Thes
 3c0a4563-7473-4e32-bea5-c41037df8e8c,Ortec,Marketing,adx_ts,"adscience.nl","These cookies ensure that relevant advertisements are displayed on external websites.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 0b0472de-3ebb-46cb-85f3-b92a90954730,Ortec,Marketing,id_ts,"adscience.nl","These cookies ensure that relevant advertisements are displayed on external websites.",1 year,Ortec,https://www.ortecadscience.com/privacy-policy/,0
 f2856634-3da6-4b8d-a671-d057c0964724,LiveRamp,Marketing,euconsent,"faktor.io","Cookie compliance check",1 year,LiveRamp,https://liveramp.com/privacy/,0
-0538ac53-d35f-4870-ac7d-4244feb01845,Wix.com,Functional,SSR-caching,"wix.com","Indicates how a site was rendered",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-41a4b6b6-ec46-45a3-a4b8-5caffe6d617c,Wix.com,Functional,smSession,"wix.com","Identifies logged in site members",2 weeks,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-a67e35d5-c52e-49f2-a9d2-e2591b545a75,Wix.com,Marketing,svSession,"wix.com","Identifies unique visitors and tracks a visitor’s sessions on a site",2 years,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-1a8e2bc9-8c16-4a23-b595-ad4ba2b05411,Wix.com,Functional,ForceFlashSite,"wix.com","When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-afde4912-510e-4f52-ac39-f58977720637,Wix.com,Functional,hs,"wix.com","Security",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-d26e6458-4f43-11eb-ae93-0242ac130002,Wix.com,Functional,bSession,"","Used for system effectiveness measurement",30 minutes,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-30d32788-4edb-4675-9542-4b17bca4e76d,Wix.com,Functional,TS01,"","Used for security and anti-fraud reasons",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,1
-ad4e0c1f-e2ac-432e-8f9e-cbc8ca5ec997,Wix.com,Functional,fedops.logger.sessionId,"","Used for stability/effectiveness measurement",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-d22eb370-2a05-4a8c-8fbe-1bbe7dffe0df,Wix.com,Functional,wixLanguage,"","Used on multilingual websites to save user language preference",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-13d01850-f212-4b49-ba9a-fc2cea36e5f9,Wix.com,Functional,_wixCIDX,"","Used for system monitoring/debugging",3 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-1303f1b4-a92a-4aae-b194-1b566ff3f1d0,Wix.com,Functional,_wix_browser_sess,"","Used for system monitoring/debugging",session,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
-c99aabe0-84aa-4a8d-844e-04434e43ceee,Wix.com,Functional,consent-policy,"","Used for cookie banner parameters",12 months,Wix.com,https://support.wix.com/erticle/cookies-and-your-wix-site,0
+0538ac53-d35f-4870-ac7d-4244feb01845,Wix.com,Functional,SSR-caching,"wix.com","Indicates how a site was rendered",session,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+41a4b6b6-ec46-45a3-a4b8-5caffe6d617c,Wix.com,Functional,smSession,"wix.com","Identifies logged in site members",2 weeks,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+a67e35d5-c52e-49f2-a9d2-e2591b545a75,Wix.com,Marketing,svSession,"wix.com","Identifies unique visitors and tracks a visitor’s sessions on a site",2 years,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+1a8e2bc9-8c16-4a23-b595-ad4ba2b05411,Wix.com,Functional,ForceFlashSite,"wix.com","When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site",session,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+afde4912-510e-4f52-ac39-f58977720637,Wix.com,Functional,hs,"wix.com","Security",session,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+d26e6458-4f43-11eb-ae93-0242ac130002,Wix.com,Functional,bSession,"","Used for system effectiveness measurement",30 minutes,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+30d32788-4edb-4675-9542-4b17bca4e76d,Wix.com,Functional,TS01,"","Used for security and anti-fraud reasons",session,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,1
+ad4e0c1f-e2ac-432e-8f9e-cbc8ca5ec997,Wix.com,Functional,fedops.logger.sessionId,"","Used for stability/effectiveness measurement",12 months,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+d22eb370-2a05-4a8c-8fbe-1bbe7dffe0df,Wix.com,Functional,wixLanguage,"","Used on multilingual websites to save user language preference",12 months,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+13d01850-f212-4b49-ba9a-fc2cea36e5f9,Wix.com,Functional,_wixCIDX,"","Used for system monitoring/debugging",3 months,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+1303f1b4-a92a-4aae-b194-1b566ff3f1d0,Wix.com,Functional,_wix_browser_sess,"","Used for system monitoring/debugging",session,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
+c99aabe0-84aa-4a8d-844e-04434e43ceee,Wix.com,Functional,consent-policy,"","Used for cookie banner parameters",12 months,Wix.com,https://support.wix.com/article/cookies-and-your-wix-site,0
 d7537e15-0c06-4809-9268-c6a7463fb0ea,Shopify,Functional,_ab,"shopify.com","Used in connection with access to admin.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 5e57c371-a58b-495b-b531-bdaccf24d9d8,Shopify,Functional,_secure_session_id,"shopify.com","Used in connection with navigation through a storefront.",session,Shopify.com,https://www.shopify.com/legal/cookies,0
 a55ceb63-c236-476a-ac80-622185b9fd99,Shopify,Functional,Cart,"shopify.com","Used in connection with shopping cart.",14 days,Shopify.com,https://www.shopify.com/legal/cookies,0
