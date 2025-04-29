@@ -5,14 +5,8 @@ from collections import defaultdict
 import sys
 
 def convert_csv_to_grouped_json(csv_filepath, json_filepath):
-    """
-    Leest een CSV-bestand, groepeert de data op de 'Platform'-kolom
-    en schrijft het resultaat als een geneste JSON naar het opgegeven pad.
-    """
     try:
-        # Lees de CSV - gebruik dezelfde opties als in je validatiescript voor consistentie
         df = pd.read_csv(csv_filepath, sep=',', skipinitialspace=True, dtype=str)
-        # Vervang NaN/None waarden door lege strings om JSON serialisatieproblemen te voorkomen
         df = df.fillna('')
 
     except FileNotFoundError:
@@ -29,19 +23,16 @@ def convert_csv_to_grouped_json(csv_filepath, json_filepath):
         print(f"::error file={csv_filepath}::Failed to read CSV file. Error: {e}")
         sys.exit(1)
 
-    # Controleer of de essentiële 'Platform' kolom bestaat
     if 'Platform' not in df.columns:
         print(f"::error file={csv_filepath}::Required column 'Platform' not found in CSV.")
         sys.exit(1)
 
-    # Groepeer data per Platform
     grouped_data = defaultdict(list)
 
-    # Converteer DataFrame naar een lijst van dictionaries voor makkelijkere iteratie
     records = df.to_dict('records')
 
     for record in records:
-        platform = record.get('Platform', 'Unknown Platform') # Gebruik 'Unknown Platform' als platform mist
+        platform = record.get('Platform', 'Unknown Platform')
 
         cookie_details = {
             'id': record.get('ID', ''),
