@@ -2193,3 +2193,5 @@ b3e44dad-2b50-4713-9271-107ce9221605,Command Act X,Functional,tc_cj_ss,,"Used fo
 c422ae67-23a3-4f71-862d-70e0159f55ea,GumGum,Marketing,cs,.gumgum.com,"Used to store the user consent status for the current domain.",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
 d17f3119-c033-4698-b909-65f56cde8825,GumGum,Marketing,vst,.gumgum.com,"Used to store the user user intereset",1 year,GumGum,https://gumgum.com/terms-and-policies/cookies-policy,0
 8a9dc3f9-2c7b-4bc1-b9dd-ef3929402e54,Bing / Microsoft,Marketing,_u,.bing.com (3rd party) or .microsoft.com (3rd party),"Tracks interaction on a website after having clicked on a Bing ad",13 months,Microsoft,https://account.microsoft.com/privacy,0
+17068b62-5fd6-4a9f-87b0-af30131dedb5,Typeform,Functional,tf_respondent_cc,.typeform.com,"This cookie is used to make sure forms on the website work properly.",6 months,Typeform,https://www.typeform.com,0
+1d6d9d05-45ec-4d14-ad0a-933cca2c9c6b,Typeform,Marketing,attribution_user_id,.typeform.com,"This cookie helps us in attributing the conversion to the correct channel",1 year,Typeform,https://www.typeform.com,0
