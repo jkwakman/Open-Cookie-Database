@@ -3757,6 +3757,17 @@
             "dataController": "Google",
             "privacyLink": "https://business.safety.google/privacy/",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "f57f6ddd-ca6b-4fdd-bb69-2e5c52a35e39",
+            "category": "Marketing",
+            "cookie": "__Secure-ROLLOUT_TOKEN",
+            "domain": "youtube.com (3rd party)",
+            "description": "\tRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.",
+            "retentionPeriod": "180 days",
+            "dataController": "Google",
+            "privacyLink": "https://business.safety.google/privacy/",
+            "wildcardMatch": "0"
         }
     ],
     "Admatic": [
