@@ -27,7 +27,7 @@ jobs:
         run: pip install pandas
 
       - name: Run CSV to JSON conversion script
-        run: python .github/scripts/convert_csv_to_json.py open-cookie-database.csv open-cookie-database.json
+        run: python .github/workflows/convert_csv_to_json.py open-cookie-database.csv open-cookie-database.json
 
       - name: Commit and push if JSON changed
         run: |
