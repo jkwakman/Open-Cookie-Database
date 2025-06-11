@@ -2197,3 +2197,5 @@ d17f3119-c033-4698-b909-65f56cde8825,GumGum,Marketing,vst,.gumgum.com,"Used to s
 8a9dc3f9-2c7b-4bc1-b9dd-ef3929402e54,Bing / Microsoft,Marketing,_u,.bing.com (3rd party) or .microsoft.com (3rd party),"Tracks interaction on a website after having clicked on a Bing ad",13 months,Microsoft,https://account.microsoft.com/privacy,0
 17068b62-5fd6-4a9f-87b0-af30131dedb5,Typeform,Functional,tf_respondent_cc,.typeform.com,"This cookie is used to make sure forms on the website work properly.",6 months,Typeform,https://www.typeform.com,0
 1d6d9d05-45ec-4d14-ad0a-933cca2c9c6b,Typeform,Marketing,attribution_user_id,.typeform.com,"This cookie helps us in attributing the conversion to the correct channel",1 year,Typeform,https://www.typeform.com,0
+a7018555-44d1-447b-a160-045e820d79d4,Heap Analytics,Analytics,_hp2_id,,"Store a unique user ID, Store and track interaction.",14 months,Heap Analytics,https://www.heap.io/privacy,0
+7ef83948-292a-4d60-b81f-3d74c48f5012,Heap Analytics,Analytics,_hp2_ses_props,,"Store a unique user ID, Store and track interaction.",14 months,Heap Analytics,https://www.heap.io/privacy,0
