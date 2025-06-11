@@ -24832,5 +24832,29 @@
             "privacyLink": "https://www.typeform.com",
             "wildcardMatch": "0"
         }
+    ],
+    "Heap Analytics": [
+        {
+            "id": "a7018555-44d1-447b-a160-045e820d79d4",
+            "category": "Analytics",
+            "cookie": "_hp2_id",
+            "domain": "",
+            "description": "Store a unique user ID, Store and track interaction.",
+            "retentionPeriod": "14 months",
+            "dataController": "Heap Analytics",
+            "privacyLink": "https://www.heap.io/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "7ef83948-292a-4d60-b81f-3d74c48f5012",
+            "category": "Analytics",
+            "cookie": "_hp2_ses_props",
+            "domain": "",
+            "description": "Store a unique user ID, Store and track interaction.",
+            "retentionPeriod": "14 months",
+            "dataController": "Heap Analytics",
+            "privacyLink": "https://www.heap.io/privacy",
+            "wildcardMatch": "0"
+        }
     ]
 }
