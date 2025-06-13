@@ -2199,3 +2199,4 @@ d17f3119-c033-4698-b909-65f56cde8825,GumGum,Marketing,vst,.gumgum.com,"Used to s
 1d6d9d05-45ec-4d14-ad0a-933cca2c9c6b,Typeform,Marketing,attribution_user_id,.typeform.com,"This cookie helps us in attributing the conversion to the correct channel",1 year,Typeform,https://www.typeform.com,0
 a7018555-44d1-447b-a160-045e820d79d4,Heap Analytics,Analytics,_hp2_id,,"Store a unique user ID, Store and track interaction.",14 months,Heap Analytics,https://www.heap.io/privacy,0
 7ef83948-292a-4d60-b81f-3d74c48f5012,Heap Analytics,Analytics,_hp2_ses_props,,"Store a unique user ID, Store and track interaction.",14 months,Heap Analytics,https://www.heap.io/privacy,0
+a0c0b82b-67ee-4f23-bec3-449f709f9d0c,Salesforce,Analytics,pi_opt_in,,"If tracking opt-in preferences is enabled, the cookie is set with a true or false value when the visitor opts in or out of tracking",1 year,Salesforce,https://www.salesforce.com/company/privacy/,0
