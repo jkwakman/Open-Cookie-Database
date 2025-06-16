@@ -24856,5 +24856,40 @@
             "privacyLink": "https://www.heap.io/privacy",
             "wildcardMatch": "0"
         }
+    ],
+    "Baidu": [
+        {
+            "id": "2a8fa759-6930-4969-ad70-ed514c7b3462",
+            "category": "Analytics",
+            "cookie": "Hm_lpvt_",
+            "domain": "",
+            "description": "Record the most recent access timestamp",
+            "retentionPeriod": "session",
+            "dataController": "Baidu",
+            "privacyLink": "https://privacy.baidu.com/policy/PrivacyPolicy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "637370ce-290c-4a87-bfc0-9befe319caef",
+            "category": "Analytics",
+            "cookie": "Hm_lvt_",
+            "domain": "",
+            "description": "Record the first access timestamp",
+            "retentionPeriod": "1 year",
+            "dataController": "Baidu",
+            "privacyLink": "https://privacy.baidu.com/policy/PrivacyPolicy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "996c50cc-3e46-4788-ab0e-529487503b6d",
+            "category": "Analytics",
+            "cookie": "HMACCOUNT",
+            "domain": "",
+            "description": "Used to send data to Baidu about the visitors device and behaviour. Tracks the visitor across devices and marketing channels.",
+            "retentionPeriod": "1 year",
+            "dataController": "Baidu",
+            "privacyLink": "https://privacy.baidu.com/policy/PrivacyPolicy",
+            "wildcardMatch": "0"
+        }
     ]
 }
