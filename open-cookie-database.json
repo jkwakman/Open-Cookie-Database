@@ -17766,6 +17766,17 @@
             "dataController": "Salesforce",
             "privacyLink": "https://www.salesforce.com/company/privacy/",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "a0c0b82b-67ee-4f23-bec3-449f709f9d0c",
+            "category": "Analytics",
+            "cookie": "pi_opt_in",
+            "domain": "",
+            "description": "If tracking opt-in preferences is enabled, the cookie is set with a true or false value when the visitor opts in or out of tracking",
+            "retentionPeriod": "1 year",
+            "dataController": "Salesforce",
+            "privacyLink": "https://www.salesforce.com/company/privacy/",
+            "wildcardMatch": "0"
         }
     ],
     "CookieYes": [
