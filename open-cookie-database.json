@@ -24902,5 +24902,18 @@
             "privacyLink": "https://privacy.baidu.com/policy/PrivacyPolicy",
             "wildcardMatch": "0"
         }
+    ],
+    "Stape": [
+        {
+            "id": "5f6d36af-2589-46f8-ab7b-62675b591a0d",
+            "category": "Marketing",
+            "cookie": "_gtmeec",
+            "domain": "Used by Meta to store user data for reuse, enabling more efficient and accurate tracking and targeting.",
+            "description": "3 months",
+            "retentionPeriod": "Stape",
+            "dataController": "https://stape.io/privacy-notice",
+            "privacyLink": "0",
+            "wildcardMatch": ""
+        }
     ]
 }
