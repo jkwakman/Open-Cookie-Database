@@ -2204,3 +2204,4 @@ a0c0b82b-67ee-4f23-bec3-449f709f9d0c,Salesforce,Analytics,pi_opt_in,,"If trackin
 637370ce-290c-4a87-bfc0-9befe319caef,Baidu,Analytics,Hm_lvt_,,"Record the first access timestamp",1 year,Baidu,https://privacy.baidu.com/policy/PrivacyPolicy,0
 996c50cc-3e46-4788-ab0e-529487503b6d,Baidu,Analytics,HMACCOUNT,,"Used to send data to Baidu about the visitors device and behaviour. Tracks the visitor across devices and marketing channels.",1 year,Baidu,https://privacy.baidu.com/policy/PrivacyPolicy,0
 5f6d36af-2589-46f8-ab7b-62675b591a0d,Stape,Marketing,_gtmeec,,"Used by Meta to store user data for reuse, enabling more efficient and accurate tracking and targeting.",3 months,Stape,https://stape.io/privacy-notice,0
+37ef0bb9-7cf9-48f8-aa88-0b79f3716dd0,Loggly,Functional,logglytrackings­ession,,"Used by Loggly for performance and error tracking.",session,Solarwinds,https://www.solarwinds.com/legal/privacy,0
