@@ -24939,5 +24939,51 @@
             "privacyLink": "https://www.solarwinds.com/legal/privacy",
             "wildcardMatch": "0"
         }
+    ],
+    "PrivacyPillar": [
+        {
+            "id": "76924a7a-e6ed-4eaf-85c6-4bf0f85791eb",
+            "category": "Functional",
+            "cookie": "privacypillar-google-consent",
+            "domain": "",
+            "description": "Information about the visitor's Google vendor choices is stored by this cookie.",
+            "retentionPeriod": "1 year",
+            "dataController": "PrivacyPillar",
+            "privacyLink": "https://privacypillar.com/privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "efc42693-039f-4d34-bbe3-6d103f890d14",
+            "category": "Functional",
+            "cookie": "privacypillar-cookie-consent",
+            "domain": "",
+            "description": "Stores the user's current consent status.",
+            "retentionPeriod": "1 year",
+            "dataController": "PrivacyPillar",
+            "privacyLink": "https://privacypillar.com/privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "2bbba96a-7732-45e8-bbd6-4edaa69ecbe5",
+            "category": "Functional",
+            "cookie": "euconsent-v2",
+            "domain": "",
+            "description": "This cookie stores the TC string.",
+            "retentionPeriod": "1 year",
+            "dataController": "PrivacyPillar",
+            "privacyLink": "https://privacypillar.com/privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "3c664df2-a6cc-43a0-87e0-c79a1f6aee8a",
+            "category": "Functional",
+            "cookie": "usprivacy",
+            "domain": "",
+            "description": "This cookie stores the US privacy string.",
+            "retentionPeriod": "1 year",
+            "dataController": "PrivacyPillar",
+            "privacyLink": "https://privacypillar.com/privacy-policy/",
+            "wildcardMatch": "0"
+        }
     ]
 }
