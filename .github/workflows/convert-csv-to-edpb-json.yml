@@ -1,0 +1,46 @@
+name: Convert CSV to EDPB JSON
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'open-cookie-database.csv'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Run CSV to EDPB JSON conversion script
+        # Zorg ervoor dat het pad naar je Python-script correct is
+        run: python .github/workflows/convert_csv_to_edpb_json.py open-cookie-database.csv open-cookie-database-edpb.json
+
+      - name: Commit and push if JSON changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add open-cookie-database-edpb.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit in JSON file."
+          else
+            git commit -m "Automated conversion: Update open-cookie-database-edpb.json via EDPB script"
+            git push
+            echo "Committed and pushed JSON file changes."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
