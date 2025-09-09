@@ -1,6 +1,6 @@
 # Open-Cookie-Database
 
-The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv), [Google Spreadsheet](https://docs.google.com/spreadsheets/d/101f_Brw6SSVTn6hOndQzkH8S1Vj8VzRqab4Q5OnsmmA/edit?usp=sharing), [JSON](open-cookie-database.json) or [browseable and searchable in an html file](https://jkwakman.github.io/Open-Cookie-Database/open-cookie-database.html). All contributions to the CSV file are [welcomed](docs/CONTRIBUTING.md). For the [https://code.europa.eu/edpb/website-auditing-tool/](EU EDPB Website Auditing Tool) we have a [specific EDPB json file](open-cookie-database-edpb.json) for easy importing the cookies to the platform. 
+The [Open Cookie Database](open-cookie-database.csv) is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a [downloadable CSV file](open-cookie-database.csv), [Google Spreadsheet](https://docs.google.com/spreadsheets/d/101f_Brw6SSVTn6hOndQzkH8S1Vj8VzRqab4Q5OnsmmA/edit?usp=sharing), [JSON](open-cookie-database.json) or [browseable and searchable in an html file](https://jkwakman.github.io/Open-Cookie-Database/open-cookie-database.html). All contributions to the CSV file are [welcomed](docs/CONTRIBUTING.md). For the [EU EDPB Website Auditing Tool]([https://code.europa.eu/edpb/website-auditing-tool/]) we have a [specific EDPB json file](open-cookie-database-edpb.json) for easy importing the cookies to the platform. 
 
 # How to contribute
 
