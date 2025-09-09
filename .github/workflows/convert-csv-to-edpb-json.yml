@@ -28,7 +28,7 @@ jobs:
 
       - name: Run CSV to EDPB JSON conversion script
         # Zorg ervoor dat het pad naar je Python-script correct is
-        run: python .github/workflows/convert_csv_to_edpb_json.py open-cookie-database.csv open-cookie-database-edpb.json
+        run: python .github/workflows/convert_edpb.py open-cookie-database.csv open-cookie-database-edpb.json
 
       - name: Commit and push if JSON changed
         run: |
