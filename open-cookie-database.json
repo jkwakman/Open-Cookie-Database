@@ -24985,5 +24985,29 @@
             "privacyLink": "https://privacypillar.com/privacy-policy/",
             "wildcardMatch": "0"
         }
+    ],
+    "Exponea": [
+        {
+            "id": "5d79f50e-b935-4de6-9768-b3c44f115976",
+            "category": "Marketing",
+            "cookie": "__exponea_etc__",
+            "domain": "",
+            "description": "Exponea Bloomreach Engagement - This cookie is used to determine which products the visitor has viewed. This information is used to promote related products and optimize ad-efficiency.",
+            "retentionPeriod": "3 years",
+            "dataController": "Exponea",
+            "privacyLink": "https://exponea.com/privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "1daffe08-8e90-4c87-85e5-03880e83f4de",
+            "category": "Marketing",
+            "cookie": "__exponea_time2__",
+            "domain": "",
+            "description": "Exponea Bloomreach Engagement - This cookie is used to determine which products the visitor has viewed. This information is used to promote related products and optimize ad-efficiency.",
+            "retentionPeriod": "1 day",
+            "dataController": "Exponea",
+            "privacyLink": "https://exponea.com/privacy-policy/",
+            "wildcardMatch": "0"
+        }
     ]
 }
