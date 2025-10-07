@@ -187,7 +187,7 @@
             "category": "Functional",
             "cookie": "Secure-YEC",
             "domain": "",
-            "description": "Serve a similar purpose for YouTube, including detecting and resolving problems",
+            "description": "Serve a similar purpose for , including detecting and resolving problems",
             "retentionPeriod": "13 months",
             "dataController": "Google",
             "privacyLink": "https://business.safety.google/privacy/",
@@ -211,6 +211,17 @@
             "domain": "",
             "description": "Used to detect spam, fraud, and abuse to protect advertisers and YouTube creators",
             "retentionPeriod": "13 months",
+            "dataController": "Google",
+            "privacyLink": "https://business.safety.google/privacy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "3af1d510-0b5f-4088-9302-7e0cb12e2fc8",
+            "category": "Functional",
+            "cookie": "__Secure-YNID",
+            "domain": "",
+            "description": "It's a YouTube cookie used to enhance user experience by storing video player preferences and aiding in secure log-ins and spam detectio",
+            "retentionPeriod": "180 days",
             "dataController": "Google",
             "privacyLink": "https://business.safety.google/privacy/",
             "wildcardMatch": "0"
@@ -13467,6 +13478,17 @@
             "dataController": "Auth0",
             "privacyLink": "",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "62f4eb22-712a-4df2-a95a-b74a8e408093",
+            "category": "Functional",
+            "cookie": "__txn_",
+            "domain": "",
+            "description": "The __txn_ cookie is an Auth0 transaction cookie used during the login process to securely manage the authentication flow between your application and Auth0",
+            "retentionPeriod": "session",
+            "dataController": "Auth0",
+            "privacyLink": "",
+            "wildcardMatch": "1"
         }
     ],
     "AT Internet": [
