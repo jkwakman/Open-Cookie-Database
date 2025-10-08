@@ -3000,6 +3000,17 @@
             "dataController": "Microsoft",
             "privacyLink": "https://account.microsoft.com/privacy",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "5af4a198-5e16-42df-9a53-cc1adcc6194c",
+            "category": "Functional",
+            "cookie": ".AspNetCore.Mvc.CookieTempDataProvider",
+            "domain": "",
+            "description": "This cookie is used to keep temporary session data while you are on the site. ",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
         }
     ],
     "Microsoft Azure App Insights": [
@@ -25029,6 +25040,19 @@
             "retentionPeriod": "1 day",
             "dataController": "Exponea",
             "privacyLink": "https://exponea.com/privacy-policy/",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Adyen": [
+        {
+            "id": "7a7d6e10-52dc-4c54-904c-73aaa33daa62",
+            "category": "Functional",
+            "cookie": "_rp_uid",
+            "domain": "",
+            "description": "This cookie is used to track users, and helps identify suspicious browsing and/or purchasing activity.",
+            "retentionPeriod": "30 days",
+            "dataController": "Adyen",
+            "privacyLink": "https://www.adyen.com/privacy-policy",
             "wildcardMatch": "0"
         }
     ]
