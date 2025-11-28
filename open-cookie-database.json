@@ -10134,23 +10134,23 @@
             "id": "e72975a3-e8e3-43b3-bc42-3305ab241209",
             "category": "Functional",
             "cookie": "_shopify_essential",
-            "domain": "Contains essential information for the correct functionality of a store such as session and checkout information and anti-tampering data.",
-            "description": "1 year",
-            "retentionPeriod": "Shopify.com",
-            "dataController": "https://www.shopify.com/legal/cookies",
-            "privacyLink": "0",
-            "wildcardMatch": ""
+            "domain": "",
+            "description": "Contains essential information for the correct functionality of a store such as session and checkout information and anti-tampering data.",
+            "retentionPeriod": "1 year",
+            "dataController": "Shopify.com",
+            "privacyLink": "https://www.shopify.com/legal/cookies",
+            "wildcardMatch": "0"
         },
         {
             "id": "105abbba-0d05-4087-a6b0-4ff2614c0ffe",
             "category": "Functional",
             "cookie": "_shopify_essential_",
-            "domain": "Contains an opaque token that is used to identify a device for all essential purposes.",
-            "description": "1 year",
-            "retentionPeriod": "Shopify.com",
-            "dataController": "https://www.shopify.com/legal/cookies",
-            "privacyLink": "1",
-            "wildcardMatch": ""
+            "domain": "",
+            "description": "Contains an opaque token that is used to identify a device for all essential purposes.",
+            "retentionPeriod": "1 year",
+            "dataController": "Shopify.com",
+            "privacyLink": "https://www.shopify.com/legal/cookies",
+            "wildcardMatch": "1"
         }
     ],
     "Hubspot": [
@@ -17834,6 +17834,39 @@
             "wildcardMatch": "0"
         },
         {
+            "id": "bfdb2bc8-650c-4cc9-bfde-79c2b25e33f6",
+            "category": "Marketing",
+            "cookie": "igodigitalstdomain",
+            "domain": "",
+            "description": "This cookie is used to capture customer behavior to improve the quality of the experience of our online customers, including enhanced browsing experiences. It expires after one hour or upon the withdrawal of your consent.",
+            "retentionPeriod": "1 hour",
+            "dataController": "Salesforce",
+            "privacyLink": "https://www.salesforce.com/company/privacy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "ea186c76-752b-4834-bcfd-418a54c31e16",
+            "category": "Marketing",
+            "cookie": "igodigitalst_",
+            "domain": "",
+            "description": "This cookie is used to capture customer behavior to improve the quality of the experience of our online customers, including enhanced browsing experiences. It expires after one hour or upon the withdrawal of your consent.",
+            "retentionPeriod": "1 hour",
+            "dataController": "Salesforce",
+            "privacyLink": "https://www.salesforce.com/company/privacy/",
+            "wildcardMatch": "1"
+        },
+        {
+            "id": "e702563e-f478-4eb7-9809-22e2215d83d7",
+            "category": "Marketing",
+            "cookie": "igodigitaltc2",
+            "domain": "",
+            "description": "This cookie is used to capture customer behavior to improve the quality of the experience of our online customers, including enhanced browsing experiences. It expires after 10 years or upon the withdrawal of your consent.",
+            "retentionPeriod": "10 years",
+            "dataController": "Salesforce",
+            "privacyLink": "https://www.salesforce.com/company/privacy/",
+            "wildcardMatch": "0"
+        },
+        {
             "id": "a0c0b82b-67ee-4f23-bec3-449f709f9d0c",
             "category": "Analytics",
             "cookie": "pi_opt_in",
@@ -25075,6 +25108,19 @@
             "retentionPeriod": "30 days",
             "dataController": "Adyen",
             "privacyLink": "https://www.adyen.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
+    ],
+    "AWS Cookies Popup": [
+        {
+            "id": "74efaf27-c262-4e9a-8bd0-9ae995865b2d",
+            "category": "Functional",
+            "cookie": "aw_popup_viewed_page",
+            "domain": "",
+            "description": "Used in context with the website’s pop-up questionnaires and messengering.",
+            "retentionPeriod": "session",
+            "dataController": "AddWeb Solution",
+            "privacyLink": "https://www.addwebsolution.com/privacy-policy",
             "wildcardMatch": "0"
         }
     ]
