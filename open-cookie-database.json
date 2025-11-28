@@ -3002,7 +3002,7 @@
             "wildcardMatch": "0"
         },
         {
-            "id": "5af4a198-5e16-42df-9a53-cc1adcc6194c",
+            "id": "fcc7f86c-bd55-4bbd-a468-f0d6f52ca67c",
             "category": "Functional",
             "cookie": ".AspNetCore.Mvc.CookieTempDataProvider",
             "domain": "",
@@ -10129,6 +10129,28 @@
             "dataController": "Shopify.com",
             "privacyLink": "https://www.shopify.com/legal/cookies",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "e72975a3-e8e3-43b3-bc42-3305ab241209",
+            "category": "Functional",
+            "cookie": "_shopify_essential",
+            "domain": "Contains essential information for the correct functionality of a store such as session and checkout information and anti-tampering data.",
+            "description": "1 year",
+            "retentionPeriod": "Shopify.com",
+            "dataController": "https://www.shopify.com/legal/cookies",
+            "privacyLink": "0",
+            "wildcardMatch": ""
+        },
+        {
+            "id": "105abbba-0d05-4087-a6b0-4ff2614c0ffe",
+            "category": "Functional",
+            "cookie": "_shopify_essential_",
+            "domain": "Contains an opaque token that is used to identify a device for all essential purposes.",
+            "description": "1 year",
+            "retentionPeriod": "Shopify.com",
+            "dataController": "https://www.shopify.com/legal/cookies",
+            "privacyLink": "1",
+            "wildcardMatch": ""
         }
     ],
     "Hubspot": [
