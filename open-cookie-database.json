@@ -3011,6 +3011,127 @@
             "dataController": "Microsoft",
             "privacyLink": "https://account.microsoft.com/privacy",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "44d8e4eb-e71f-4efa-8ff6-8bdf24dbb4ce",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-admin",
+            "domain": "",
+            "description": "Holds user membership data across tenants. The tenants a user is a member of and level of membership (Admin or User).",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "5a9025c8-8046-4c16-8391-98f12f38070d",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-slice",
+            "domain": "",
+            "description": "Used to route requests to the appropriate production instance.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "8fcf1c6b-caef-464b-b354-c15709c4b22a",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-trans",
+            "domain": "",
+            "description": "Used for tracking the transactions (number of authentication requests to Azure AD B2C) and the current transaction.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "a9f7bff4-ed3c-47bb-9456-acea8fe78179",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-sso",
+            "domain": "",
+            "description": "Used for maintaining the SSO session. This cookie is set as persistent, when Keep Me Signed In is enabled.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "1"
+        },
+        {
+            "id": "7b6a11c3-a194-4d28-8492-ad82cdc341aa",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-cache",
+            "domain": "",
+            "description": "Used for maintaining the request state.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "1"
+        },
+        {
+            "id": "87ee5cf9-2e6f-48e8-b0af-6ee80155bdf5",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-csrf",
+            "domain": "",
+            "description": "Cross-Site Request Forgery token used for CRSF protection. For more information, read the Cross-Site request forgery token section.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "f0140d4f-3a23-4424-90cc-0a8ee16ac883",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-dc",
+            "domain": "",
+            "description": "Used for Azure AD B2C network routing.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "8d1cdb45-a921-4e9f-b6e8-1a77a44d6517",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-ctx",
+            "domain": "",
+            "description": "Context",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "7832af87-e057-4833-9dfb-82be34557d42",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-rp",
+            "domain": "",
+            "description": "Used for storing membership data for the resource provider tenant.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "6687faec-8083-4150-9fef-fe6ee255ac3a",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-rc",
+            "domain": "",
+            "description": "Used for storing the relay cookie.",
+            "retentionPeriod": "Session",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "45c0e0b6-4b78-4c6d-8ca7-d15077d357ff",
+            "category": "Functional",
+            "cookie": "x-ms-cpim-geo",
+            "domain": "",
+            "description": "Used as a hint to determine the resource tenants home geographic location.",
+            "retentionPeriod": "1 hour",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
         }
     ],
     "Microsoft Azure App Insights": [
