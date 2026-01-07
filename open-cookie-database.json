@@ -3132,6 +3132,17 @@
             "dataController": "Microsoft",
             "privacyLink": "https://account.microsoft.com/privacy",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "11aced31-77f8-4a4b-a173-59e449a29d16",
+            "category": "Functional",
+            "cookie": "Dynamics365PortalAnalytics",
+            "domain": "",
+            "description": "Used to uniquely distinguish one site visitor from another without storing any personal data or user identity. This cookie is essential for delivering reliable, secure, and maintainable service functionality across multiple Power Pages features.",
+            "retentionPeriod": "90 days",
+            "dataController": "Microsoft",
+            "privacyLink": "https://account.microsoft.com/privacy",
+            "wildcardMatch": "0"
         }
     ],
     "Microsoft Azure App Insights": [
@@ -24616,7 +24627,7 @@
             "wildcardMatch": "0"
         }
     ],
-    "Command Act X": [
+    "Command Act": [
         {
             "id": "0e705d10-4024-4c60-8b2d-28842ebc6796",
             "category": "Marketing",
@@ -24624,7 +24635,7 @@
             "domain": ".commander1.com",
             "description": "Used for user customer journey storage for TMS deduplication (channel and source storage).",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24635,7 +24646,7 @@
             "domain": ".commander1.com",
             "description": "Used for user customer journey storage for TMS deduplication (campaign storage).",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24646,7 +24657,7 @@
             "domain": ".commander1.com",
             "description": "Used for user customer journey storage for TMS deduplication (medium storage).",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24657,7 +24668,7 @@
             "domain": "",
             "description": "Cookie linked to the display of the privacy banner, it allows to check whether cookies can be deposited and not to redisplay the consent banner when consent is given. Deposited then disappears, cannot be deleted. Technical cookie (exempted)",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24668,7 +24679,7 @@
             "domain": "",
             "description": "Used to identify visitors exposed to the privacy banner. CMP Commanders Act uses this cookie to measure statistics for privacy banner usage until visitors provide consent for the TCID cookie. With this 2-cookie system, CMP Commanders Act is the only CMP that has been granted the right of exemption from consent for statistical measurement by the French CNIL",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24679,7 +24690,7 @@
             "domain": "",
             "description": "Used for user status storage (optin or optout) and Privacy banner display.",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24690,7 +24701,7 @@
             "domain": "",
             "description": "Used to display the optin/optout categories in the Privacy Center if the user re-open it.",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24701,7 +24712,7 @@
             "domain": "",
             "description": "Used for user status storage (optin or optout) and Privacy banner display.",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24712,7 +24723,7 @@
             "domain": "",
             "description": "Used to display the optin/optout categories in the Privacy Center if the user re-open it.",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24723,7 +24734,7 @@
             "domain": "",
             "description": "The CAID is the user identifier for cookie 1st",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24734,7 +24745,7 @@
             "domain": ".commander1.com​",
             "description": "Visitor identifier used to compute deduplicated statistics per user (for campaign and on-site tracking, segmentation, ...). CMP Commanders Act uses this cookie to measure statistics for privacy banner performance after a visitor provided consent. Before users provided consent CMP Commanders Act uses the TCPID cookie to measure anonymous statistics for privacy banner.",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24745,7 +24756,7 @@
             "domain": ".commander1.com",
             "description": "Used to identify when the browser is closed in order to split page views into multiple functional sessions.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24756,7 +24767,7 @@
             "domain": "",
             "description": "Used for visitor and session sampling in the TMSCommander rules.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24767,7 +24778,7 @@
             "domain": ".commander1.com​",
             "description": "Used when the deduplication is based on CAMPAIGN tracking (so the CAMPAIGN tracking is taken into account and not the landing page tracking)",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24778,7 +24789,7 @@
             "domain": "",
             "description": " Technical cookie, TMS verification of Cookies deposit (exempted)",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24789,7 +24800,7 @@
             "domain": ".commander1.com",
             "description": "Used to calculate CAMPAIGN metrics based on the session.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24800,7 +24811,7 @@
             "domain": ".commander1.com",
             "description": "Used to deduplicate clicks (if redirect, just store the page view and ignore the click).",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24811,7 +24822,7 @@
             "domain": ".commander1.com",
             "description": "Used to store landing page URL for CAMPAIGN raw data.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24822,7 +24833,7 @@
             "domain": "",
             "description": "Used to store the user segment for user targeting.",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24833,7 +24844,7 @@
             "domain": "",
             "description": " Used to store the date of the last cookie synchronisation with the partner (set in local storage by default, and cookie if local storage not available).",
             "retentionPeriod": "1 year",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24844,7 +24855,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24855,7 +24866,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24866,7 +24877,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24877,7 +24888,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24888,7 +24899,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24899,7 +24910,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24910,7 +24921,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24919,9 +24930,9 @@
             "category": "Functional",
             "cookie": "FDLBFIRSTCMP",
             "domain": "",
-            "description": "Used for internal infrastructure dispatch.",
+            "description": "Used for internal, infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24932,7 +24943,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24943,7 +24954,7 @@
             "domain": "",
             "description": "Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24954,7 +24965,7 @@
             "domain": "",
             "description": " Used for internal infrastructure dispatch.",
             "retentionPeriod": "Session",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24965,7 +24976,7 @@
             "domain": "",
             "description": "Used for restore deleted cookies by ITP",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24976,7 +24987,7 @@
             "domain": "",
             "description": "Used for restore deleted cookies by ITP",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "0"
         },
@@ -24987,9 +24998,20 @@
             "domain": "",
             "description": "Used for restore deleted cookies by ITP In case your cookie tc_ss contains more than 2048 characters, cookies will be created with incremented names (ex. tc_ss1, tc_ss2, ...)",
             "retentionPeriod": "396 days",
-            "dataController": "Command Act X",
+            "dataController": "Command Act",
             "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
             "wildcardMatch": "1"
+        },
+        {
+            "id": "9633369d-8bb2-40c0-9edd-796bd19c1e67",
+            "category": "Marketing",
+            "cookie": "TCREDIRECT_DEDUP",
+            "domain": "",
+            "description": "Used when the deduplication is based on CAMPAIGN tracking",
+            "retentionPeriod": "session",
+            "dataController": "Command Act",
+            "privacyLink": "https://www.commandersact.com/en/privacy-policy/",
+            "wildcardMatch": "0"
         }
     ],
     "Permutive": [
@@ -25242,6 +25264,30 @@
             "retentionPeriod": "session",
             "dataController": "AddWeb Solution",
             "privacyLink": "https://www.addwebsolution.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
+    ],
+    "NextAuth.js": [
+        {
+            "id": "c60a3ee4-9ab9-4773-bb9d-79c90e5825ff",
+            "category": "Functional",
+            "cookie": "__Secure-next-auth.callback-url",
+            "domain": "",
+            "description": "Used to store the callback URL which the user should be redirected to after login.",
+            "retentionPeriod": "session",
+            "dataController": "NextAuth.js",
+            "privacyLink": "",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "4153eb43-0837-4205-92c1-15060dcb1cab",
+            "category": "Functional",
+            "cookie": "__Host-next-auth.csrf-token",
+            "domain": "",
+            "description": "Used to help with site security in preventing Cross-Site Request Forgery attacks.",
+            "retentionPeriod": "session",
+            "dataController": "NextAuth.js",
+            "privacyLink": "",
             "wildcardMatch": "0"
         }
     ]
