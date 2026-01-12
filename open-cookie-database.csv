@@ -2237,3 +2237,8 @@ efc42693-039f-4d34-bbe3-6d103f890d14,PrivacyPillar,Functional,privacypillar-cook
 74efaf27-c262-4e9a-8bd0-9ae995865b2d,AWS Cookies Popup,Functional,aw_popup_viewed_page,,"Used in context with the website’s pop-up questionnaires and messengering.",session,AddWeb Solution,https://www.addwebsolution.com/privacy-policy,0
 c60a3ee4-9ab9-4773-bb9d-79c90e5825ff,NextAuth.js,Functional,__Secure-next-auth.callback-url,,"Used to store the callback URL which the user should be redirected to after login.",session,NextAuth.js,,0
 4153eb43-0837-4205-92c1-15060dcb1cab,NextAuth.js,Functional,__Host-next-auth.csrf-token,,"Used to help with site security in preventing Cross-Site Request Forgery attacks.",session,NextAuth.js,,0
+a85ff7d7-bc7c-4ee1-a106-50a872b16530,QookieQloud,Necessary,__cpmQQ_trackers,,Stores information about trackers to block based on Consent.,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
+5d50468b-2d25-4754-974f-11a975939863,QookieQloud,Necessary,__cpmQQ_trackers_timestamp,,Last update for the trackers.,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
+153fc9f0-7e35-45d3-998c-4951ba3b5dd6,QookieQloud,Necessary,__cmpQQ_usedCoookies,,Stores the sites cookies for faster experience.,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
+167501cd-b50d-42b6-aa0c-97347b8ecb55,QookieQloud,Necessary,__cmpQQ_consentID,,This cookie is used as a unique identification for the users who has accepted the cookie consent box.,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
+47686e93-18a8-4a28-af7e-0f33617ba46f,QookieQloud,Necessary,__cmpQQ_CookieConsent,,Stores the user's cookie consent state for the current domain,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
