@@ -25298,7 +25298,7 @@
             "cookie": "cookies-analytics",
             "domain": "",
             "description": "Used by the CMP Enzuzo to register the user's choice regarding analytics cookies.",
-            "retentionPeriod": "365 days",
+            "retentionPeriod": "1 year",
             "dataController": "Enzuzo",
             "privacyLink": "https://www.enzuzo.com/privacy-policy",
             "wildcardMatch": "0"
@@ -25309,7 +25309,7 @@
             "cookie": "cookies-functional",
             "domain": "",
             "description": "Used by the CMP Enzuzo to register the user's choice regarding functional cookies.",
-            "retentionPeriod": "365 days",
+            "retentionPeriod": "1 year",
             "dataController": "Enzuzo",
             "privacyLink": "https://www.enzuzo.com/privacy-policy",
             "wildcardMatch": "0"
@@ -25320,7 +25320,7 @@
             "cookie": "cookies-marketing",
             "domain": "",
             "description": "Used by the CMP Enzuzo to register the user's choice regarding marketing cookies.",
-            "retentionPeriod": "365 days",
+            "retentionPeriod": "1 year",
             "dataController": "Enzuzo",
             "privacyLink": "https://www.enzuzo.com/privacy-policy",
             "wildcardMatch": "0"
@@ -25331,9 +25331,66 @@
             "cookie": "cookies-preferences",
             "domain": "",
             "description": "Used by the CMP Enzuzo to register the user's choice regarding preference cookies.",
-            "retentionPeriod": "365 days",
+            "retentionPeriod": "1 year",
             "dataController": "Enzuzo",
             "privacyLink": "https://www.enzuzo.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
+    ],
+    "QookieQloud": [
+        {
+            "id": "a85ff7d7-bc7c-4ee1-a106-50a872b16530",
+            "category": "Necessary",
+            "cookie": "__cpmQQ_trackers",
+            "domain": "",
+            "description": "Stores information about trackers to block based on Consent.",
+            "retentionPeriod": "Local Storage",
+            "dataController": "Qodli AB",
+            "privacyLink": "https://qookieqloud.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "5d50468b-2d25-4754-974f-11a975939863",
+            "category": "Necessary",
+            "cookie": "__cpmQQ_trackers_timestamp",
+            "domain": "",
+            "description": "Last update for the trackers.",
+            "retentionPeriod": "Local Storage",
+            "dataController": "Qodli AB",
+            "privacyLink": "https://qookieqloud.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "153fc9f0-7e35-45d3-998c-4951ba3b5dd6",
+            "category": "Necessary",
+            "cookie": "__cmpQQ_usedCoookies",
+            "domain": "",
+            "description": "Stores the sites cookies for faster experience.",
+            "retentionPeriod": "Local Storage",
+            "dataController": "Qodli AB",
+            "privacyLink": "https://qookieqloud.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "167501cd-b50d-42b6-aa0c-97347b8ecb55",
+            "category": "Necessary",
+            "cookie": "__cmpQQ_consentID",
+            "domain": "",
+            "description": "This cookie is used as a unique identification for the users who has accepted the cookie consent box.",
+            "retentionPeriod": "Local Storage",
+            "dataController": "Qodli AB",
+            "privacyLink": "https://qookieqloud.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "47686e93-18a8-4a28-af7e-0f33617ba46f",
+            "category": "Necessary",
+            "cookie": "__cmpQQ_CookieConsent",
+            "domain": "",
+            "description": "Stores the user's cookie consent state for the current domain",
+            "retentionPeriod": "Local Storage",
+            "dataController": "Qodli AB",
+            "privacyLink": "https://qookieqloud.com/privacy-policy",
             "wildcardMatch": "0"
         }
     ]
