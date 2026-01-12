@@ -2237,3 +2237,7 @@ efc42693-039f-4d34-bbe3-6d103f890d14,PrivacyPillar,Functional,privacypillar-cook
 74efaf27-c262-4e9a-8bd0-9ae995865b2d,AWS Cookies Popup,Functional,aw_popup_viewed_page,,"Used in context with the website’s pop-up questionnaires and messengering.",session,AddWeb Solution,https://www.addwebsolution.com/privacy-policy,0
 c60a3ee4-9ab9-4773-bb9d-79c90e5825ff,NextAuth.js,Functional,__Secure-next-auth.callback-url,,"Used to store the callback URL which the user should be redirected to after login.",session,NextAuth.js,,0
 4153eb43-0837-4205-92c1-15060dcb1cab,NextAuth.js,Functional,__Host-next-auth.csrf-token,,"Used to help with site security in preventing Cross-Site Request Forgery attacks.",session,NextAuth.js,,0
+a1b2c3d4-e5f6-4789-a012-b3c4d5e6f789,Enzuzo,Functional,cookies-analytics,,"Used by the CMP Enzuzo to register the user's choice regarding analytics cookies.",1 year,Enzuzo,https://www.enzuzo.com/privacy-policy,0
+b2c3d4e5-f6a7-4890-b123-c4d5e6f7a890,Enzuzo,Functional,cookies-functional,,"Used by the CMP Enzuzo to register the user's choice regarding functional cookies.",1 year,Enzuzo,https://www.enzuzo.com/privacy-policy,0
+c3d4e5f6-a7b8-4901-c234-d5e6f7a8b901,Enzuzo,Functional,cookies-marketing,,"Used by the CMP Enzuzo to register the user's choice regarding marketing cookies.",1 year,Enzuzo,https://www.enzuzo.com/privacy-policy,0
+d4e5f6a7-b8c9-4012-d345-e6f7a8b9c012,Enzuzo,Functional,cookies-preferences,,"Used by the CMP Enzuzo to register the user's choice regarding preference cookies.",1 year,Enzuzo,https://www.enzuzo.com/privacy-policy,0
