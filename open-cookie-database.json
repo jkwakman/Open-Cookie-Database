@@ -25393,5 +25393,29 @@
             "privacyLink": "https://qookieqloud.com/privacy-policy",
             "wildcardMatch": "0"
         }
+    ],
+    "Awin": [
+        {
+            "id": "4efff242-8a7b-4426-ad6e-8aabb3ba5b6d",
+            "category": "Marketing",
+            "cookie": "lantern",
+            "domain": "",
+            "description": "This cookie is used by the affiliate marketing platform AWIN to store a reference to a visit to attribute a sale to marketing channels.",
+            "retentionPeriod": "Awin",
+            "dataController": "29 days",
+            "privacyLink": "https://www.awin.com/gb/privacy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "0cd3a546-59b5-4565-a181-dc0d5f0c2d17",
+            "category": "Marketing",
+            "cookie": "AwinChannelCookie",
+            "domain": "",
+            "description": "Tracks sales for bookings made via links provided by Awin.",
+            "retentionPeriod": "Awin",
+            "dataController": "29 days",
+            "privacyLink": "https://www.awin.com/gb/privacy",
+            "wildcardMatch": "0"
+        }
     ]
 }
