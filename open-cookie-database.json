@@ -25290,5 +25290,51 @@
             "privacyLink": "",
             "wildcardMatch": "0"
         }
+    ],
+    "Enzuzo": [
+        {
+            "id": "a1b2c3d4-e5f6-4789-a012-b3c4d5e6f789",
+            "category": "Functional",
+            "cookie": "cookies-analytics",
+            "domain": "",
+            "description": "Used by the CMP Enzuzo to register the user's choice regarding analytics cookies.",
+            "retentionPeriod": "365 days",
+            "dataController": "Enzuzo",
+            "privacyLink": "https://www.enzuzo.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "b2c3d4e5-f6a7-4890-b123-c4d5e6f7a890",
+            "category": "Functional",
+            "cookie": "cookies-functional",
+            "domain": "",
+            "description": "Used by the CMP Enzuzo to register the user's choice regarding functional cookies.",
+            "retentionPeriod": "365 days",
+            "dataController": "Enzuzo",
+            "privacyLink": "https://www.enzuzo.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "c3d4e5f6-a7b8-4901-c234-d5e6f7a8b901",
+            "category": "Functional",
+            "cookie": "cookies-marketing",
+            "domain": "",
+            "description": "Used by the CMP Enzuzo to register the user's choice regarding marketing cookies.",
+            "retentionPeriod": "365 days",
+            "dataController": "Enzuzo",
+            "privacyLink": "https://www.enzuzo.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "d4e5f6a7-b8c9-4012-d345-e6f7a8b9c012",
+            "category": "Functional",
+            "cookie": "cookies-preferences",
+            "domain": "",
+            "description": "Used by the CMP Enzuzo to register the user's choice regarding preference cookies.",
+            "retentionPeriod": "365 days",
+            "dataController": "Enzuzo",
+            "privacyLink": "https://www.enzuzo.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
     ]
 }
