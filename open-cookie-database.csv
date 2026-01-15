@@ -2248,3 +2248,8 @@ a85ff7d7-bc7c-4ee1-a106-50a872b16530,QookieQloud,Necessary,__cpmQQ_trackers,,Sto
 47686e93-18a8-4a28-af7e-0f33617ba46f,QookieQloud,Necessary,__cmpQQ_CookieConsent,,Stores the user's cookie consent state for the current domain,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
 4efff242-8a7b-4426-ad6e-8aabb3ba5b6d,Awin,Marketing,lantern,,"This cookie is used by the affiliate marketing platform AWIN to store a reference to a visit to attribute a sale to marketing channels.",Awin,29 days,https://www.awin.com/gb/privacy,0
 0cd3a546-59b5-4565-a181-dc0d5f0c2d17,Awin,Marketing,AwinChannelCookie,,"Tracks sales for bookings made via links provided by Awin.",Awin,29 days,https://www.awin.com/gb/privacy,0
+f7a1b2c3-d4e5-4f67-8901-234567890001,Cookie Consent,Functional,cookieconsent_status,,Stores the user's cookie consent preferences for the current domain,1 year,Website operator,,0
+f7a1b2c3-d4e5-4f67-8901-234567890002,WordPress,Functional,wordpress_test_cookie,,Checks if the user's browser accepts cookies and if the user is logged in,Session,WordPress,https://wordpress.org/about/privacy/,0
+f7a1b2c3-d4e5-4f67-8901-234567890003,WordPress,Functional,wp-settings-*,,Customizes the WordPress admin interface and site view for logged-in users. The number suffix matches the user ID in the database,1 year,WordPress,https://wordpress.org/about/privacy/,1
+f7a1b2c3-d4e5-4f67-8901-234567890004,WordPress,Functional,wp-settings-time-*,,Records the timestamp when the wp-settings cookie was set for the user,1 year,WordPress,https://wordpress.org/about/privacy/,1
+f7a1b2c3-d4e5-4f67-8901-234567890005,WordPress,Functional,wp_lang,,Stores the user's language preference in WordPress admin,Session,WordPress,https://wordpress.org/about/privacy/,0
