@@ -2248,3 +2248,18 @@ a85ff7d7-bc7c-4ee1-a106-50a872b16530,QookieQloud,Necessary,__cpmQQ_trackers,,Sto
 47686e93-18a8-4a28-af7e-0f33617ba46f,QookieQloud,Necessary,__cmpQQ_CookieConsent,,Stores the user's cookie consent state for the current domain,Local Storage,Qodli AB,https://qookieqloud.com/privacy-policy,0
 4efff242-8a7b-4426-ad6e-8aabb3ba5b6d,Awin,Marketing,lantern,,"This cookie is used by the affiliate marketing platform AWIN to store a reference to a visit to attribute a sale to marketing channels.",Awin,29 days,https://www.awin.com/gb/privacy,0
 0cd3a546-59b5-4565-a181-dc0d5f0c2d17,Awin,Marketing,AwinChannelCookie,,"Tracks sales for bookings made via links provided by Awin.",Awin,29 days,https://www.awin.com/gb/privacy,0
+c7d8e9f0-0001-4567-890a-000000000001,WordPress,Functional,wp_lang,,"Stores the user's language preference in WordPress admin panel.",Session,WordPress,https://wordpress.org/about/privacy/,0
+c7d8e9f0-0002-4567-890a-000000000002,Ruby on Rails,Necessary,_rails_session,,"Session management cookie for Ruby on Rails applications. Contains encrypted session data.",Session,Ruby on Rails,https://guides.rubyonrails.org/security.html,0
+c7d8e9f0-0003-4567-890a-000000000003,Devise (Ruby on Rails),Functional,remember_user_token,,"Remember me functionality for Devise authentication gem in Rails applications.",2 weeks,Ruby on Rails,https://github.com/heartcombo/devise,0
+c7d8e9f0-0004-4567-890a-000000000004,NextAuth.js,Necessary,next-auth.,,"Authentication session cookies for NextAuth.js (Auth.js) - popular authentication library for Next.js.",Session to 30 days,NextAuth.js,https://authjs.dev/,1
+c7d8e9f0-0005-4567-890a-000000000005,Next.js,Functional,__next_,,"Next.js framework cookies for routing and user preferences.",Varies,Vercel,https://nextjs.org/docs,1
+c7d8e9f0-0006-4567-890a-000000000006,Supabase,Necessary,sb-,,"Supabase authentication and session management cookies.",1 week to 1 year,Supabase,https://supabase.com/privacy,1
+c7d8e9f0-0007-4567-890a-000000000007,Clerk,Necessary,clerk_,,"Clerk authentication service session and user management cookies.",Varies,Clerk,https://clerk.com/privacy,1
+c7d8e9f0-0008-4567-890a-000000000008,Crisp,Functional,crisp-client/,,"Crisp live chat widget session and preferences cookies.",6 months,Crisp IM SAS,https://crisp.chat/en/privacy/,1
+c7d8e9f0-0009-4567-890a-000000000009,Drift,Functional,drift_,,"Drift conversational marketing platform chat widget cookies.",2 years,Drift.com,https://www.drift.com/privacy-policy/,1
+c7d8e9f0-0010-4567-890a-000000000010,Tawk.to,Functional,tawk_,,"Tawk.to free live chat widget session and visitor identification cookies.",6 months,tawk.to,https://www.tawk.to/privacy-policy/,1
+c7d8e9f0-0011-4567-890a-000000000011,LiveChat,Functional,lc_,,"LiveChat customer service platform widget session and visitor tracking cookies.",3 years,LiveChat Inc,https://www.livechat.com/legal/privacy-policy/,1
+c7d8e9f0-0012-4567-890a-000000000012,Plausible Analytics,Analytics,plausible_,,"Privacy-friendly web analytics. Does not use cookies by default but may store preferences if enabled.",Varies,Plausible Insights OÜ,https://plausible.io/privacy,1
+c7d8e9f0-0013-4567-890a-000000000013,Fathom Analytics,Analytics,_fathom,,"Privacy-focused simple website analytics with minimal data collection.",Varies,Conva Ventures Inc,https://usefathom.com/privacy,1
+c7d8e9f0-0014-4567-890a-000000000014,Umami,Analytics,umami.,,"Open-source privacy-friendly web analytics alternative.",Varies,Website operator,https://umami.is/docs/about,1
+c7d8e9f0-0015-4567-890a-000000000015,Vercel,Functional,_vercel_,,"Vercel platform cookies for deployment previews and analytics.",Varies,Vercel Inc,https://vercel.com/legal/privacy-policy,1
