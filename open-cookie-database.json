@@ -656,17 +656,6 @@
             "wildcardMatch": "0"
         },
         {
-            "id": "b37e458d-66fe-4e5d-bc02-1fe1810ebdc5",
-            "category": "Functional",
-            "cookie": "django_language",
-            "domain": "developers.google.com",
-            "description": "Cookie necessary for the use of the options and services of the website.",
-            "retentionPeriod": "3 month",
-            "dataController": "Google",
-            "privacyLink": "https://business.safety.google/privacy/",
-            "wildcardMatch": "0"
-        },
-        {
             "id": "37094191-e791-4f82-8c82-9ffda7296119",
             "category": "Marketing",
             "cookie": "GN_PREF",
@@ -1419,6 +1408,19 @@
             "retentionPeriod": "2 months",
             "dataController": "Google",
             "privacyLink": "https://business.safety.google/privacy/",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Django": [
+        {
+            "id": "b37e458d-66fe-4e5d-bc02-1fe1810ebdc5",
+            "category": "Functional",
+            "cookie": "django_language",
+            "domain": "",
+            "description": "Stores the user's language preference in Django web applications.",
+            "retentionPeriod": "Session",
+            "dataController": "Django",
+            "privacyLink": "https://docs.djangoproject.com/en/stable/topics/i18n/",
             "wildcardMatch": "0"
         }
     ],
