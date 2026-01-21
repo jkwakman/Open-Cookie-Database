@@ -14733,6 +14733,17 @@
             "dataController": "WordPress",
             "privacyLink": "https://wordpress.org/about/privacy/",
             "wildcardMatch": "1"
+        },
+        {
+            "id": "c7d8e9f0-0001-4567-890a-000000000001",
+            "category": "Functional",
+            "cookie": "wp_lang",
+            "domain": "",
+            "description": "Stores the user's language preference in WordPress admin panel.",
+            "retentionPeriod": "Session",
+            "dataController": "WordPress",
+            "privacyLink": "https://wordpress.org/about/privacy/",
+            "wildcardMatch": "0"
         }
     ],
     "Cookie First": [
@@ -25289,6 +25300,17 @@
             "dataController": "NextAuth.js",
             "privacyLink": "",
             "wildcardMatch": "0"
+        },
+        {
+            "id": "c7d8e9f0-0004-4567-890a-000000000004",
+            "category": "Necessary",
+            "cookie": "next-auth.",
+            "domain": "",
+            "description": "Authentication session cookies for NextAuth.js (Auth.js) - popular authentication library for Next.js.",
+            "retentionPeriod": "Session to 30 days",
+            "dataController": "NextAuth.js",
+            "privacyLink": "https://authjs.dev/",
+            "wildcardMatch": "1"
         }
     ],
     "Enzuzo": [
@@ -25416,6 +25438,175 @@
             "dataController": "29 days",
             "privacyLink": "https://www.awin.com/gb/privacy",
             "wildcardMatch": "0"
+        }
+    ],
+    "Ruby on Rails": [
+        {
+            "id": "c7d8e9f0-0002-4567-890a-000000000002",
+            "category": "Necessary",
+            "cookie": "_rails_session",
+            "domain": "",
+            "description": "Session management cookie for Ruby on Rails applications. Contains encrypted session data.",
+            "retentionPeriod": "Session",
+            "dataController": "Ruby on Rails",
+            "privacyLink": "https://guides.rubyonrails.org/security.html",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Devise (Ruby on Rails)": [
+        {
+            "id": "c7d8e9f0-0003-4567-890a-000000000003",
+            "category": "Functional",
+            "cookie": "remember_user_token",
+            "domain": "",
+            "description": "Remember me functionality for Devise authentication gem in Rails applications.",
+            "retentionPeriod": "2 weeks",
+            "dataController": "Ruby on Rails",
+            "privacyLink": "https://github.com/heartcombo/devise",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Next.js": [
+        {
+            "id": "c7d8e9f0-0005-4567-890a-000000000005",
+            "category": "Functional",
+            "cookie": "__next_",
+            "domain": "",
+            "description": "Next.js framework cookies for routing and user preferences.",
+            "retentionPeriod": "Varies",
+            "dataController": "Vercel",
+            "privacyLink": "https://nextjs.org/docs",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Supabase": [
+        {
+            "id": "c7d8e9f0-0006-4567-890a-000000000006",
+            "category": "Necessary",
+            "cookie": "sb-",
+            "domain": "",
+            "description": "Supabase authentication and session management cookies.",
+            "retentionPeriod": "1 week to 1 year",
+            "dataController": "Supabase",
+            "privacyLink": "https://supabase.com/privacy",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Clerk": [
+        {
+            "id": "c7d8e9f0-0007-4567-890a-000000000007",
+            "category": "Necessary",
+            "cookie": "clerk_",
+            "domain": "",
+            "description": "Clerk authentication service session and user management cookies.",
+            "retentionPeriod": "Varies",
+            "dataController": "Clerk",
+            "privacyLink": "https://clerk.com/privacy",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Crisp": [
+        {
+            "id": "c7d8e9f0-0008-4567-890a-000000000008",
+            "category": "Functional",
+            "cookie": "crisp-client/",
+            "domain": "",
+            "description": "Crisp live chat widget session and preferences cookies.",
+            "retentionPeriod": "6 months",
+            "dataController": "Crisp IM SAS",
+            "privacyLink": "https://crisp.chat/en/privacy/",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Drift": [
+        {
+            "id": "c7d8e9f0-0009-4567-890a-000000000009",
+            "category": "Functional",
+            "cookie": "drift_",
+            "domain": "",
+            "description": "Drift conversational marketing platform chat widget cookies.",
+            "retentionPeriod": "2 years",
+            "dataController": "Drift.com",
+            "privacyLink": "https://www.drift.com/privacy-policy/",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Tawk.to": [
+        {
+            "id": "c7d8e9f0-0010-4567-890a-000000000010",
+            "category": "Functional",
+            "cookie": "tawk_",
+            "domain": "",
+            "description": "Tawk.to free live chat widget session and visitor identification cookies.",
+            "retentionPeriod": "6 months",
+            "dataController": "tawk.to",
+            "privacyLink": "https://www.tawk.to/privacy-policy/",
+            "wildcardMatch": "1"
+        }
+    ],
+    "LiveChat": [
+        {
+            "id": "c7d8e9f0-0011-4567-890a-000000000011",
+            "category": "Functional",
+            "cookie": "lc_",
+            "domain": "",
+            "description": "LiveChat customer service platform widget session and visitor tracking cookies.",
+            "retentionPeriod": "3 years",
+            "dataController": "LiveChat Inc",
+            "privacyLink": "https://www.livechat.com/legal/privacy-policy/",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Plausible Analytics": [
+        {
+            "id": "c7d8e9f0-0012-4567-890a-000000000012",
+            "category": "Analytics",
+            "cookie": "plausible_",
+            "domain": "",
+            "description": "Privacy-friendly web analytics. Does not use cookies by default but may store preferences if enabled.",
+            "retentionPeriod": "Varies",
+            "dataController": "Plausible Insights OÜ",
+            "privacyLink": "https://plausible.io/privacy",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Fathom Analytics": [
+        {
+            "id": "c7d8e9f0-0013-4567-890a-000000000013",
+            "category": "Analytics",
+            "cookie": "_fathom",
+            "domain": "",
+            "description": "Privacy-focused simple website analytics with minimal data collection.",
+            "retentionPeriod": "Varies",
+            "dataController": "Conva Ventures Inc",
+            "privacyLink": "https://usefathom.com/privacy",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Umami": [
+        {
+            "id": "c7d8e9f0-0014-4567-890a-000000000014",
+            "category": "Analytics",
+            "cookie": "umami.",
+            "domain": "",
+            "description": "Open-source privacy-friendly web analytics alternative.",
+            "retentionPeriod": "Varies",
+            "dataController": "Website operator",
+            "privacyLink": "https://umami.is/docs/about",
+            "wildcardMatch": "1"
+        }
+    ],
+    "Vercel": [
+        {
+            "id": "c7d8e9f0-0015-4567-890a-000000000015",
+            "category": "Functional",
+            "cookie": "_vercel_",
+            "domain": "",
+            "description": "Vercel platform cookies for deployment previews and analytics.",
+            "retentionPeriod": "Varies",
+            "dataController": "Vercel Inc",
+            "privacyLink": "https://vercel.com/legal/privacy-policy",
+            "wildcardMatch": "1"
         }
     ]
 }
