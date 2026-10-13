@@ -25634,5 +25634,130 @@
             "privacyLink": "https://kompare.io/cookies",
             "wildcardMatch": "0"
         }
+    ],
+    "Personyze": [
+        {
+            "id": "c967cf88-d13b-4e7d-b2ab-c7e33a788a39",
+            "category": "Personalization",
+            "cookie": "stat_track_u_id",
+            "domain": "",
+            "description": "Anonymous visitor ID used by Personyze to recognise a returning visitor for website personalization and A/B test assignment. Set as a first-party cookie on the visited website by the Personyze tag; also mirrored in localStorage.",
+            "retentionPeriod": "2 years",
+            "dataController": "Personyze (processor for the website operator)",
+            "privacyLink": "https://www.personyze.com/personyze-privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "0ceb67ac-836c-4e46-b54e-66df3358ecfc",
+            "category": "Personalization",
+            "cookie": "_stat_track_s_id",
+            "domain": "",
+            "description": "Personyze session ID that bounds a single browsing session. Set as a first-party cookie on the visited website; also mirrored in localStorage.",
+            "retentionPeriod": "Session",
+            "dataController": "Personyze (processor for the website operator)",
+            "privacyLink": "https://www.personyze.com/personyze-privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "14bb7cdc-4df2-43a9-b974-e236cad96680",
+            "category": "Personalization",
+            "cookie": "stat_track_sessions",
+            "domain": "",
+            "description": "Stores the start times of the visitor's recent sessions, used by Personyze for recency-based targeting. First-party cookie on the visited website; also mirrored in localStorage.",
+            "retentionPeriod": "2 years",
+            "dataController": "Personyze (processor for the website operator)",
+            "privacyLink": "https://www.personyze.com/personyze-privacy-policy/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "ad99ab77-400d-4124-b6eb-41b141c75900",
+            "category": "Functional",
+            "cookie": "stat_track_off",
+            "domain": "",
+            "description": "Set only for a visitor who opts out of Personyze tracking (value off=1), so tracking stays off on later page views. First-party cookie on the visited website.",
+            "retentionPeriod": "2 years",
+            "dataController": "Personyze (processor for the website operator)",
+            "privacyLink": "https://www.personyze.com/personyze-privacy-policy/",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Wisepops": [
+        {
+            "id": "607c7ee6-3751-41b1-a775-1c42ce1673b2",
+            "category": "Marketing",
+            "cookie": "wisepops_session",
+            "domain": "",
+            "description": "Stores data during the session to define the context in which the pop-ups are displayed to the visitor: date of browsing, pop-ups seen during session, number of pages seen during session.",
+            "retentionPeriod": "session",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "66a597a1-55cd-477e-a696-287243e081f1",
+            "category": "Marketing",
+            "cookie": "wisepops_visitor",
+            "domain": "",
+            "description": "Assigns data (collected via Wisepops' cookies: history of pages viewed, pop-ups/notifications history, last connection to the Client website) issued from several devices to a single visitor.",
+            "retentionPeriod": "750 days",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "805c9e04-0aee-448b-927e-7abe7a552752",
+            "category": "Functional",
+            "cookie": "wisepops_noshow",
+            "domain": "",
+            "description": "Disables Wisepops Services when a visitor clicks 'Don't show pop-ups again'",
+            "retentionPeriod": "2 years",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "b57943b3-4dd4-485b-b1f7-9715b04bb9be",
+            "category": "Functional",
+            "cookie": "wisepops_props",
+            "domain": "",
+            "description": "Stores custom properties across sessions (shopping cart composition, purchase history) to define the context in which the pop-ups are displayed.",
+            "retentionPeriod": "2 years",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "fb827308-e958-4b1a-b0a8-38f1d2e65e38",
+            "category": "Functional",
+            "cookie": "wisepops_visits",
+            "domain": "",
+            "description": "Stores the last 10 visit dates.",
+            "retentionPeriod": "2 years",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "d32d5470-83b7-471d-b417-780589aa121c",
+            "category": "Functional",
+            "cookie": "wisepops_tld",
+            "domain": "",
+            "description": "Tests the support for cross-subdomains cookie storage.",
+            "retentionPeriod": "session",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "f5412e5b-a4b4-435c-b736-3ffbcecb588d",
+            "category": "Marketing",
+            "cookie": "wisepops",
+            "domain": "",
+            "description": "Stores persistent data to align the visitor's experience with the pop-ups that are displayed to him/her: 1. History of pop-ups displayed to the visitor in order to avoid displaying the same pop-up. 2. Information that the visitor's email has already been collected to avoid asking him/her again.",
+            "retentionPeriod": "2 years",
+            "dataController": "Wisepops",
+            "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
     ]
 }
