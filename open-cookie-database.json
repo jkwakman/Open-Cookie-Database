@@ -25326,6 +25326,50 @@
             "wildcardMatch": "0"
         },
         {
+            "id": "2d1df342-476f-4493-8732-1052d67ec9d7",
+            "category": "Functional",
+            "cookie": "authjs.",
+            "domain": "",
+            "description": "Authentication, session and sign-in flow cookies for Auth.js v5 (formerly NextAuth.js), e.g. authjs.session-token, authjs.csrf-token, authjs.callback-url, authjs.pkce.code_verifier, authjs.state and authjs.nonce.",
+            "retentionPeriod": "Session to 30 days",
+            "dataController": "NextAuth.js",
+            "privacyLink": "https://authjs.dev/",
+            "wildcardMatch": "1"
+        },
+        {
+            "id": "7ae234e0-8653-40e7-b707-9c393930faa4",
+            "category": "Functional",
+            "cookie": "__Secure-authjs.session-token",
+            "domain": "",
+            "description": "Holds the signed-in user's session (Auth.js v5, formerly NextAuth.js), set with the __Secure- prefix on HTTPS sites.",
+            "retentionPeriod": "30 days",
+            "dataController": "NextAuth.js",
+            "privacyLink": "https://authjs.dev/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "c8f9f380-24af-46b3-a42a-ca2cddcfd551",
+            "category": "Functional",
+            "cookie": "__Secure-authjs.callback-url",
+            "domain": "",
+            "description": "Used to store the callback URL which the user should be redirected to after login (Auth.js v5, formerly NextAuth.js).",
+            "retentionPeriod": "session",
+            "dataController": "NextAuth.js",
+            "privacyLink": "https://authjs.dev/",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "21cc4588-4ee2-442b-a6a6-bf2fe6d16349",
+            "category": "Functional",
+            "cookie": "__Host-authjs.csrf-token",
+            "domain": "",
+            "description": "Used to help with site security in preventing Cross-Site Request Forgery attacks (Auth.js v5, formerly NextAuth.js).",
+            "retentionPeriod": "session",
+            "dataController": "NextAuth.js",
+            "privacyLink": "https://authjs.dev/",
+            "wildcardMatch": "0"
+        },
+        {
             "id": "c7d8e9f0-0004-4567-890a-000000000004",
             "category": "Necessary",
             "cookie": "next-auth.",
@@ -25779,6 +25823,52 @@
             "retentionPeriod": "2 years",
             "dataController": "Wisepops",
             "privacyLink": "https://wisepops.com/privacy-policy",
+            "wildcardMatch": "0"
+        }
+    ],
+    "Hazelchat": [
+        {
+            "id": "0d695183-9d45-406b-9756-397b3403d3f5",
+            "category": "Functional",
+            "cookie": "hazelchat-chat:",
+            "domain": "app.hazelchat.co",
+            "description": "Session storage of the Hazelchat chat window (iframe from app.hazelchat.co). After the visitor's first message it keeps a reference to the conversation (its id, access key, expiry and website; no message content), so the chat continues on the next page in the same tab. The suffix is the website's chat key.",
+            "retentionPeriod": "Session (at most 24 hours)",
+            "dataController": "Hazelchat",
+            "privacyLink": "https://hazelchat.co/privacy/#section-4",
+            "wildcardMatch": "1"
+        },
+        {
+            "id": "6bf266bd-0fe0-4962-99ad-8b634de5e615",
+            "category": "Functional",
+            "cookie": "hazelchat-forget",
+            "domain": "",
+            "description": "Session storage flag without an identifier, set by the Hazelchat chat widget when the website's cookie banner refuses or withdraws consent, so that the next chat window forgets the conversation.",
+            "retentionPeriod": "Session",
+            "dataController": "Hazelchat",
+            "privacyLink": "https://hazelchat.co/privacy/#section-4",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "c2de82c9-9164-493e-bff6-0960300b9090",
+            "category": "Functional",
+            "cookie": "hazelchat-visited",
+            "domain": "",
+            "description": "Session storage flag without an identifier, set by the Hazelchat chat widget only when the website uses opener messages: a page of the website was viewed in this tab.",
+            "retentionPeriod": "Session",
+            "dataController": "Hazelchat",
+            "privacyLink": "https://hazelchat.co/privacy/#section-4",
+            "wildcardMatch": "0"
+        },
+        {
+            "id": "fda77d46-5cf8-4f87-9365-2951f3eeb4bd",
+            "category": "Functional",
+            "cookie": "hazelchat-opener-shown",
+            "domain": "",
+            "description": "Session storage flag without an identifier, set by the Hazelchat chat widget only when the website uses opener messages: which opener message was already shown, so that it appears at most once per tab.",
+            "retentionPeriod": "Session",
+            "dataController": "Hazelchat",
+            "privacyLink": "https://hazelchat.co/privacy/#section-4",
             "wildcardMatch": "0"
         }
     ],
